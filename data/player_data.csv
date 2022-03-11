@@ -1,0 +1,301 @@
+﻿,ID,Name,Age,Position,Nationality,Overall,Potential,Club,Value,Wage
+0,264240,Pablo Martín Páez Gavira,16,<built-in method split of str object at 0x0000023ED3AF4870>,Spain,76,88,FC Barcelona,€17M,€14K
+0,256268,Armando Broja,19,<built-in method split of str object at 0x0000023EC9A591F0>,Albania,76,88,Southampton,€18M,€53K
+0,238074,Reece James,21,<built-in method split of str object at 0x0000023ECD89DCF0>,England,83,87,Chelsea,€49.5M,€90K
+0,258906,Wilfried Gnonto,17,<built-in method split of str object at 0x0000023ECD89D6F0>,Italy,64,83,FC Zürich,€1.5M,€950
+0,212190,Niklas Süle,25,<built-in method split of str object at 0x0000023ECDB7AD30>,Germany,84,86,FC Bayern München,€47M,€95K
+0,242916,Yukinari Sugawara,21,<built-in method split of str object at 0x0000023ECDB7A670>,Japan,74,82,AZ Alkmaar,€9M,€7K
+0,242516,Cody Gakpo,22,<built-in method split of str object at 0x0000023ECDB7AF70>,Netherlands,80,86,PSV,€34M,€21K
+0,236403,Evan Ndicka,21,<built-in method split of str object at 0x0000023ED3126A70>,France,80,85,Eintracht Frankfurt,€29.5M,€23K
+0,255069,Nicolás González Iglesias,19,<built-in method split of str object at 0x0000023ED31264B0>,Spain,75,85,FC Barcelona,€12M,€55K
+0,246139,Ignacio Peña Sotorres,22,<built-in method split of str object at 0x0000023ED3116BF0>,Spain,70,79,Galatasaray SK,€3.1M,€34K
+0,206113,Serge Gnabry,25,<built-in method split of str object at 0x0000023ED3116F70>,Germany,86,86,FC Bayern München,€75.5M,€120K
+0,251804,Sergiño Dest,20,<built-in method split of str object at 0x0000023ED3116430>,United States,77,84,FC Barcelona,€20M,€71K
+0,247819,Nico Schlotterbeck,21,<built-in method split of str object at 0x0000023ED31339F0>,Germany,78,85,Sport-Club Freiburg,€26.5M,€20K
+0,258942,Octavian Popescu,18,<built-in method split of str object at 0x0000023ED31337F0>,Romania,72,86,FCSB (Steaua),€5.5M,€6K
+0,237679,Randal Kolo Muani,22,<built-in method split of str object at 0x0000023ED3133E70>,France,77,84,FC Nantes,€21.5M,€26K
+0,236401,Noussair Mazraoui,23,<built-in method split of str object at 0x0000023ED3133C30>,Morocco,82,86,Ajax,€40.5M,€20K
+0,253149,Jeremie Frimpong,20,<built-in method split of str object at 0x0000023ED3148C70>,Netherlands,78,85,Bayer 04 Leverkusen,€26.5M,€33K
+0,165153,Karim Benzema,33,<built-in method split of str object at 0x0000023ED3148630>,France,91,91,Real Madrid CF,€84M,€450K
+0,251517,Joško Gvardiol,19,<built-in method split of str object at 0x0000023ED3A81770>,Croatia,78,89,RB Leipzig,€28.5M,€32K
+0,258580,Kerem Aktürkoğlu,22,<built-in method split of str object at 0x0000023ED3A81130>,Turkey,73,80,Galatasaray SK,€6M,€35K
+0,262138,Castello Lukeba,18,<built-in method split of str object at 0x0000023EC9C11D30>,France,72,84,Olympique Lyonnais,€5M,€10K
+0,246430,Dušan Vlahović,21,<built-in method split of str object at 0x0000023ED3A83EF0>,Serbia,82,89,Juventus,€62.5M,€78K
+0,189242,Philippe Coutinho Correia,29,<built-in method split of str object at 0x0000023ED3A834F0>,Brazil,82,82,Aston Villa,€30M,€165K
+0,153244,André-Pierre Gignac,35,<built-in method split of str object at 0x0000023ED3A83AF0>,France,81,81,Tigres U.A.N.L.,€11M,€50K
+0,158023,Lionel Messi,34,<built-in method split of str object at 0x0000023ED3A67C70>,Argentina,93,93,Paris Saint-Germain,€78M,€320K
+0,257470,Anthony Elanga,19,<built-in method split of str object at 0x0000023ED3A674F0>,Sweden,70,85,Manchester United,€3.8M,€27K
+0,263781,Vanderson de Oliveira Campos,20,<built-in method split of str object at 0x0000023ED3A67EB0>,Brazil,73,82,AS Monaco,€6.5M,€23K
+0,231969,Ruslan Malinovskyi,28,<built-in method split of str object at 0x0000023ED3A5D0B0>,Ukraine,81,81,Atalanta,€26.5M,€68K
+0,213956,Adama Traoré Diarra,25,<built-in method split of str object at 0x0000023ED3A5D2B0>,Spain,79,80,FC Barcelona,€21M,€87K
+0,201535,Raphaël Varane,28,<built-in method split of str object at 0x0000023ED3A5DC70>,France,85,87,Manchester United,€54.5M,€170K
+0,245155,Mohammed Kudus,20,<built-in method split of str object at 0x0000023ED3A6A270>,Ghana,76,84,Ajax,€16.5M,€12K
+0,188545,Robert Lewandowski,32,<built-in method split of str object at 0x0000023ED3A6A4B0>,Poland,92,92,FC Bayern München,€119.5M,€270K
+0,261360,Noah Mbamba,16,<built-in method split of str object at 0x0000023ED3A6A830>,Belgium,64,88,Club Brugge KV,€1.7M,€500
+0,187924,Clément Grenier,30,<built-in method split of str object at 0x0000023ED3A79A30>,France,75,75,RCD Mallorca,€5.5M,€24K
+0,241788,Mehdi Taremi,28,<built-in method split of str object at 0x0000023ED3A79030>,Iran,80,80,FC Porto,€21.5M,€20K
+0,146530,Daniel Alves da Silva,38,<built-in method split of str object at 0x0000023ED3A795B0>,Brazil,77,77,FC Barcelona,€2.3M,€71K
+0,229880,Aaron Wan-Bissaka,23,<built-in method split of str object at 0x0000023ED3A79630>,England,81,84,Manchester United,€32.5M,€95K
+0,235790,Kai Havertz,22,<built-in method split of str object at 0x0000023ED312C530>,Germany,84,91,Chelsea,€85.5M,€130K
+0,247851,Bruno Guimarães Moura,23,<built-in method split of str object at 0x0000023ED312C4F0>,Brazil,80,85,Newcastle United,€29M,€39K
+0,231747,Kylian Mbappé,22,<built-in method split of str object at 0x0000023ED312C270>,France,91,95,Paris Saint-Germain,€194M,€230K
+0,254796,Noni Madueke,19,<built-in method split of str object at 0x0000023ED2DD0170>,England,77,88,PSV,€23M,€11K
+0,20801,C. Ronaldo dos Santos Aveiro,36,<built-in method split of str object at 0x0000023ED2DD0CF0>,Portugal,91,91,Manchester United,€45M,€270K
+0,243245,Orkun Kökçü,20,<built-in method split of str object at 0x0000023ED3139D70>,Turkey,78,85,Feyenoord,€27.5M,€10K
+0,240243,Matheus Santos Carneiro Da Cunha,22,<built-in method split of str object at 0x0000023ED3139970>,Brazil,79,85,Atlético de Madrid,€28.5M,€53K
+0,237086,Min Jae Kim,24,<built-in method split of str object at 0x0000023ED2DCE730>,Korea Republic,76,83,Fenerbahçe SK,€14M,€34K
+0,240740,Callum Hudson-Odoi,20,<built-in method split of str object at 0x0000023ED2DCEA70>,England,78,86,Chelsea,€31M,€77K
+0,253072,Darwin Núñez,22,<built-in method split of str object at 0x0000023ED2DC1930>,Uruguay,77,85,SL Benfica,€24M,€14K
+0,190264,Iago Falqué Silva,31,<built-in method split of str object at 0x0000023ED2DC1770>,Spain,75,75,América de Cali,€4.7M,€5K
+0,202648,Sergi Darder Moll,27,<built-in method split of str object at 0x0000023ED2DC13B0>,Spain,80,80,RCD Espanyol de Barcelona,€22.5M,€25K
+0,228702,Frenkie de Jong,24,<built-in method split of str object at 0x0000023ED2DCB430>,Netherlands,87,92,FC Barcelona,€119.5M,€210K
+0,230621,Gianluigi Donnarumma,22,<built-in method split of str object at 0x0000023ED2DCB670>,Italy,89,93,Paris Saint-Germain,€119.5M,€110K
+0,238794,Vinícius José de Oliveira Júnior,20,<built-in method split of str object at 0x0000023ED2DCB770>,Brazil,84,91,Real Madrid CF,€83.5M,€165K
+0,190871,Neymar da Silva Santos Jr.,29,<built-in method split of str object at 0x0000023ED2DCB3F0>,Brazil,91,91,Paris Saint-Germain,€129M,€270K
+0,222492,Leroy Sané,25,<built-in method split of str object at 0x0000023ED2DC42B0>,Germany,86,87,FC Bayern München,€81M,€120K
+0,232938,Takehiro Tomiyasu,22,<built-in method split of str object at 0x0000023ED2DC44F0>,Japan,78,85,Arsenal,€27M,€59K
+0,241461,Ferran Torres García,21,<built-in method split of str object at 0x0000023ED2DC4EF0>,Spain,82,90,FC Barcelona,€68.5M,€130K
+0,246646,Maxence Caqueret,21,<built-in method split of str object at 0x0000023ED2DC43B0>,France,79,85,Olympique Lyonnais,€26M,€43K
+0,248243,Eduardo Camavinga,18,<built-in method split of str object at 0x0000023ED2DA0330>,France,78,89,Real Madrid CF,€29.5M,€44K
+0,177003,Luka Modrić,35,<built-in method split of str object at 0x0000023ED2DA0CB0>,Croatia,87,87,Real Madrid CF,€32M,€190K
+0,243952,Andriy Lunin,22,<built-in method split of str object at 0x0000023ED2DA0130>,Ukraine,74,84,Real Madrid CF,€8M,€59K
+0,197445,David Alaba,29,<built-in method split of str object at 0x0000023ED2DC4D30>,Austria,85,85,Real Madrid CF,€45M,€210K
+0,224411,Gonçalo Manuel Ganchinho Guedes,24,<built-in method split of str object at 0x0000023ECEED6930>,Portugal,81,86,Valencia CF,€39.5M,€43K
+0,245211,Jordan Teze,21,<built-in method split of str object at 0x0000023EC9A915F0>,Netherlands,75,81,PSV,€8.5M,€11K
+0,246669,Bukayo Saka,19,<built-in method split of str object at 0x0000023EC9A91270>,England,81,88,Arsenal,€50M,€53K
+0,205452,Antonio Rüdiger,28,<built-in method split of str object at 0x0000023EC9A91470>,Germany,85,86,Chelsea,€51M,€155K
+0,208722,Sadio Mané,29,<built-in method split of str object at 0x0000023EC9A91670>,Senegal,89,89,Liverpool,€101M,€270K
+0,224232,Nicolò Barella,24,<built-in method split of str object at 0x0000023ECED7C7B0>,Italy,85,89,Inter,€77M,€130K
+0,241637,Aurélien Tchouaméni,21,<built-in method split of str object at 0x0000023ECED7C530>,France,81,88,AS Monaco,€52M,€46K
+0,241721,Rafael da Conceição Leão,22,<built-in method split of str object at 0x0000023ECED7CBF0>,Portugal,81,89,AC Milan,€58M,€48K
+0,241811,Sergio Gómez Martín,20,<built-in method split of str object at 0x0000023ECED7CE70>,Spain,72,81,RSC Anderlecht,€4.9M,€11K
+0,246923,Jacob Ramsey,20,<built-in method split of str object at 0x0000023ECED7C1F0>,England,71,85,Aston Villa,€4.5M,€26K
+0,247204,Emerson Leite De Souza,22,<built-in method split of str object at 0x0000023ED2999AB0>,Brazil,78,82,Tottenham Hotspur,€19M,€63K
+0,264432,Abdessamad Ezzalzouli,19,<built-in method split of str object at 0x0000023ECD4F6BB0>,Morocco,70,83,FC Barcelona,€3.8M,€37K
+0,231836,Jesper Karlsson,22,<built-in method split of str object at 0x0000023ED2999E70>,Sweden,77,84,AZ Alkmaar,€21.5M,€12K
+0,242444,João Félix Sequeira,21,<built-in method split of str object at 0x0000023ED29996F0>,Portugal,83,91,Atlético de Madrid,€82M,€61K
+0,243812,Rodrygo Silva de Goes,20,<built-in method split of str object at 0x0000023ED2999330>,Brazil,79,88,Real Madrid CF,€38.5M,€115K
+0,245741,Jesper Lindstrøm,21,<built-in method split of str object at 0x0000023ED29990B0>,Denmark,75,84,Eintracht Frankfurt,€12.5M,€19K
+0,247090,Enzo Fernández,20,<built-in method split of str object at 0x0000023ED2999F30>,Argentina,75,85,River Plate,€12.5M,€12K
+0,253163,Ronald Araujo,22,<built-in method split of str object at 0x0000023ED2999F70>,Uruguay,81,88,FC Barcelona,€48.5M,€115K
+0,255253,Vítor Machado Ferreira,21,<built-in method split of str object at 0x0000023ECED27D70>,Portugal,75,86,FC Porto,€12.5M,€10K
+0,262118,Tino Livramento,18,<built-in method split of str object at 0x0000023ECED27070>,England,71,85,Southampton,€4.2M,€8K
+0,223334,Joelinton Apolinário de Lira,24,<built-in method split of str object at 0x0000023ECED82CB0>,Brazil,74,79,Newcastle United,€6.5M,€29K
+0,230767,Renato Júnior Luz Sanches,23,<built-in method split of str object at 0x0000023ECED821B0>,Portugal,80,86,LOSC Lille,€33M,€38K
+0,233260,Alexis Vega,23,<built-in method split of str object at 0x0000023ECED82970>,Mexico,76,82,Club Deportivo Guadalajara,€12M,€42K
+0,243559,Jorge de Frutos Sebastián,24,<built-in method split of str object at 0x0000023EC99ACE30>,Spain,79,82,Levante Unión Deportiva,€24M,€29K
+0,251805,Jurriën Timber,20,<built-in method split of str object at 0x0000023EC99AC770>,Netherlands,79,88,Ajax,€36M,€13K
+0,251852,Karim Adeyemi,19,<built-in method split of str object at 0x0000023EC99AC2B0>,Germany,74,87,FC Red Bull Salzburg,€10M,€16K
+0,193041,Keylor Navas,34,<built-in method split of str object at 0x0000023EC99AC1B0>,Costa Rica,88,88,Paris Saint-Germain,€15.5M,€130K
+0,226753,André Onana,25,<built-in method split of str object at 0x0000023ECD99AE30>,Cameroon,82,85,Ajax,€31M,€17K
+0,230918,Trevoh Chalobah,21,<built-in method split of str object at 0x0000023ECD99A4F0>,England,76,82,Chelsea,€11M,€53K
+0,231281,Trent Alexander-Arnold,22,<built-in method split of str object at 0x0000023ECD99ADB0>,England,87,90,Liverpool,€102.5M,€150K
+0,233500,Luis Sinisterra,22,<built-in method split of str object at 0x0000023ECD99A6B0>,Colombia,78,84,Feyenoord,€22.5M,€13K
+0,245037,Eric García Martret,20,<built-in method split of str object at 0x0000023ED105B5B0>,Spain,78,85,FC Barcelona,€26M,€76K
+0,246104,Ryan Gravenberch,19,<built-in method split of str object at 0x0000023ED105BB70>,Netherlands,78,90,Ajax,€33M,€11K
+0,257179,Gonçalo Bernardo Inácio,19,<built-in method split of str object at 0x0000023ED105BFB0>,Portugal,78,87,Sporting CP,€28.5M,€8K
+0,159145,Bafétimbi Gomis,35,<built-in method split of str object at 0x0000023ECFED7370>,France,78,78,Galatasaray SK,€6M,€47K
+0,209331,Mohamed Salah,29,<built-in method split of str object at 0x0000023EC9D69670>,Egypt,91,91,Liverpool,€129M,€350K
+0,222665,Martin Ødegaard,22,<built-in method split of str object at 0x0000023EC9D697B0>,Norway,83,89,Arsenal,€58.5M,€95K
+0,231448,Reiss Nelson,21,<built-in method split of str object at 0x0000023EC9D695F0>,England,72,79,Feyenoord,€4.8M,€39K
+0,231677,Marcus Rashford,23,<built-in method split of str object at 0x0000023ECEDA2230>,England,83,87,Manchester United,€52M,€125K
+0,234112,Domilson Cordeiro dos Santos,22,<built-in method split of str object at 0x0000023ECEDA24B0>,Brazil,75,84,Shakhtar Donetsk,€12M,€800
+0,256287,Facundo Farías,18,<built-in method split of str object at 0x0000023ECEDA2C70>,Argentina,74,86,Club Atlético Colón,€10M,€6K
+0,256781,Luca Netz,18,<built-in method split of str object at 0x0000023ECEDA2A30>,Germany,71,85,Borussia Mönchengladbach,€4.2M,€5K
+0,256790,Jamal Musiala,18,<built-in method split of str object at 0x0000023ECEDA2530>,Germany,78,89,FC Bayern München,€29.5M,€23K
+0,176676,Marcelo Vieira da Silva,33,<built-in method split of str object at 0x0000023EC9EEE330>,Brazil,80,80,Real Madrid CF,€11M,€135K
+0,213661,Andreas Christensen,25,<built-in method split of str object at 0x0000023EC9EEEF70>,Denmark,82,86,Chelsea,€38M,€110K
+0,220834,Marco Asensio Willemsen,25,<built-in method split of str object at 0x0000023EC9EEE130>,Spain,83,84,Real Madrid CF,€43.5M,€190K
+0,230142,Mikel Oyarzabal Ugarte,24,<built-in method split of str object at 0x0000023EC9EEE9B0>,Spain,85,89,Real Sociedad,€77.5M,€57K
+0,231443,Ousmane Dembélé,24,<built-in method split of str object at 0x0000023EC9EEE530>,France,83,88,FC Barcelona,€55M,€165K
+0,234378,Declan Rice,22,<built-in method split of str object at 0x0000023EC9EEEDB0>,England,83,88,West Ham United,€51M,€76K
+0,241095,Nikola Vlašić,23,<built-in method split of str object at 0x0000023ECEEB24B0>,Croatia,79,84,West Ham United,€26.5M,€63K
+0,246420,Jérémy Doku,19,<built-in method split of str object at 0x0000023ECEEB2B30>,Belgium,76,86,Stade Rennais FC,€16M,€27K
+0,256903,Gonçalo Matias Ramos,20,<built-in method split of str object at 0x0000023ECEEB2EF0>,Portugal,73,86,SL Benfica,€7.5M,€9K
+0,233927,Lucas Tolentino Coelho de Lima,23,<built-in method split of str object at 0x0000023ECEEB2EB0>,Brazil,82,87,Olympique Lyonnais,€46M,€70K
+0,239380,Noa Lang,22,<built-in method split of str object at 0x0000023ECEEB2130>,Netherlands,78,85,Club Brugge KV,€28.5M,€27K
+0,240753,Amine Gouiri,21,<built-in method split of str object at 0x0000023ECEEB2A30>,France,79,86,OGC Nice,€36M,€32K
+0,241671,Dominik Livaković,26,<built-in method split of str object at 0x0000023ECEEB2370>,Croatia,80,83,Dinamo Zagreb,€21M,€950
+0,247246,Khéphren Thuram,20,<built-in method split of str object at 0x0000023ECDBEE5F0>,France,76,84,OGC Nice,€16.5M,€23K
+0,247888,Sebastiano Esposito,18,<built-in method split of str object at 0x0000023ECDBEEEB0>,Italy,68,85,FC Basel 1893,€3.1M,€13K
+0,248695,Wesley Fofana,20,<built-in method split of str object at 0x0000023ECFED1E30>,France,78,86,Leicester City,€29M,€57K
+0,143745,Arda Turan,34,<built-in method split of str object at 0x0000023EC9A59470>,Turkey,69,69,Galatasaray SK,€650K,€23K
+0,188943,Kevin Trapp,30,<built-in method split of str object at 0x0000023ED3B1E630>,Germany,84,84,Eintracht Frankfurt,€28M,€37K
+0,205693,Sébastien Haller,27,<built-in method split of str object at 0x0000023ED3B28270>,Côte d'Ivoire,82,83,Ajax,€35.5M,€27K
+0,227174,Matty Cash,23,<built-in method split of str object at 0x0000023ED3B1E830>,Poland,78,83,Aston Villa,€20M,€50K
+0,233927,Lucas Tolentino Coelho de Lima,23,<built-in method split of str object at 0x0000023ED3B1E370>,Brazil,82,87,Olympique Lyonnais,€46M,€70K
+0,161648,Hatem Ben Arfa,34,<built-in method split of str object at 0x0000023ED3B28EF0>,France,75,75,LOSC Lille,€2.7M,€34K
+0,207807,Ryan Fraser,27,<built-in method split of str object at 0x0000023ED3B28E70>,Scotland,77,77,Newcastle United,€11M,€40K
+0,209658,Leon Goretzka,26,<built-in method split of str object at 0x0000023ED3B28670>,Germany,88,89,FC Bayern München,€107M,€165K
+0,216388,Allan Saint-Maximin,24,<built-in method split of str object at 0x0000023ED3B28D30>,France,81,86,Newcastle United,€39M,€46K
+0,221479,Dominic Calvert-Lewin,24,<built-in method split of str object at 0x0000023ED3B28830>,England,81,85,Everton,€37.5M,€90K
+0,222077,Manuel Locatelli,23,<built-in method split of str object at 0x0000023ED3B16930>,Italy,82,87,Juventus,€42M,€74K
+0,230938,Franck Yannick Kessié,24,<built-in method split of str object at 0x0000023ED3B162B0>,Côte d'Ivoire,84,86,AC Milan,€49.5M,€51K
+0,231691,Alban Lafont,22,<built-in method split of str object at 0x0000023ED3B16070>,France,79,85,FC Nantes,€23M,€20K
+0,234396,Alphonso Davies,20,<built-in method split of str object at 0x0000023ED3B163B0>,Canada,84,89,FC Bayern München,€58.5M,€70K
+0,234426,Marcos Nascimento Teixeira,25,<built-in method split of str object at 0x0000023ED3B16030>,Brazil,77,82,Galatasaray SK,€14M,€46K
+0,235663,Guus Til,23,<built-in method split of str object at 0x0000023ED3B166B0>,Netherlands,75,79,Feyenoord,€8M,€41K
+0,241486,Jules Koundé,22,<built-in method split of str object at 0x0000023ED3B160B0>,France,83,89,Sevilla FC,€53M,€33K
+0,247181,Gonzalo Plata,20,<built-in method split of str object at 0x0000023ED3B16270>,Ecuador,76,86,Real Valladolid CF,€16.5M,€10K
+0,248266,Sacha Boey,20,<built-in method split of str object at 0x0000023ED3B18830>,Cameroon,71,79,Galatasaray SK,€3.9M,€21K
+0,251470,Charles De Ketelaere,20,<built-in method split of str object at 0x0000023ED3B189F0>,Belgium,76,86,Club Brugge KV,€16.5M,€20K
+0,252371,Jude Bellingham,18,<built-in method split of str object at 0x0000023ED3B18BF0>,England,81,90,Borussia Dortmund,€54M,€23K
+0,260407,Elye Wahi,18,<built-in method split of str object at 0x0000023ED3B18DF0>,France,73,83,Montpellier Hérault SC,€6.5M,€9K
+0,261495,Soumaila Coulibaly,17,<built-in method split of str object at 0x0000023ED3B18CF0>,France,62,81,Borussia Dortmund,€925K,€500
+0,183277,Eden Hazard,30,<built-in method split of str object at 0x0000023ED3B18F30>,Belgium,84,84,Real Madrid CF,€40.5M,€220K
+0,192318,Mario Götze,29,<built-in method split of str object at 0x0000023ED3B180F0>,Germany,81,81,PSV,€25.5M,€26K
+0,202445,Rodrigo Ely,27,<built-in method split of str object at 0x0000023ED3B187F0>,Brazil,74,74,Unión Deportiva Almería,€3.9M,€10K
+0,220523,Yerry Mina,26,<built-in method split of str object at 0x0000023ED3B34770>,Colombia,78,80,Everton,€15.5M,€69K
+0,223697,Robin Gosens,26,<built-in method split of str object at 0x0000023ED3B34930>,Germany,83,83,Inter,€36M,€65K
+0,225793,Ben Godfrey,23,<built-in method split of str object at 0x0000023ED3B34B30>,England,77,85,Everton,€22M,€56K
+0,229906,Leon Bailey,23,<built-in method split of str object at 0x0000023ED3B34D30>,Jamaica,81,84,Aston Villa,€35M,€70K
+0,230625,Matheus Reis de Lima,26,<built-in method split of str object at 0x0000023ED3B34C30>,Brazil,77,80,Sporting CP,€12M,€13K
+0,234574,José Diogo Dalot Teixeira,22,<built-in method split of str object at 0x0000023ED3B34EB0>,Portugal,78,84,Manchester United,€21M,€78K
+0,236276,Arnaut Danjuma,24,<built-in method split of str object at 0x0000023ED3B34670>,Netherlands,79,82,Villarreal CF,€24M,€32K
+0,237383,Alessandro Bastoni,22,<built-in method split of str object at 0x0000023ED3B34530>,Italy,82,88,Inter,€44.5M,€90K
+0,238067,Nicolò Zaniolo,21,<built-in method split of str object at 0x0000023ED3B3C730>,Italy,78,86,Roma,€32M,€42K
+0,242000,Konstantinos Mavropanos,23,<built-in method split of str object at 0x0000023ED3B3C930>,Greece,76,80,VfB Stuttgart,€9.5M,€52K
+0,242434,Curtis Jones,20,<built-in method split of str object at 0x0000023ED3B3CB30>,England,75,86,Liverpool,€12.5M,€57K
+0,242641,Rayan Aït Nouri,20,<built-in method split of str object at 0x0000023ED3B3CD30>,France,76,86,Wolverhampton Wanderers,€15.5M,€43K
+0,253969,Leo Hjelde,17,<built-in method split of str object at 0x0000023ED3B3CC30>,Norway,63,82,Leeds United,€1.1M,€600
+0,260926,Kevin Schade,19,<built-in method split of str object at 0x0000023ED3B3CEB0>,Germany,70,83,Sport-Club Freiburg,€3.8M,€8K
+0,264388,Alberto Moleiro González,17,<built-in method split of str object at 0x0000023ED3B3CE30>,Spain,70,82,Unión Deportiva Las Palmas,€3.6M,€750
+0,264701,Arsen Zakharyan,18,<built-in method split of str object at 0x0000023ED3B3CAF0>,Russia,72,86,,€0,€0
+0,231410,Brahim Díaz,21,<built-in method split of str object at 0x0000023ED3B3C4F0>,Spain,78,86,AC Milan,€31.5M,€90K
+0,232411,Christopher Nkunku,23,<built-in method split of str object at 0x0000023ED3B20430>,France,85,88,RB Leipzig,€73.5M,€100K
+0,232756,Fikayo Tomori,23,<built-in method split of str object at 0x0000023ED3B202F0>,England,82,88,AC Milan,€43.5M,€42K
+0,234642,Édouard Mendy,29,<built-in method split of str object at 0x0000023ED3B205F0>,Senegal,86,87,Chelsea,€52M,€140K
+0,236499,Douglas Luiz Soares de Paulo,23,<built-in method split of str object at 0x0000023ED3B20070>,Brazil,77,84,Aston Villa,€20M,€47K
+0,237184,Keidi Bare,23,<built-in method split of str object at 0x0000023ED3B20EF0>,Albania,78,83,RCD Espanyol de Barcelona,€19.5M,€17K
+0,237678,Ibrahima Konaté,22,<built-in method split of str object at 0x0000023ED3B200F0>,France,80,88,Liverpool,€44.5M,€85K
+0,239837,Alexis Mac Allister,22,<built-in method split of str object at 0x0000023ED3B20270>,Argentina,76,82,Brighton & Hove Albion,€12M,€44K
+0,241096,Sandro Tonali,21,<built-in method split of str object at 0x0000023ED3B200B0>,Italy,81,89,AC Milan,€54.5M,€33K
+0,241852,Moussa Diaby,21,<built-in method split of str object at 0x0000023ED3B13830>,France,83,88,Bayer 04 Leverkusen,€56M,€55K
+0,242577,Romain Faivre,22,<built-in method split of str object at 0x0000023ED3B13A30>,France,77,83,Olympique Lyonnais,€17M,€49K
+0,243702,Djed Spence,20,<built-in method split of str object at 0x0000023ED3B13BF0>,England,72,80,Nottingham Forest,€4.9M,€14K
+0,255223,Amine Adli,21,<built-in method split of str object at 0x0000023ED3B13DB0>,France,74,84,Bayer 04 Leverkusen,€9.5M,€32K
+0,255475,Antony Matheus dos Santos,21,<built-in method split of str object at 0x0000023ED3B13B30>,Brazil,82,89,Ajax,€62M,€21K
+0,256408,Santiago Simón,19,<built-in method split of str object at 0x0000023ED3B13EF0>,Argentina,71,85,River Plate,€4.4M,€6K
+0,256725,Fabio Carvalho,18,<built-in method split of str object at 0x0000023ED3B13630>,England,71,86,Fulham,€4.4M,€11K
+0,258826,Devyne Rensch,18,<built-in method split of str object at 0x0000023ED3B13930>,Netherlands,73,85,Ajax,€7M,€3K
+0,259356,Carney Chukwuemeka,17,<built-in method split of str object at 0x0000023ED3B219B0>,England,64,84,Aston Villa,€1.6M,€2K
+0,168651,Ivan Rakitić,33,<built-in method split of str object at 0x0000023EC9A91430>,Croatia,82,82,Sevilla FC,€18.5M,€39K
+0,182152,Ja Cheol Koo,32,<built-in method split of str object at 0x0000023ED3ED7BB0>,Korea Republic,74,74,Jeju United FC,€3.3M,€7K
+0,183898,Ángel Di María,33,<built-in method split of str object at 0x0000023ED3EDA8B0>,Argentina,86,86,Paris Saint-Germain,€42.5M,€150K
+0,192505,Romelu Lukaku,28,<built-in method split of str object at 0x0000023ED3B214B0>,Belgium,87,87,Chelsea,€81.5M,€220K
+0,192985,Kevin De Bruyne,30,<built-in method split of str object at 0x0000023ED3EDAE70>,Belgium,91,91,Manchester City,€125.5M,€350K
+0,198032,Dan Burn,29,<built-in method split of str object at 0x0000023ED3EDA170>,England,76,76,Newcastle United,€6.5M,€36K
+0,199556,Marco Verratti,28,<built-in method split of str object at 0x0000023ED3EDB730>,Italy,87,87,Paris Saint-Germain,€79.5M,€155K
+0,216393,Youri Tielemans,24,<built-in method split of str object at 0x0000023ED3EDB8F0>,Belgium,84,87,Leicester City,€57M,€125K
+0,220814,Lucas Hernández,25,<built-in method split of str object at 0x0000023ED3EDBAB0>,France,84,86,FC Bayern München,€47M,€95K
+0,224293,Rúben Diogo da Silva Neves,24,<built-in method split of str object at 0x0000023ED3EDBCB0>,Portugal,83,88,Wolverhampton Wanderers,€54.5M,€95K
+0,227796,Christian Pulisic,22,<built-in method split of str object at 0x0000023ED3EDBE70>,United States,82,88,Chelsea,€49M,€120K
+0,227813,Oleksandr Zinchenko,24,<built-in method split of str object at 0x0000023ED3EDBDF0>,Ukraine,79,82,Manchester City,€22M,€90K
+0,231292,Jamal Lewis,23,<built-in method split of str object at 0x0000023ED3EDBFB0>,Northern Ireland,72,79,Newcastle United,€4.5M,€21K
+0,231410,Brahim Díaz,21,<built-in method split of str object at 0x0000023ED3EDB8B0>,Spain,78,86,AC Milan,€31.5M,€90K
+0,232411,Christopher Nkunku,23,<built-in method split of str object at 0x0000023ED3EDBC70>,France,85,88,RB Leipzig,€73.5M,€100K
+0,176094,Przemysław Tytoń,34,<built-in method split of str object at 0x0000023ED3EDD830>,Poland,67,67,Ajax,€170K,€4K
+0,184941,Alexis Sánchez,32,<built-in method split of str object at 0x0000023ED3EDDA30>,Chile,79,79,Inter,€14M,€100K
+0,186190,Patrick van Aanholt,30,<built-in method split of str object at 0x0000023ED3EDDC30>,Netherlands,76,76,Galatasaray SK,€6.5M,€45K
+0,186345,Kieran Trippier,30,<built-in method split of str object at 0x0000023ED3EDDE30>,England,84,84,Newcastle United,€36.5M,€63K
+0,194765,Antoine Griezmann,30,<built-in method split of str object at 0x0000023ED3EDDDB0>,France,85,85,Atlético de Madrid,€53M,€220K
+0,200104,Heung Min Son,28,<built-in method split of str object at 0x0000023ED3EDDFB0>,Korea Republic,89,89,Tottenham Hotspur,€104M,€240K
+0,202166,Julian Draxler,27,<built-in method split of str object at 0x0000023ED3EDDB70>,Germany,79,79,Paris Saint-Germain,€18.5M,€85K
+0,202556,Memphis Depay,27,<built-in method split of str object at 0x0000023ED3EDD9F0>,Netherlands,86,86,FC Barcelona,€73.5M,€240K
+0,203263,Harry Maguire,28,<built-in method split of str object at 0x0000023ED3EDE770>,England,82,83,Manchester United,€29M,€130K
+0,205192,Denis Suárez Fernández,27,<built-in method split of str object at 0x0000023ED3EDE970>,Spain,78,78,RC Celta de Vigo,€15M,€26K
+0,212198,Bruno Miguel Borges Fernandes,26,<built-in method split of str object at 0x0000023ED3EDEB30>,Portugal,87,88,Manchester United,€94M,€210K
+0,212228,Ivan Toney,25,<built-in method split of str object at 0x0000023ED3EDECF0>,England,76,80,Brentford,€10.5M,€46K
+0,213955,Sardar Azmoun,26,<built-in method split of str object at 0x0000023ED3EDEEB0>,Iran,80,81,Bayer 04 Leverkusen,€25M,€63K
+0,226226,Giovani Lo Celso,25,<built-in method split of str object at 0x0000023ED3EDEE30>,Argentina,80,83,Villarreal CF,€27.5M,€90K
+0,226456,Pablo Fornals Malla,25,<built-in method split of str object at 0x0000023ED3EDE570>,Spain,79,82,West Ham United,€23M,€69K
+0,227535,Rodrigo Bentancur,24,<built-in method split of str object at 0x0000023ED3EDEFB0>,Uruguay,78,83,Tottenham Hotspur,€21M,€70K
+0,227678,Ezri Konsa,23,<built-in method split of str object at 0x0000023ED3EDECB0>,England,79,86,Aston Villa,€32.5M,€55K
+0,235844,Edson Álvarez,23,<built-in method split of str object at 0x0000023ED3EE0870>,Mexico,79,84,Ajax,€24.5M,€16K
+0,236496,Mattéo Guendouzi,22,<built-in method split of str object at 0x0000023ED3EE0A70>,France,80,86,Olympique de Marseille,€33.5M,€77K
+0,237692,Phil Foden,21,<built-in method split of str object at 0x0000023ED3EE0C70>,England,84,92,Manchester City,€94.5M,€140K
+0,239207,Maximiliano Gómez,24,<built-in method split of str object at 0x0000023ED3EE0E30>,Uruguay,79,82,Valencia CF,€24.5M,€38K
+0,241187,Lutsharel Geertruida,20,<built-in method split of str object at 0x0000023ED3EE0DB0>,Netherlands,76,84,Feyenoord,€15.5M,€8K
+0,242656,Illan Meslier,21,<built-in method split of str object at 0x0000023ED3EE0FB0>,France,77,84,Leeds United,€18.5M,€34K
+0,243576,Pedro Antonio Porro Sauceda,21,<built-in method split of str object at 0x0000023ED3EE0A30>,Spain,80,87,Sporting CP,€40.5M,€80K
+0,244260,Daniel Olmo Carvajal,23,<built-in method split of str object at 0x0000023ED3EE0C30>,Spain,82,87,RB Leipzig,€46M,€78K
+0,246352,Hugo Guillamón Sammartín,21,<built-in method split of str object at 0x0000023ED3EE2870>,Spain,75,83,Valencia CF,€12M,€20K
+0,246764,Mohamed Camara,21,<built-in method split of str object at 0x0000023ED3EE2A70>,Mali,76,84,FC Red Bull Salzburg,€16M,€18K
+0,247827,Michael Olise,19,<built-in method split of str object at 0x0000023ED3EE2C70>,France,75,86,Crystal Palace,€12M,€26K
+0,248808,Aaron Hickey,19,<built-in method split of str object at 0x0000023ED3EE2E30>,Scotland,73,85,Bologna,€7M,€12K
+0,251854,Pedro González López,18,<built-in method split of str object at 0x0000023ED3EE2DB0>,Spain,82,91,FC Barcelona,€64M,€55K
+0,251873,Yusuf Demir,18,<built-in method split of str object at 0x0000023ED3EE2FB0>,Austria,72,83,SK Rapid Wien,€4.9M,€9K
+0,254909,Oscar Dorley,22,<built-in method split of str object at 0x0000023ED3EE2A30>,Liberia,75,81,SK Slavia Praha,€8.5M,€800
+0,256197,Piero Hincapié,19,<built-in method split of str object at 0x0000023ED3ED75B0>,Ecuador,74,84,Bayer 04 Leverkusen,€8.5M,€19K
+0,256516,Nicholas Williams Arthuer,18,<built-in method split of str object at 0x0000023ED3EE3870>,Spain,71,86,Athletic Club de Bilbao,€4.4M,€6K
+0,256970,Adam Karabec,17,<built-in method split of str object at 0x0000023ED3EE3A30>,Czech Republic,72,85,AC Sparta Praha,€5.5M,€500
+0,259377,Yeremi Jesús Santos Pino,18,<built-in method split of str object at 0x0000023ED3EE3BF0>,Spain,76,87,Villarreal CF,€16M,€10K
+0,263312,Zidan Sertdemir,16,<built-in method split of str object at 0x0000023ED3EE3DF0>,Denmark,62,85,Bayer 04 Leverkusen,€1.2M,€1K
+0,264309,Arda Güler,16,<built-in method split of str object at 0x0000023ED3EE3D70>,Turkey,62,85,Fenerbahçe SK,€1.2M,€1K
+0,254807,Kwadwo Baah,18,<built-in method split of str object at 0x0000023ED3EE3F70>,Germany,60,80,Watford,€675K,€3K
+0,256948,Christos Tzolis,19,<built-in method split of str object at 0x0000023ED3EE3FB0>,Greece,73,84,Norwich City,€6.5M,€16K
+0,257534,Cole Palmer,19,<built-in method split of str object at 0x0000023ED3EE3430>,England,67,86,Manchester City,€2.6M,€20K
+0,258467,Luka Romero,16,<built-in method split of str object at 0x0000023ED3EE57B0>,Argentina,66,86,Lazio,€2.3M,€2K
+0,259233,Ilaix Moriba,18,<built-in method split of str object at 0x0000023ED3EE59B0>,Guinea,73,84,Valencia CF,€6.5M,€17K
+0,259694,Óscar Mingueza García,22,<built-in method split of str object at 0x0000023ED3EE5BB0>,Spain,75,83,FC Barcelona,€12M,€76K
+0,260876,Maurits Kjaergaard,18,<built-in method split of str object at 0x0000023ED3EE5DB0>,Denmark,64,82,FC Red Bull Salzburg,€1.5M,€2K
+0,155862,Sergio Ramos García,35,<built-in method split of str object at 0x0000023ED3B1E4B0>,Spain,86,86,Paris Saint-Germain,€18M,€89K
+0,192119,Thibaut Courtois,29,<built-in method split of str object at 0x0000023ED450E030>,Belgium,89,91,Real Madrid CF,€85.5M,€250K
+0,203535,Tonny Vilhena,26,<built-in method split of str object at 0x0000023ED450EBF0>,Netherlands,77,77,RCD Espanyol de Barcelona,€11.5M,€20K
+0,207439,Leandro Paredes,27,<built-in method split of str object at 0x0000023ED450EBB0>,Argentina,80,81,Paris Saint-Germain,€21.5M,€76K
+0,210413,Alessio Romagnoli,26,<built-in method split of str object at 0x0000023ED3EE6170>,Italy,82,82,AC Milan,€29M,€49K
+0,215698,Mike Maignan,25,<built-in method split of str object at 0x0000023ED450ED70>,France,85,90,AC Milan,€63M,€49K
+0,215914,N'Golo Kanté,30,<built-in method split of str object at 0x0000023ED450FAB0>,France,90,90,Chelsea,€100M,€230K
+0,218667,Bernardo Mota Carvalho e Silva,26,<built-in method split of str object at 0x0000023ED450FCB0>,Portugal,86,87,Manchester City,€80M,€200K
+0,224520,Ryan Kent,24,<built-in method split of str object at 0x0000023ED450FEB0>,England,76,78,Rangers FC,€9.5M,€46K
+0,226226,Giovani Lo Celso,25,<built-in method split of str object at 0x0000023ED450FE30>,Argentina,80,83,Villarreal CF,€27.5M,€90K
+0,226380,Hee Chan Hwang,25,<built-in method split of str object at 0x0000023ED450FDB0>,Korea Republic,78,79,Wolverhampton Wanderers,€17M,€69K
+0,229188,Vangelis Pavlidis,22,<built-in method split of str object at 0x0000023ED450FFB0>,Greece,74,81,AZ Alkmaar,€8.5M,€10K
+0,231521,Exequiel Palacios,22,<built-in method split of str object at 0x0000023ED45106B0>,Argentina,78,83,Bayer 04 Leverkusen,€21.5M,€43K
+0,232432,Luka Jović,23,<built-in method split of str object at 0x0000023ED45108B0>,Serbia,79,84,Real Madrid CF,€27M,€130K
+0,232639,Ritsu Doan,23,<built-in method split of str object at 0x0000023ED4510A70>,Japan,77,83,PSV,€16.5M,€17K
+0,233731,Alexander Isak,21,<built-in method split of str object at 0x0000023ED4510C70>,Sweden,82,86,Real Sociedad,€45M,€37K
+0,233934,Aaron Ramsdale,23,<built-in method split of str object at 0x0000023ED4510E70>,England,81,86,Arsenal,€31M,€58K
+0,234236,Patrik Schick,25,<built-in method split of str object at 0x0000023ED4510DF0>,Czech Republic,82,85,Bayer 04 Leverkusen,€41M,€70K
+0,236987,Boubacar Kamara,21,<built-in method split of str object at 0x0000023ED4510D70>,France,80,86,Olympique de Marseille,€31M,€30K
+0,240130,Éder Gabriel Militão,23,<built-in method split of str object at 0x0000023ED4510A30>,Brazil,83,90,Real Madrid CF,€67.5M,€145K
+0,240273,Emile Smith Rowe,20,<built-in method split of str object at 0x0000023ED4510F70>,England,79,87,Arsenal,€38.5M,€62K
+0,241464,Pau Francisco Torres,24,<built-in method split of str object at 0x0000023ED4513830>,Spain,82,89,Villarreal CF,€56.5M,€35K
+0,241470,Alejandro Centelles Plaza,21,<built-in method split of str object at 0x0000023ED4513A30>,Spain,75,84,Unión Deportiva Almería,€12M,€8K
+0,241496,Timothy Weah,21,<built-in method split of str object at 0x0000023ED4513C30>,United States,74,81,LOSC Lille,€8.5M,€21K
+0,241508,Mikkel Damsgaard,20,<built-in method split of str object at 0x0000023ED4513DF0>,Denmark,76,86,U.C. Sampdoria,€16.5M,€15K
+0,242530,Noah Okafor,21,<built-in method split of str object at 0x0000023ED4513D70>,Switzerland,72,83,FC Red Bull Salzburg,€5.5M,€16K
+0,243057,Neco Williams,20,<built-in method split of str object at 0x0000023ED4513F70>,Wales,69,81,Fulham,€3.2M,€25K
+0,243481,Marcus Holmgren Pedersen,21,<built-in method split of str object at 0x0000023ED4513FB0>,Norway,73,84,Feyenoord,€6.5M,€6K
+0,243585,Gavin Bazunu,19,<built-in method split of str object at 0x0000023ED45131B0>,Republic of Ireland,68,85,Portsmouth,€2.8M,€11K
+0,244316,Luís Manuel Arantes Maximiano,22,<built-in method split of str object at 0x0000023ED45147F0>,Portugal,78,85,Granada CF,€24.5M,€16K
+0,245278,Tomás Franco Tavares,20,<built-in method split of str object at 0x0000023ED45149F0>,Portugal,73,82,FC Basel 1893,€6.5M,€7K
+0,245992,Billy Gilmour,20,<built-in method split of str object at 0x0000023ED4514BF0>,Scotland,72,84,Norwich City,€5.5M,€43K
+0,247497,Armel Bella Kotchap,19,<built-in method split of str object at 0x0000023ED4514DF0>,Germany,70,83,VfL Bochum 1848,€3.5M,€7K
+0,252064,Ladislav Krejčí,22,<built-in method split of str object at 0x0000023ED4514D70>,Czech Republic,76,84,AC Sparta Praha,€16M,€900
+0,252145,Nuno Alexandre Tavares Mendes,19,<built-in method split of str object at 0x0000023ED4514F70>,Portugal,79,88,Paris Saint-Germain,€36M,€8K
+0,254807,Kwadwo Baah,18,<built-in method split of str object at 0x0000023ED45147B0>,Germany,60,80,Watford,€675K,€3K
+0,231447,Donyell Malen,22,<built-in method split of str object at 0x0000023ED4514F30>,Netherlands,79,85,Borussia Dortmund,€28.5M,€56K
+0,231478,Lautaro Martínez,23,<built-in method split of str object at 0x0000023ED45177F0>,Argentina,85,89,Inter,€78M,€145K
+0,231943,Richarlison de Andrade,24,<built-in method split of str object at 0x0000023ED45179B0>,Brazil,81,86,Everton,€39.5M,€90K
+0,232363,Milan Škriniar,26,<built-in method split of str object at 0x0000023ED4517BB0>,Slovakia,86,87,Inter,€70M,€150K
+0,233049,Jadon Sancho,21,<built-in method split of str object at 0x0000023ED4517DB0>,England,85,89,Manchester United,€78.5M,€130K
+0,235212,Achraf Hakimi,22,<built-in method split of str object at 0x0000023ED45173F0>,Morocco,85,89,Paris Saint-Germain,€73M,€100K
+0,236015,Morgan Gibbs-White,21,<built-in method split of str object at 0x0000023ED4517F30>,England,74,82,Sheffield United,€9.5M,€43K
+0,236703,David Raum,23,<built-in method split of str object at 0x0000023ED4517AF0>,Germany,77,82,TSG Hoffenheim,€15M,€27K
+0,236772,Dominik Szoboszlai,20,<built-in method split of str object at 0x0000023ED4517EB0>,Hungary,78,87,RB Leipzig,€31M,€49K
+0,237329,Joe Willock,21,<built-in method split of str object at 0x0000023ED45172F0>,England,75,84,Newcastle United,€12.5M,€26K
+0,238476,Dan-Axel Zagadou,22,<built-in method split of str object at 0x0000023ED4518930>,France,78,83,Borussia Dortmund,€19.5M,€42K
+0,240950,Pedro António Pereira Gonçalves,23,<built-in method split of str object at 0x0000023ED4518AF0>,Portugal,81,88,Sporting CP,€51.5M,€19K
+0,241171,Armando Obispo,22,<built-in method split of str object at 0x0000023ED4518CB0>,Netherlands,73,81,PSV,€6.5M,€11K
+0,244369,Viktor Tsygankov,23,<built-in method split of str object at 0x0000023ED4518EB0>,Ukraine,80,85,Dynamo Kyiv,€32M,€1K
+0,244380,Vitaliy Mykolenko,22,<built-in method split of str object at 0x0000023ED4518E30>,Ukraine,76,83,Everton,€14.5M,€52K
+0,244591,Jayden Bogle,20,<built-in method split of str object at 0x0000023ED4518DB0>,England,73,82,Sheffield United,€6.5M,€15K
+0,245541,Giovanni Reyna,18,<built-in method split of str object at 0x0000023ED4518FB0>,United States,77,87,Borussia Dortmund,€22M,€18K
+0,246618,Adam Hložek,18,<built-in method split of str object at 0x0000023ED451A6B0>,Czech Republic,77,87,AC Sparta Praha,€22M,€500
+0,246785,Bryan Gil Salvatierra,20,<built-in method split of str object at 0x0000023ED451A870>,Spain,77,87,Valencia CF,€23M,€56K
+0,252961,Tanguy Nianzou,19,<built-in method split of str object at 0x0000023ED451AA70>,France,71,85,FC Bayern München,€4.2M,€18K
+0,258683,Ivan Ilić,20,<built-in method split of str object at 0x0000023ED451AC70>,Serbia,73,85,Hellas Verona,€7.5M,€16K
+0,260192,Antwoine Hackford,17,<built-in method split of str object at 0x0000023ED451AE30>,England,59,84,Sheffield United,€700K,€950
+0,260815,Arnau Martínez López,18,<built-in method split of str object at 0x0000023ED451ADB0>,Spain,70,82,Girona FC,€3.5M,€2K
+0,263578,Alejandro Balde Martínez,17,<built-in method split of str object at 0x0000023ED451AFB0>,Spain,68,83,FC Barcelona,€2.6M,€2K
