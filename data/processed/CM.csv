@@ -1,0 +1,1646 @@
+"","name","country","age","overall","potential","club","pos","value","wage"
+"1","Luka Modric","Croatia",35,88,88,"Real Madrid CF","CM",36500000,230000
+"2","Leon Goretzka","Germany",26,88,89,"FC Bayern München","CM",1.07e+08,165000
+"3","Toni Kroos","Germany",31,88,88,"Real Madrid CF","CM",7.5e+07,310000
+"4","Marco Verratti","Italy",28,87,87,"Paris Saint-Germain","CM",79500000,155000
+"5","Frenkie de Jong","Netherlands",24,87,92,"FC Barcelona","CM",119500000,210000
+"6","Paul Pogba","France",28,86,86,"Manchester United","CM",6.8e+07,2e+05
+"7","Daniel Parejo Muñoz","Spain",32,86,86,"Villarreal CF","CM",53500000,64000
+"8","Thiago Alcântara","Spain",30,86,86,"Liverpool","CM",6.5e+07,180000
+"9","Luiz Frello Filho Jorge","Italy",29,85,85,"Chelsea","CM",52500000,170000
+"10","Marcos Llorente Moreno","Spain",26,85,86,"Atlético de Madrid","CM",6.3e+07,89000
+"11","Sergej Milinkovic-Savic","Serbia",26,85,86,"Lazio","CM",6.3e+07,1e+05
+"12","Nicolò Barella","Italy",24,85,88,"Inter","CM",7.3e+07,130000
+"13","Ilkay Gündogan","Germany",30,85,85,"Manchester City","CM",51500000,185000
+"14","Jorge Resurrección","Spain",29,85,85,"Atlético de Madrid","CM",52500000,90000
+"15","Pedro González López","Spain",18,84,92,"FC Barcelona","CM",88500000,66000
+"16","Mateo Kovacic","Croatia",27,84,84,"Chelsea","CM",44500000,150000
+"17","Youri Tielemans","Belgium",24,84,87,"Leicester City","CM",5.7e+07,125000
+"18","Rúben Diogo da Silva Neves","Portugal",24,83,88,"Wolverhampton Wanderers","CM",54500000,95000
+"19","Jordan Henderson","England",31,83,83,"Liverpool","CM",3e+07,135000
+"20","Federico Valverde","Uruguay",22,83,89,"Real Madrid CF","CM",5.8e+07,160000
+"21","Rodrigo Javier De Paul","Argentina",27,83,84,"Atlético de Madrid","CM",41500000,74000
+"22","Mikel Merino Zazón","Spain",25,83,87,"Real Sociedad","CM",5e+07,47000
+"23","Thomas Lemar","France",25,83,86,"Atlético de Madrid","CM",47500000,71000
+"24","Éver Banega","Argentina",33,82,82,"Al Shabab","CM",18500000,51000
+"25","Jude Bellingham","England",18,82,90,"Borussia Dortmund","CM",6.4e+07,25000
+"26","Piotr Zielinski","Poland",27,82,83,"Napoli","CM",3.5e+07,80000
+"27","Hakan Çalhanoglu","Turkey",27,82,82,"Inter","CM",3.2e+07,115000
+"28","Ivan Rakitic","Croatia",33,82,82,"Sevilla FC","CM",18500000,39000
+"29","Emre Can","Germany",27,82,82,"Borussia Dortmund","CM",3.2e+07,72000
+"30","Fabián Ruiz Peña","Spain",25,82,84,"Napoli","CM",3.8e+07,77000
+"31","Aurélien Tchouaméni","France",21,81,88,"AS Monaco","CM",5.2e+07,46000
+"32","Héctor Herrera","Mexico",31,81,81,"Atlético de Madrid","CM",2.1e+07,63000
+"33","José Gómez Campaña","Spain",28,81,81,"Levante Unión Deportiva","CM",25500000,39000
+"34","Kerem Demirbay","Germany",27,81,81,"Bayer 04 Leverkusen","CM",27500000,62000
+"35","Marcel Sabitzer","Austria",27,81,81,"FC Bayern München","CM",27500000,83000
+"36","Arthur Henrique Ramos Oliveira Melo","Brazil",24,81,83,"Juventus","CM",3.3e+07,76000
+"37","Carlos Soler Barragán","Spain",24,81,86,"Valencia CF","CM",38500000,39000
+"38","James Ward-Prowse","England",26,81,82,"Southampton","CM",3e+07,69000
+"39","Miralem Pjanic","Bosnia and Herzegovina",31,81,81,"Besiktas JK","CM",2.1e+07,145000
+"40","João Filipe Moutinho","Portugal",34,81,81,"Wolverhampton Wanderers","CM",1.2e+07,95000
+"41","Florian Neuhaus","Germany",24,81,85,"Borussia Mönchengladbach","CM",36500000,33000
+"42","Arturo Vidal","Chile",34,81,81,"Inter","CM",1.2e+07,105000
+"43","Adrien Rabiot","France",26,81,82,"Juventus","CM",3e+07,87000
+"44","Francis Coquelin","France",30,80,80,"Villarreal CF","CM",2e+07,39000
+"45","Ander Herrera Agüera","Spain",31,80,80,"Paris Saint-Germain","CM",17500000,83000
+"46","Naby Keïta","Guinea",26,80,81,"Liverpool","CM",24500000,110000
+"47","Bruno Guimarães Moura","Brazil",23,80,85,"Newcastle United","CM",31500000,43000
+"48","Renato Júnior Luz Sanches","Portugal",23,80,86,"LOSC Lille","CM",3.3e+07,38000
+"49","Mateus Uribe","Colombia",30,80,80,"FC Porto","CM",2e+07,18000
+"50","Seko Fofana","Côte d'Ivoire",26,80,83,"Racing Club de Lens","CM",27500000,37000
+"51","Saúl Ñíguez Esclápez","Spain",26,80,81,"Chelsea","CM",24500000,58000
+"52","Corentin Tolisso","France",26,80,80,"FC Bayern München","CM",2.3e+07,78000
+"53","Joan Jordán Moreno","Spain",26,80,81,"Sevilla FC","CM",24500000,33000
+"54","Remo Freuler","Switzerland",29,80,80,"Atalanta","CM",20500000,58000
+"55","Kevin Kampl","Slovenia",30,80,80,"RB Leipzig","CM",2e+07,78000
+"56","Sérgio Miguel Relvas de Oliveira","Portugal",29,80,80,"Roma","CM",20500000,19000
+"57","Mattéo Guendouzi","France",22,80,86,"Olympique de Marseille","CM",33500000,77000
+"58","Daniel Wass","Denmark",32,80,80,"Atlético de Madrid","CM",16500000,58000
+"59","Marek Hamšík","Slovakia",33,80,80,"Trabzonspor","CM",1.3e+07,35000
+"60","Mahmoud Dahoud","Germany",25,80,82,"Borussia Dortmund","CM",26500000,59000
+"61","Giovani Lo Celso","Argentina",25,80,83,"Villarreal CF","CM",27500000,90000
+"62","Rodrigo Bentancur","Uruguay",24,79,83,"Tottenham Hotspur","CM",2.5e+07,77000
+"63","Lovro Majer","Croatia",23,79,84,"Stade Rennais FC","CM",26500000,45000
+"64","Eduardo Camavinga","France",18,79,89,"Real Madrid CF","CM",3.7e+07,48000
+"65","Etienne Capoue","France",32,79,79,"Villarreal CF","CM",1.4e+07,37000
+"66","Geoffrey Kondogbia","Central African Republic",28,79,79,"Atlético de Madrid","CM",17500000,58000
+"67","Tanguy Ndombele","France",24,79,84,"Olympique Lyonnais","CM",26500000,77000
+"68","João Mário N. Costa Eduardo","Portugal",28,79,79,"SL Benfica","CM",17500000,18000
+"69","André-Franck Zambo Anguissa","Cameroon",25,79,82,"Napoli","CM",2.3e+07,62000
+"70","Julian Weigl","Germany",25,79,82,"SL Benfica","CM",2.3e+07,16000
+"71","Matheus Luiz Nunes","Portugal",22,79,86,"Sporting CP","CM",35500000,15000
+"72","Abdoulaye Doucouré","France",28,79,79,"Everton","CM",17500000,87000
+"73","Stefano Sensi","Italy",25,79,82,"U.C. Sampdoria","CM",2.3e+07,89000
+"74","John McGinn","Scotland",26,79,80,"Aston Villa","CM",20500000,71000
+"75","Manuel Trigueros Muñoz","Spain",29,79,79,"Villarreal CF","CM",1.7e+07,39000
+"76","Teun Koopmeiners","Netherlands",23,79,83,"Atalanta","CM",2.5e+07,46000
+"77","Mousa Dembélé","Belgium",33,79,79,"Guangzhou City","CM",1.1e+07,21000
+"78","Angelo Fulgini","France",24,78,82,"Angers SCO","CM",2e+07,23000
+"79","Ryan Gravenberch","Netherlands",19,78,90,"Ajax","CM",3.3e+07,11000
+"80","Alex Oxlade-Chamberlain","England",27,78,78,"Liverpool","CM",1.5e+07,95000
+"81","Daniel García Carrillo","Spain",31,78,78,"Athletic Club de Bilbao","CM",11500000,29000
+"82","Conor Gallagher","England",21,78,85,"Crystal Palace","CM",28500000,69000
+"83","Orkun Kökçü","Turkey",20,78,85,"Feyenoord","CM",27500000,10000
+"84","Amadou Haidara","Mali",23,78,83,"RB Leipzig","CM",2.1e+07,58000
+"85","Radja Nainggolan","Belgium",33,78,78,"Royal Antwerp FC","CM",8500000,25000
+"86","Nicolás De la Cruz","Uruguay",24,78,81,"River Plate","CM",1.9e+07,17000
+"87","Rafael Alcântara","Brazil",28,78,78,"Real Sociedad","CM",1.4e+07,74000
+"88","Fredrik Midtsjø","Norway",27,78,78,"AZ Alkmaar","CM",1.5e+07,13000
+"89","Giacomo Bonaventura","Italy",31,78,78,"Fiorentina","CM",11500000,52000
+"90","Weston McKennie","United States",22,78,82,"Juventus","CM",20500000,61000
+"91","Exequiel Palacios","Argentina",22,78,83,"Bayer 04 Leverkusen","CM",21500000,43000
+"92","James Milner","England",35,78,78,"Liverpool","CM",5500000,69000
+"93","Roberto Pereyra","Argentina",30,78,78,"Udinese Calcio","CM",13500000,20000
+"94","Arturo Adolfo Inálcio Dutra","Brazil",21,78,78,"Flamengo","CM",16500000,30000
+"95","Enzo Fernández","Argentina",20,77,86,"River Plate","CM",2.3e+07,14000
+"96","Pablo Martín Páez Gavira","Spain",16,77,89,"FC Barcelona","CM",2.4e+07,14000
+"97","Aaron Ramsey","Wales",30,77,77,"Rangers FC","CM",1e+07,65000
+"98","Vítor Machado Ferreira","Portugal",21,77,87,"FC Porto","CM",23500000,11000
+"99","Daniel Ceballos Fernández","Spain",24,77,80,"Real Madrid CF","CM",14500000,1e+05
+"100","Petr Ševcík","Czech Republic",27,77,77,"SK Slavia Praha","CM",1.1e+07,1000
+"101","Adrien Thomasson","France",27,77,77,"RC Strasbourg Alsace","CM",1.1e+07,25000
+"102","Flavien Tait","France",28,77,77,"Stade Rennais FC","CM",10500000,46000
+"103","Pascal Groß","Germany",30,77,77,"Brighton & Hove Albion","CM",1e+07,55000
+"104","Harry Winks","England",25,77,80,"Tottenham Hotspur","CM",1.4e+07,72000
+"105","Joey Veerman","Netherlands",22,77,83,"PSV","CM",1.7e+07,17000
+"106","Óliver Torres Muñoz","Spain",26,77,78,"Sevilla FC","CM",12500000,27000
+"107","Lukáš Provod","Czech Republic",24,77,82,"SK Slavia Praha","CM",1.6e+07,1000
+"108","Youssouf Fofana","France",22,77,82,"AS Monaco","CM",1.6e+07,41000
+"109","Aaron Mooy","Australia",30,77,77,"Shanghai Port FC","CM",1e+07,25000
+"110","Luis Romo","Mexico",26,77,80,"CF Monterrey","CM",13500000,47000
+"111","Uroš Racic","Serbia",23,77,82,"Valencia CF","CM",1.6e+07,29000
+"112","Leander Dendoncker","Belgium",26,77,78,"Wolverhampton Wanderers","CM",12500000,71000
+"113","Gonzalo Melero Manzanares","Spain",27,76,76,"Levante Unión Deportiva","CM",8e+06,26000
+"114","Nicolás Domínguez","Argentina",23,76,84,"Bologna","CM",16500000,27000
+"115","Eljif Elmas","North Macedonia",21,76,82,"Napoli","CM",1.2e+07,38000
+"116","Khéphren Thuram","France",20,76,84,"OGC Nice","CM",16500000,23000
+"117","Vitaliy Buyalskyi","Ukraine",28,76,76,"Dynamo Kyiv","CM",7500000,1000
+"118","Unai Vencedor Paris","Spain",20,76,84,"Athletic Club de Bilbao","CM",16500000,19000
+"119","Marko Grujic","Serbia",25,76,79,"FC Porto","CM",1e+07,13000
+"120","Gedson Carvalho Fernandes","Portugal",22,76,82,"Çaykur Rizespor","CM",1.2e+07,12000
+"121","Adel Taarabt","Morocco",32,76,76,"SL Benfica","CM",6e+06,14000
+"122","Saša Lukic","Serbia",24,76,81,"Torino F.C.","CM",11500000,34000
+"123","Morgan Sanson","France",26,76,77,"Aston Villa","CM",9e+06,56000
+"124","Ruben Loftus-Cheek","England",25,76,79,"Chelsea","CM",1e+07,78000
+"125","Sebastian Rudy","Germany",31,76,76,"TSG Hoffenheim","CM",6e+06,32000
+"126","Kouadio Manu Koné","France",20,76,85,"Borussia Mönchengladbach","CM",16500000,20000
+"127","Franco Vázquez","Argentina",32,76,76,"Parma","CM",6e+06,6000
+"128","Darlington Nagbe","United States",30,76,76,"Columbus Crew","CM",7e+06,9000
+"129","Miguel Luís Pinto Veloso","Portugal",35,76,76,"Hellas Verona","CM",3e+06,20000
+"130","Jonas Martin","France",31,76,76,"Stade Rennais FC","CM",6e+06,41000
+"131","Yacine Adli","France",20,76,83,"FC Girondins de Bordeaux","CM",1.5e+07,26000
+"132","Gabriel Appelt Pires","Brazil",27,76,76,"SL Benfica","CM",8e+06,14000
+"133","Ander Guevara Lajo","Spain",23,76,82,"Real Sociedad","CM",1.2e+07,26000
+"134","Jose Luís García Vayá","Spain",22,76,82,"Levante Unión Deportiva","CM",1.2e+07,23000
+"135","Evander da Silva Ferreira","Brazil",23,76,81,"FC Midtjylland","CM",11500000,24000
+"136","Arne Maier","Germany",22,76,82,"FC Augsburg","CM",1.2e+07,35000
+"137","Luis Montes","Mexico",35,76,76,"Club León","CM",3e+06,18000
+"138","Enock Mwepu","Zambia",23,76,82,"Brighton & Hove Albion","CM",1.2e+07,44000
+"139","Miguel Ângelo da Silva Rocha","Portugal",26,76,77,"LOSC Lille","CM",9e+06,33000
+"140","Roque Mesa Quevedo","Spain",32,76,76,"Real Valladolid CF","CM",6e+06,12000
+"141","Orel Mangala","Belgium",23,76,81,"VfB Stuttgart","CM",11500000,23000
+"142","Baptiste Santamaria","France",26,76,77,"Stade Rennais FC","CM",9e+06,41000
+"143","Jasmin Kurtic","Slovenia",32,76,76,"PAOK","CM",6e+06,1000
+"144","Mikel Vesga Arruti","Spain",28,75,75,"Athletic Club de Bilbao","CM",5500000,25000
+"145","Rasmus Falk","Denmark",29,75,75,"F.C. København","CM",5500000,21000
+"146","Rodrigo Battaglia","Argentina",29,75,75,"RCD Mallorca","CM",5500000,14000
+"147","Francesc Fàbregas i Soler","Spain",34,75,75,"AS Monaco","CM",2600000,42000
+"148","Mady Camara","Guinea",24,75,80,"Olympiacos CFP","CM",8500000,1000
+"149","Anders Christiansen","Denmark",31,75,75,"Malmö FF","CM",4600000,9000
+"150","Glen Kamara","Finland",25,75,78,"Rangers FC","CM",7500000,44000
+"151","Érick Gutiérrez","Mexico",26,75,77,"PSV","CM",7e+06,17000
+"152","Dorukhan Toköz","Turkey",25,75,78,"Trabzonspor","CM",7500000,24000
+"153","Víctor Guzmán","Mexico",26,75,76,"Pachuca","CM",6500000,18000
+"154","Martín Zubimendi Ibáñez","Spain",22,75,84,"Real Sociedad","CM",12500000,24000
+"155","Bruno Xavier Almeida Costa","Portugal",24,75,79,"FC Porto","CM",8e+06,11000
+"156","Albert Sambi Lokonga","Belgium",21,75,83,"Arsenal","CM",12500000,47000
+"157","Josh Brownhill","England",25,75,78,"Burnley","CM",7500000,31000
+"158","Tom Davies","England",23,75,78,"Everton","CM",7500000,55000
+"159","Dennis Geiger","Germany",23,75,80,"TSG Hoffenheim","CM",8500000,27000
+"160","Juan Pablo Vigón","Mexico",29,75,75,"Tigres U.A.N.L.","CM",5500000,42000
+"161","Mario Lemina","Gabon",27,75,75,"OGC Nice","CM",6e+06,29000
+"162","Pierre Lees-Melou","France",28,75,75,"Norwich City","CM",5500000,34000
+"163","Nicolás González Iglesias","Spain",19,75,85,"FC Barcelona","CM",1.2e+07,55000
+"164","Rolando Mandragora","Italy",24,75,81,"Torino F.C.","CM",9e+06,51000
+"165","Soualiho Meïté","France",27,75,75,"SL Benfica","CM",6e+06,13000
+"166","Juraj Kucka","Slovakia",34,75,75,"Watford","CM",2600000,5000
+"167","Domingo Blanco","Argentina",26,75,75,"Club Atlético Independiente","CM",6e+06,15000
+"168","Toma Bašic","Croatia",24,75,80,"Lazio","CM",8500000,41000
+"169","Curtis Jones","England",20,75,86,"Liverpool","CM",12500000,57000
+"170","Olívio Da Rosa","Brazil",34,75,75,"Henan Songshan Longmen FC","CM",2600000,15000
+"171","Ole Kristian Selnæs","Norway",26,75,76,"Shenzhen FC","CM",6500000,13000
+"172","Will Hughes","England",26,75,76,"Crystal Palace","CM",6500000,46000
+"173","Jean-Daniel Akpa Akpro","Côte d'Ivoire",28,75,75,"Lazio","CM",5500000,49000
+"174","Adam Maher","Netherlands",27,75,75,"FC Utrecht","CM",6e+06,16000
+"175","Vladimír Darida","Czech Republic",30,75,75,"Hertha BSC","CM",5500000,38000
+"176","Jean-Ricner Bellegarde","France",23,75,80,"RC Strasbourg Alsace","CM",8500000,19000
+"177","Richard Sánchez","Paraguay",25,75,78,"Club América","CM",7500000,39000
+"178","Tom Cairney","Scotland",30,75,75,"Fulham","CM",5500000,49000
+"179","Albin Ekdal","Sweden",31,75,75,"U.C. Sampdoria","CM",4600000,19000
+"180","Sebastián Córdova","Mexico",24,75,80,"Tigres U.A.N.L.","CM",8500000,35000
+"181","Jens Toornstra","Netherlands",32,75,75,"Feyenoord","CM",4400000,11000
+"182","Nemanja Radoja","Serbia",28,75,75,"Levante Unión Deportiva","CM",5500000,26000
+"183","Carlos Rodríguez","Mexico",24,75,80,"Cruz Azul","CM",8500000,45000
+"184","Cheick Doucouré","Mali",21,75,79,"Racing Club de Lens","CM",8e+06,20000
+"185","Davide Frattesi","Italy",21,75,84,"U.S. Sassuolo Calcio","CM",12500000,22000
+"186","Tom Rogic","Australia",28,75,75,"Celtic","CM",5500000,48000
+"187","Jon Moncayola Tollar","Spain",23,75,84,"CA Osasuna","CM",12500000,22000
+"188","Óscar Rodríguez Arnaiz","Spain",23,75,84,"Getafe CF","CM",12500000,21000
+"189","Marouane Fellaini","Belgium",33,75,75,"Shandong Taishan","CM",3500000,19000
+"190","Adam Lallana","England",33,75,75,"Brighton & Hove Albion","CM",3500000,49000
+"191","João Paulo Mior","Brazil",30,75,75,"Seattle Sounders FC","CM",5500000,9000
+"192","Agustín Palavecino","Argentina",24,75,78,"River Plate","CM",7500000,14000
+"193","Philip Billing","Denmark",25,75,79,"AFC Bournemouth","CM",8e+06,31000
+"194","Patrick Berg","Norway",23,75,80,"Racing Club de Lens","CM",8500000,23000
+"195","Michel Aebischer","Switzerland",24,75,78,"Bologna","CM",7500000,15000
+"196","James McArthur","Scotland",33,75,75,"Crystal Palace","CM",3500000,46000
+"197","Joe Willock","England",21,75,84,"Newcastle United","CM",12500000,26000
+"198","Pavel Bucha","Czech Republic",23,75,79,"FC Viktoria Plzen","CM",8e+06,950
+"199","Stuart Dallas","Northern Ireland",30,75,75,"Leeds United","CM",5500000,63000
+"200","Stefan Schwab","Austria",30,75,75,"PAOK","CM",5500000,1000
+"201","Ozan Tufan","Turkey",26,75,76,"Fenerbahçe SK","CM",6500000,41000
+"202","Ibrahima Sissoko","France",23,75,79,"RC Strasbourg Alsace","CM",8e+06,19000
+"203","Rodrigo Aliendro","Argentina",30,75,75,"Club Atlético Colón","CM",5500000,14000
+"204","Jean Lucas de Souza Oliveira","Brazil",23,75,80,"AS Monaco","CM",8500000,36000
+"205","Maxime Lopez","France",23,75,78,"U.S. Sassuolo Calcio","CM",7500000,25000
+"206","Rade Krunic","Bosnia and Herzegovina",27,75,75,"AC Milan","CM",6e+06,33000
+"207","Pedro Filipe Barbosa Moreira","Portugal",28,75,75,"Gil Vicente FC","CM",5500000,11000
+"208","Steven Davis","Northern Ireland",36,74,74,"Rangers FC","CM",1300000,32000
+"209","Jacob Ramsey","England",20,74,85,"Aston Villa","CM",9e+06,37000
+"210","Jordy Clasie","Netherlands",30,74,74,"AZ Alkmaar","CM",4e+06,10000
+"211","Tommaso Pobega","Italy",21,74,84,"Torino F.C.","CM",9500000,23000
+"212","Tomás Pochettino","Argentina",25,74,75,"River Plate","CM",5e+06,8000
+"213","David Turnbull","Scotland",21,74,82,"Celtic","CM",9500000,32000
+"214","Fernando Zuqui","Argentina",29,74,74,"Estudiantes de La Plata","CM",4100000,13000
+"215","Leonardo Gil","Argentina",30,74,74,"Colo-Colo","CM",4e+06,8000
+"216","Julien De Sart","Belgium",26,74,75,"KAA Gent","CM",4900000,20000
+"217","Mickaël Malsa","France",25,74,77,"Levante Unión Deportiva","CM",5500000,22000
+"218","Carles Aleñá Castillo","Spain",23,74,79,"Getafe CF","CM",6500000,20000
+"219","Manuel Ugarte","Uruguay",20,74,84,"Sporting CP","CM",9e+06,9000
+"220","Nicolas Seiwald","Austria",20,74,83,"FC Red Bull Salzburg","CM",9e+06,18000
+"221","Ulrik Saltnes","Norway",28,74,74,"FK Bodø/Glimt","CM",4200000,6000
+"222","Jeff Reine-Adélaïde","France",23,74,81,"Olympique Lyonnais","CM",8500000,40000
+"223","João Pedro Barradas Novais","Portugal",27,74,74,"Aytemiz Alanyaspor","CM",4500000,14000
+"224","Miha Zajc","Slovenia",27,74,75,"Fenerbahçe SK","CM",4800000,38000
+"225","Mateusz Klich","Poland",31,74,74,"Leeds United","CM",3500000,58000
+"226","Casper Nielsen","Denmark",27,74,74,"Royale Union Saint-Gilloise","CM",4500000,15000
+"227","Matt Grimes","England",25,74,76,"Swansea City","CM",5500000,24000
+"228","Rubén Alcaraz Jiménez","Spain",30,74,74,"Cádiz CF","CM",4e+06,11000
+"229","Ivan Ilic","Serbia",20,74,86,"Hellas Verona","CM",1e+07,17000
+"230","Leonel Miranda","Argentina",27,74,74,"Racing Club","CM",4500000,17000
+"231","Morten Thorsby","Norway",25,74,77,"U.C. Sampdoria","CM",5500000,17000
+"232","Lewis Cook","England",24,74,78,"AFC Bournemouth","CM",6e+06,26000
+"233","Alfred Duncan","Ghana",28,74,74,"Fiorentina","CM",4200000,42000
+"234","Guillermo Fernández","Argentina",29,74,74,"Boca Juniors","CM",4100000,16000
+"235","Grischa Prömel","Germany",26,74,75,"1. FC Union Berlin","CM",4900000,26000
+"236","José Sosa","Argentina",36,74,74,"Fenerbahçe SK","CM",1300000,28000
+"237","Kristoffer Olsson","Sweden",26,74,76,"RSC Anderlecht","CM",5e+06,20000
+"238","Alfonso González","Mexico",26,74,75,"CF Monterrey","CM",4900000,39000
+"239","Karol Linetty","Poland",26,74,75,"Torino F.C.","CM",4900000,35000
+"240","Haris Hajradinovic","Bosnia and Herzegovina",27,74,74,"Kasimpasa SK","CM",4500000,14000
+"241","Ricard Puig Martí","Spain",21,74,82,"FC Barcelona","CM",9500000,67000
+"242","Conor Hourihane","Republic of Ireland",30,74,74,"Sheffield United","CM",4e+06,49000
+"243","Giulio Maggiore","Italy",23,74,77,"Spezia","CM",5500000,14000
+"244","Sung Yueng Ki","Korea Republic",32,74,74,"FC Seoul","CM",3300000,6000
+"245","Imrân Louza","Morocco",22,74,80,"Watford","CM",6500000,37000
+"246","Jamiro Gregory Monteiro Alvarenga","Cape Verde Islands",27,74,74,"San Jose Earthquakes","CM",4500000,8000
+"247","Matheus Henrique de Souza","Brazil",23,74,78,"U.S. Sassuolo Calcio","CM",6e+06,24000
+"248","Joe Aribo","Nigeria",24,74,78,"Rangers FC","CM",6e+06,37000
+"249","Bryan Heynen","Belgium",24,74,79,"KRC Genk","CM",6500000,13000
+"250","Mathias Jensen","Denmark",25,74,77,"Brentford","CM",5500000,37000
+"251","Lukas Rupp","Germany",30,73,73,"Norwich City","CM",2900000,28000
+"252","Kiernan Dewsbury-Hall","England",22,73,79,"Leicester City","CM",4900000,54000
+"253","Marcos Antonio Silva Santos","Brazil",21,73,83,"Shakhtar Donetsk","CM",7e+06,650
+"254","Alexandru Cicâldau","Romania",23,73,79,"Galatasaray SK","CM",4800000,35000
+"255","Leandro Barreiro Martins","Luxembourg",21,73,79,"1. FSV Mainz 05","CM",4900000,15000
+"256","Enzo Le Fée","France",21,73,83,"FC Lorient","CM",7e+06,12000
+"257","Diego González","Argentina",33,73,73,"Boca Juniors","CM",1900000,14000
+"258","Gerard Gumbau Garriga","Spain",26,73,74,"Elche CF","CM",3600000,16000
+"259","Álvaro Aguado Méndez","Spain",25,73,76,"Real Valladolid CF","CM",4e+06,10000
+"260","Razvan Marin","Romania",25,73,76,"Cagliari","CM",4e+06,24000
+"261","Sean Longstaff","England",23,73,79,"Newcastle United","CM",4800000,26000
+"262","Álvaro Medrán Just","Spain",27,73,73,"Al Taawoun","CM",3200000,21000
+"263","Jonathan Osorio","Canada",29,73,73,"Toronto FC","CM",3e+06,8000
+"264","John Lundstram","England",27,73,73,"Rangers FC","CM",3200000,39000
+"265","Jack Wilshere","England",29,73,73,"Aarhus GF","CM",3e+06,14000
+"266","Tom Cleverley","England",31,73,73,"Watford","CM",2500000,39000
+"267","Janik Haberer","Germany",27,73,73,"Sport-Club Freiburg","CM",3200000,22000
+"268","Elvis Rexhbeçaj","Kosovo",23,73,77,"VfL Bochum 1848","CM",4300000,36000
+"269","André Filipe Luz Horta","Portugal",24,73,78,"SC Braga","CM",4600000,11000
+"270","Oier Zarraga Egaña","Spain",22,73,81,"Athletic Club de Bilbao","CM",7e+06,18000
+"271","José Raúl Gutiérrez Parejo","Spain",24,73,78,"Elche CF","CM",4600000,14000
+"272","Mert Hakan Yandas","Turkey",26,73,74,"Fenerbahçe SK","CM",3600000,35000
+"273","Jaime Seoane Valenciano","Spain",24,73,78,"SD Huesca","CM",4600000,9000
+"274","Ilaix Moriba","Guinea",18,73,84,"Valencia CF","CM",6500000,17000
+"275","Gabriel Neves","Uruguay",22,73,78,"Club Nacional de Football","CM",4700000,950
+"276","Jean Onana","Cameroon",21,73,80,"FC Girondins de Bordeaux","CM",6e+06,15000
+"277","Gustavo Hamer","Netherlands",24,73,80,"Coventry City","CM",6e+06,17000
+"278","Szymon Zurkowski","Poland",23,73,80,"Empoli","CM",6e+06,32000
+"279","Miguel Crespo da Silva","Portugal",24,73,77,"Fenerbahçe SK","CM",4300000,31000
+"280","Ryan Thomas","New Zealand",26,73,74,"PSV","CM",3600000,14000
+"281","Tomás Belmonte","Argentina",23,72,80,"Club Atlético Lanús","CM",5e+06,11000
+"282","Jens-Lys Cajuste","Sweden",21,72,79,"Stade de Reims","CM",4700000,14000
+"283","Soner Aydogdu","Turkey",30,72,72,"Göztepe SK","CM",2200000,25000
+"284","Kanya Fujimoto","Japan",22,72,81,"Gil Vicente FC","CM",5e+06,7000
+"285","Eliot Matazo","Belgium",19,72,83,"AS Monaco","CM",5e+06,18000
+"286","Volodymyr Shepelev","Ukraine",24,72,77,"Dynamo Kyiv","CM",3500000,650
+"287","Bo Kyung Kim","Korea Republic",31,72,72,"Jeonbuk Hyundai Motors","CM",1900000,9000
+"288","Josh Dasilva","England",22,72,80,"Brentford","CM",5e+06,28000
+"289","Aníbal Moreno","Argentina",22,72,81,"Racing Club","CM",5e+06,12000
+"290","Giuliano Galoppo","Argentina",22,72,82,"Club Atlético Banfield","CM",5e+06,10000
+"291","Alan Browne","Republic of Ireland",26,72,73,"Preston North End","CM",2700000,24000
+"292","Pablo Pérez","Argentina",35,72,72,"Newell's Old Boys","CM",950000,9000
+"293","Aster Vranckx","Belgium",18,72,84,"VfL Wolfsburg","CM",5500000,13000
+"294","Elías Aguilar","Costa Rica",29,72,72,"Incheon United FC","CM",2300000,5000
+"295","Federico Mateos","Argentina",28,72,72,"Deportivo Ñublense","CM",2300000,5000
+"296","Filippo Bandinelli","Italy",26,72,73,"Empoli","CM",2700000,31000
+"297","Filip Ugrinic","Switzerland",22,72,81,"FC Luzern","CM",5e+06,10000
+"298","Valon Berisha","Kosovo",28,72,72,"Stade de Reims","CM",2300000,19000
+"299","Marco Benassi","Italy",26,72,72,"Empoli","CM",2500000,33000
+"300","Joe Rothwell","England",26,72,73,"Blackburn Rovers","CM",2700000,30000
+"301","Darius Olaru","Romania",23,72,78,"FCSB (Steaua)","CM",3700000,11000
+"302","Lewis Baker","England",26,72,73,"Stoke City","CM",2700000,21000
+"303","Mark Diemers","Netherlands",27,72,72,"Hannover 96","CM",2500000,8000
+"304","Max Meyer","Germany",25,72,75,"FC Midtjylland","CM",3100000,30000
+"305","Daniel Bessa","Italy",28,72,72,"Hellas Verona","CM",2300000,20000
+"306","Danny Latza","Germany",31,72,72,"FC Schalke 04","CM",1900000,10000
+"307","Alejandro Chumacero","Bolivia",30,72,72,"Club Always Ready","CM",2200000,700
+"308","Aleix García Serrano","Spain",24,72,76,"Girona FC","CM",3300000,8000
+"309","Branco van den Boomen","Netherlands",25,72,75,"Toulouse Football Club","CM",3100000,6000
+"310","Stefano Sturaro","Italy",28,72,72,"Genoa","CM",2300000,13000
+"311","Kevin Stöger","Austria",27,72,72,"1. FSV Mainz 05","CM",2500000,18000
+"312","Daniele Baselli","Italy",29,72,72,"Cagliari","CM",2300000,23000
+"313","Lucas Castro","Argentina",32,72,72,"Adana Demirspor","CM",1800000,13000
+"314","Stefan Johansen","Norway",30,72,72,"Queens Park Rangers","CM",2200000,14000
+"315","Omar El Kaddouri","Morocco",30,72,72,"PAOK","CM",2200000,1000
+"316","Rodrigo Zalazar","Uruguay",21,72,80,"FC Schalke 04","CM",5e+06,7000
+"317","Agustín Almendra","Argentina",21,72,80,"Boca Juniors","CM",5e+06,9000
+"318","Barry Bannan","Scotland",31,72,72,"Sheffield Wednesday","CM",1900000,6000
+"319","Junior Dina Ebimbe","France",20,72,80,"Paris Saint-Germain","CM",5e+06,33000
+"320","Oguzhan Özyakup","Turkey",28,72,72,"Besiktas JK","CM",2300000,30000
+"321","Rominigue Kouamé","Mali",24,72,76,"ESTAC Troyes","CM",3300000,12000
+"322","Kunde Malong","Cameroon",25,72,75,"Olympiacos CFP","CM",3100000,1000
+"323","Mario Vrancic","Bosnia and Herzegovina",32,72,72,"Stoke City","CM",1800000,21000
+"324","Rob Schoofs","Belgium",27,72,72,"KV Mechelen","CM",2500000,11000
+"325","Billy Gilmour","Scotland",20,72,82,"Norwich City","CM",5e+06,43000
+"326","Marko Rog","Croatia",25,72,74,"Cagliari","CM",2900000,21000
+"327","Alexis Claude-Maurice","France",23,72,78,"OGC Nice","CM",3700000,19000
+"328","Martin Hongla","Cameroon",23,72,78,"Hellas Verona","CM",3700000,13000
+"329","Lewis O'Brien","England",22,72,79,"Huddersfield Town","CM",4700000,7000
+"330","Michaël Cuisance","France",21,72,81,"Venezia FC","CM",5e+06,11000
+"331","Paul Seguin","Germany",26,72,73,"SpVgg Greuther Fürth","CM",2700000,18000
+"332","Leonel López","Mexico",27,72,73,"Club Universidad Nacional","CM",2700000,11000
+"333","Nuno Miguel Valente Santos","Portugal",22,72,80,"FC Paços de Ferreira","CM",5e+06,9000
+"334","Mohammed Kanno","Saudi Arabia",26,72,73,"Al Hilal","CM",2700000,26000
+"335","Idrissa Doumbia","Côte d'Ivoire",23,72,77,"SV Zulte Waregem","CM",3500000,9000
+"336","Alejandro Baena Rodríguez","Spain",19,72,82,"Girona FC","CM",5e+06,12000
+"337","Rodrigo Echeverría","Chile",26,72,73,"CD Everton de Viña del Mar","CM",2700000,4000
+"338","Osama Rashid","Iraq",29,71,71,"FC Vizela","CM",1800000,5000
+"339","Pablo Galdames","Chile",24,71,76,"Genoa","CM",2800000,10000
+"340","Jens Stage","Denmark",24,71,73,"F.C. København","CM",2400000,12000
+"341","Paulo Lucas Santos de Paula","Brazil",24,71,75,"Al Shabab","CM",2700000,18000
+"342","Reo Hatate","Japan",23,71,76,"Celtic","CM",2800000,27000
+"343","Cameron Puertas","Switzerland",22,71,76,"Royale Union Saint-Gilloise","CM",2900000,10000
+"344","Ezequiel Cañete","Argentina",22,71,79,"Unión de Santa Fe","CM",4200000,8000
+"345","Pieter Gerkens","Belgium",26,71,72,"Royal Antwerp FC","CM",2200000,14000
+"346","Hamza Sakhi","Morocco",25,71,76,"AJ Auxerre","CM",2700000,5000
+"347","Ludovit Reis","Netherlands",21,71,79,"Hamburger SV","CM",4200000,7000
+"348","George Honeyman","England",26,71,71,"Hull City","CM",2e+06,10000
+"349","Jordan Sierra","Ecuador",24,71,74,"Deportivo Toluca","CM",2500000,12000
+"350","John Buckley","England",21,71,79,"Blackburn Rovers","CM",4200000,20000
+"351","In Beom Hwang","Korea Republic",24,71,76,"FC Seoul","CM",2800000,4000
+"352","Oghenekaro Etebo","Nigeria",25,71,74,"Watford","CM",2500000,18000
+"353","Erick Sánchez","Mexico",21,71,80,"Pachuca","CM",4200000,9000
+"354","Romaine Sawyers","Saint Kitts and Nevis",29,71,71,"Stoke City","CM",1800000,28000
+"355","Tiago Rafael Maia Silva","Portugal",28,71,71,"Vitória de Guimarães","CM",1900000,8000
+"356","Alejandro Corredera Alardi","Spain",25,71,74,"CD Tenerife","CM",2500000,7000
+"357","Ismael Silva Lima","Brazil",26,71,72,"Al Faisaly","CM",2200000,11000
+"358","Domingos André Ribeiro Almeida","Portugal",21,71,79,"Vitória de Guimarães","CM",4200000,6000
+"359","Ramón Rodríguez Jiménez","Spain",21,71,81,"Real Valladolid CF","CM",4200000,11000
+"360","Hicham Faik","Netherlands",29,71,71,"Al Faisaly","CM",1800000,11000
+"361","Gianluca Busio","United States",19,71,85,"Venezia FC","CM",4400000,8000
+"362","Jesús Soraire","Argentina",32,71,71,"Club Atlético Central Córdoba","CM",1500000,9000
+"363","Martín Payero","Argentina",22,71,78,"Middlesbrough","CM",3800000,16000
+"364","Joe Ralls","England",27,71,71,"Cardiff City","CM",2e+06,22000
+"365","Paulo Henrique Soares dos Santos","Brazil",26,71,72,"Shanghai Port FC","CM",2200000,15000
+"366","Lewis Holtby","Germany",30,71,71,"Holstein Kiel","CM",1800000,16000
+"367","Anuar Mohamed Tuhami","Morocco",26,71,72,"Real Valladolid CF","CM",2200000,8000
+"368","Miroslav Kácer","Slovakia",27,71,71,"FC Viktoria Plzen","CM",2e+06,750
+"369","Antonio Blanco Conde","Spain",20,71,83,"Real Madrid CF","CM",4500000,51000
+"370","Mubarak Wakaso","Ghana",30,71,71,"Shenzhen FC","CM",1800000,8000
+"371","Vincent Pajot","France",30,71,71,"FC Metz","CM",1800000,12000
+"372","Scott Arfield","Canada",32,71,71,"Rangers FC","CM",1500000,31000
+"373","Sebastian Vasiliadis","Greece",23,71,75,"DSC Arminia Bielefeld","CM",2700000,14000
+"374","Mark-Anthony Kaye","Canada",26,71,72,"Colorado Rapids","CM",2200000,6000
+"375","Berkay Özcan","Turkey",23,71,78,"Istanbul Basaksehir FK","CM",3700000,19000
+"376","Dion Lopy","Senegal",19,71,79,"Stade de Reims","CM",4e+06,9000
+"377","Pape Matar Sarr","Senegal",18,71,82,"FC Metz","CM",3900000,16000
+"378","Damian Szymanski","Poland",26,71,73,"AEK Athens","CM",2300000,850
+"379","Sandi Lovric","Slovenia",23,71,78,"FC Lugano","CM",3700000,7000
+"380","Edimilson Fernandes","Switzerland",25,71,73,"BSC Young Boys","CM",2300000,15000
+"381","Zaydou Youssouf","France",21,71,77,"AS Saint-Étienne","CM",3e+06,14000
+"382","Youssef Maleh","Morocco",22,71,80,"Fiorentina","CM",4200000,25000
+"383","Robert Snodgrass","Scotland",33,71,71,"Luton Town","CM",1200000,10000
+"384","Ahmad Benali","Libya",29,71,71,"Crotone","CM",1800000,3000
+"385","Mattia Valoti","Italy",27,71,71,"AC Monza","CM",2e+06,4000
+"386","Aleix Febas Pérez","Spain",25,71,74,"Málaga CF","CM",2500000,15000
+"387","Fábio Samuel Amorim Silva","Portugal",25,71,74,"FC Vizela","CM",2500000,4000
+"388","Carel Eiting","Netherlands",23,71,78,"Huddersfield Town","CM",3700000,7000
+"389","Matúš Bero","Slovakia",25,71,73,"Vitesse","CM",2300000,11000
+"390","Adem Zorgane","Algeria",21,71,80,"Royal Charleroi S.C.","CM",4200000,8000
+"391","Matt Crooks","England",27,71,71,"Middlesbrough","CM",2e+06,18000
+"392","Marcel Ruiz","Mexico",20,71,77,"Club Tijuana","CM",2900000,10000
+"393","Alessandro Schöpf","Austria",27,71,71,"DSC Arminia Bielefeld","CM",2e+06,15000
+"394","Chang Min Lee","Korea Republic",27,71,71,"Jeju United FC","CM",2e+06,5000
+"395","Bryan Acosta","Honduras",27,70,70,"Colorado Rapids","CM",1700000,5000
+"396","Leonardo da Silva Lopes","Portugal",22,70,77,"KSV Cercle Brugge","CM",3200000,7000
+"397","Riley McGree","Australia",22,70,77,"Middlesbrough","CM",3200000,14000
+"398","Facundo Pérez","Argentina",21,70,76,"Club Atlético Lanús","CM",2500000,7000
+"399","Fabian Nürnberger","Germany",21,70,76,"1. FC Nürnberg","CM",2500000,6000
+"400","Filipe Miguel Barros Soares","Portugal",22,70,77,"PAOK","CM",3200000,700
+"401","Gaius Makouta","Congo",23,70,75,"Boavista FC","CM",2400000,8000
+"402","Latif Blessing","Ghana",24,70,74,"Los Angeles FC","CM",2300000,5000
+"403","Seung Ho Paik","Korea Republic",24,70,75,"Jeonbuk Hyundai Motors","CM",2400000,6000
+"404","Eduard Löwen","Germany",24,70,75,"VfL Bochum 1848","CM",2400000,19000
+"405","Joao Ortiz","Ecuador",25,70,72,"LDU Quito","CM",2e+06,700
+"406","Steven Alzate","Colombia",22,70,79,"Brighton & Hove Albion","CM",3600000,24000
+"407","Javier Martínez Calvo","Spain",21,70,80,"CA Osasuna","CM",3600000,11000
+"408","Magnus Kofod Andersen","Denmark",22,70,76,"FC Nordsjælland","CM",2500000,7000
+"409","Olivier Kemen","France",24,70,75,"Yukatel Kayserispor","CM",2400000,8000
+"410","Lucas González","Argentina",21,70,78,"Club Atlético Independiente","CM",3600000,6000
+"411","Ramiz Zerrouki","Algeria",23,70,78,"FC Twente","CM",3500000,6000
+"412","Majeed Ashimeru","Ghana",23,70,75,"RSC Anderlecht","CM",2400000,11000
+"413","Takahiro Kunimoto","Japan",23,70,77,"Jeonbuk Hyundai Motors","CM",3200000,6000
+"414","Cristian Medina","Argentina",19,70,82,"Boca Juniors","CM",3800000,5000
+"415","João Pedro Almeida Machado","Portugal",28,70,70,"CD Tondela","CM",1600000,5000
+"416","Cristian Ferreira","Argentina",21,70,77,"River Plate","CM",3200000,7000
+"417","Antonio Moya Vega","Spain",23,70,77,"Deportivo Alavés","CM",3200000,11000
+"418","Sofiane Bendebka","Algeria",28,70,70,"Al Fateh","CM",1600000,17000
+"419","Víctor Vázquez Solsona","Spain",34,70,70,"LA Galaxy","CM",725000,5000
+"420","Martín Távara","Peru",22,70,76,"Club Sporting Cristal","CM",2500000,600
+"421","Afonso Gamelas Sousa","Portugal",21,70,81,"Belenenses SAD","CM",3600000,3000
+"422","José Luis García del Pozo","Spain",30,70,70,"CD Leganés","CM",1500000,7000
+"423","Gadi Kinda","Israel",27,70,71,"Sporting Kansas City","CM",1800000,5000
+"424","Muhamed Bešic","Bosnia and Herzegovina",28,70,70,"Ferencvárosi TC","CM",1600000,650
+"425","Adrián Arregui","Argentina",28,70,70,"Independiente Medellín","CM",1600000,3000
+"426","Jonathan González","Mexico",22,70,75,"Gallos Blancos de Querétaro","CM",2400000,21000
+"427","Rayane Aabid","France",29,70,70,"Kasimpasa SK","CM",1600000,9000
+"428","Dan Gosling","England",31,70,70,"Watford","CM",1300000,27000
+"429","Mikel San José Domínguez","Spain",32,70,70,"SD Amorebieta","CM",1300000,5000
+"430","Ante Palaversa","Croatia",21,70,79,"KV Kortrijk","CM",3600000,37000
+"431","Arnaud Lusamba","France",24,70,74,"Amiens SC","CM",2300000,4000
+"432","Sérgio Antônio Soler Oliveira Jr","Brazil",27,70,70,"Changchun Yatai FC","CM",1700000,6000
+"433","Lewis Ferguson","Scotland",21,70,80,"Aberdeen","CM",3600000,4000
+"434","Nicolas Raskin","Belgium",20,70,81,"Standard de Liège","CM",3500000,7000
+"435","Quinten Timber","Netherlands",20,70,83,"FC Utrecht","CM",3800000,7000
+"436","Mads Emil Madsen","Denmark",23,70,74,"SK Slavia Praha","CM",2300000,500
+"437","Lucas da Silva Izidoro","Brazil",25,70,73,"SC Braga","CM",2100000,8000
+"438","Marcel Hartel","Germany",25,70,73,"FC St. Pauli","CM",2100000,10000
+"439","Ángel Cardozo Lucena","Paraguay",26,70,71,"Club Cerro Porteño","CM",1900000,650
+"440","Dong Kyung Lee","Korea Republic",23,70,75,"FC Schalke 04","CM",2400000,6000
+"441","Assane Dioussé","Senegal",23,70,75,"AS Saint-Étienne","CM",2400000,15000
+"442","Franco Moyano","Argentina",23,69,72,"Argentinos Juniors","CM",1900000,6000
+"443","Bilal Hussein","Sweden",21,69,76,"AIK","CM",2800000,3000
+"444","Caio Alexandre Sousa e Silva","Brazil",22,69,74,"Vancouver Whitecaps FC","CM",2100000,4000
+"445","Matt O'Riley","Denmark",20,69,78,"Celtic","CM",3e+06,17000
+"446","Dávid Sigér","Hungary",30,69,69,"Ferencvárosi TC","CM",1300000,550
+"447","Timothé Cognat","France",23,69,75,"Servette FC","CM",2200000,8000
+"448","Elvis Saric","Bosnia and Herzegovina",30,69,69,"Suwon Samsung Bluewings","CM",1300000,4000
+"449","Dejan Petrovic","Slovenia",23,69,75,"SK Rapid Wien","CM",2200000,12000
+"450","Allan Campbell","Scotland",22,69,75,"Luton Town","CM",2200000,6000
+"451","Adalberto Carrasquilla","Panama",22,69,75,"Houston Dynamo","CM",2200000,4000
+"452","Jason Knight","Republic of Ireland",20,69,78,"Derby County","CM",3e+06,6000
+"453","Alhassan Yusuf","Nigeria",20,69,82,"Royal Antwerp FC","CM",3300000,8000
+"454","Mijaíl Avilés","Venezuela",34,69,69,"Independiente Petrolero","CM",650000,500
+"455","Milos Vulic","Serbia",24,69,74,"Crotone","CM",2100000,2000
+"456","José Ndong Machín Dicombo","Equatorial Guinea",24,69,74,"AC Monza","CM",2100000,2000
+"457","Joel Obi","Nigeria",30,69,69,"US Salernitana 1919","CM",1300000,18000
+"458","Jozabed Sánchez Ruiz","Spain",30,69,69,"Málaga CF","CM",1300000,5000
+"459","Jamie Allen","England",26,69,70,"Coventry City","CM",1600000,11000
+"460","Lino Tempelmann","Germany",22,69,75,"1. FC Nürnberg","CM",2200000,11000
+"461","Lucas Vera","Argentina",24,69,73,"Club Atlético Huracán","CM",2e+06,7000
+"462","Jeando Fuchs","Cameroon",23,69,73,"Peterborough United","CM",2e+06,6000
+"463","Bastien Toma","Switzerland",22,69,78,"FC St. Gallen 1879","CM",3100000,7000
+"464","Thom Haye","Netherlands",26,69,70,"SC Heerenveen","CM",1600000,5000
+"465","Kenneth Taylor","Netherlands",19,69,83,"Ajax","CM",3300000,4000
+"466","Éderson José dos Santos","Brazil",21,69,78,"US Salernitana 1919","CM",3100000,14000
+"467","Rémy Boissier","France",27,69,69,"Rodez Aveyron Football","CM",1500000,3000
+"468","Keaton Parks","United States",23,69,75,"New York City FC","CM",2200000,4000
+"469","Kevin Sessa","Germany",20,69,76,"1. FC Heidenheim 1846","CM",2700000,9000
+"470","Santiago Colombatto","Argentina",24,69,74,"Club León","CM",2100000,10000
+"471","Berkan Kutlu","Turkey",23,69,74,"Galatasaray SK","CM",2100000,20000
+"472","Javier Salas","Mexico",27,69,69,"Puebla FC","CM",1500000,5000
+"473","Jessy Benet","France",26,69,71,"Amiens SC","CM",1700000,4000
+"474","Kenny Rocha Santos","Cape Verde Islands",21,69,78,"KV Oostende","CM",3100000,5000
+"475","José Luis Muñoz León","Spain",24,69,74,"Málaga CF","CM",2100000,5000
+"476","Beni Baningime","Congo DR",22,69,78,"Heart of Midlothian","CM",3100000,4000
+"477","Joe Bell","New Zealand",22,69,77,"Brøndby IF","CM",3100000,7000
+"478","Finn Ole Becker","Germany",21,69,80,"FC St. Pauli","CM",3100000,7000
+"479","Tom Krauß","Germany",20,69,79,"1. FC Nürnberg","CM",3e+06,20000
+"480","Andrés Iniestra","Mexico",25,69,72,"Club Atlético de San Luis","CM",1800000,8000
+"481","Marko Bulat","Croatia",19,69,83,"Dinamo Zagreb","CM",3300000,500
+"482","Luca de la Torre","United States",23,69,75,"Heracles Almelo","CM",2200000,4000
+"483","Liam Walsh","England",23,68,73,"Hull City","CM",1800000,10000
+"484","Yuya Kubo","Japan",27,68,68,"FC Cincinnati","CM",1300000,4000
+"485","Jorge Grant","England",26,68,68,"Peterborough United","CM",1300000,6000
+"486","Anton Salétros","Sweden",25,68,71,"Sarpsborg 08 FF","CM",1600000,2000
+"487","Hayao Kawabe","Japan",25,68,71,"Grasshopper Club Zürich","CM",1600000,25000
+"488","Jack Taylor","Republic of Ireland",23,68,73,"Peterborough United","CM",1800000,5000
+"489","Ifeanyi Mathew","Nigeria",24,68,71,"Lillestrøm SK","CM",1600000,2000
+"490","Marcelino Nuñez","Chile",21,68,78,"Universidad Católica","CM",2700000,4000
+"491","Gonzalo Abrego","Argentina",21,68,76,"Godoy Cruz","CM",2700000,3000
+"492","Sam Field","England",23,68,75,"Queens Park Rangers","CM",2400000,7000
+"493","Hugo Dorrego","Uruguay",28,68,68,"Club Deportivo Oriente Petrolero","CM",1200000,550
+"494","Leandro Bacuna","Curacao",29,68,68,"Cardiff City","CM",1200000,14000
+"495","Gabriel Hachen","Argentina",30,68,68,"Defensa y Justicia","CM",1200000,7000
+"496","Santiago Pierotti","Argentina",20,68,78,"Club Atlético Colón","CM",2600000,4000
+"497","Nicolás Castro","Argentina",20,68,80,"Newell's Old Boys","CM",2900000,5000
+"498","Gary Gardner","England",29,68,68,"Birmingham City","CM",1200000,10000
+"499","Finn Porath","Germany",24,68,72,"Holstein Kiel","CM",1700000,9000
+"500","Jakub Piotrowski","Poland",23,68,73,"Fortuna Düsseldorf","CM",1800000,9000
+"501","Jeremy Márquez","Mexico",21,68,81,"Club Atlas","CM",3e+06,4000
+"502","Samuel Asamoah","Togo",27,68,68,"FC U Craiova 1948","CM",1300000,5000
+"503","Moctar Sidi El Hacen","Mauritania",23,68,75,"Real Valladolid CF","CM",2400000,4000
+"504","Matías Esquivel","Argentina",22,68,76,"Club Atlético Talleres","CM",2700000,6000
+"505","Moisés Villarroel","Bolivia",22,68,77,"Club Deportivo Jorge Wilstermann","CM",2700000,500
+"506","Ronaldo Sánchez","Bolivia",24,68,73,"Club Deportivo Oriente Petrolero","CM",1800000,500
+"507","Dženis Burnic","Germany",23,68,74,"1. FC Heidenheim 1846","CM",1900000,9000
+"508","Robert Garcés","Venezuela",28,68,68,"Deportivo Táchira FC","CM",1200000,500
+"509","Matthew Longstaff","England",21,68,76,"Mansfield Town","CM",2700000,11000
+"510","Amer Gojak","Bosnia and Herzegovina",24,68,71,"Dinamo Zagreb","CM",1600000,500
+"511","Ignacio Saavedra","Chile",22,68,75,"Universidad Católica","CM",2400000,5000
+"512","Nicolò Fagioli","Italy",20,68,83,"Juventus","CM",2900000,18000
+"513","Sofian Kiyine","Morocco",23,68,74,"Venezia FC","CM",1900000,17000
+"514","Shandon Baptiste","Grenada",23,68,75,"Brentford","CM",2400000,15000
+"515","Patrick Osterhage","Germany",21,68,75,"VfL Bochum 1848","CM",2400000,7000
+"516","Braian Ojeda","Paraguay",21,68,80,"Nottingham Forest","CM",3e+06,14000
+"517","Ben Thompson","England",25,68,70,"Gillingham","CM",1500000,5000
+"518","Ryan Sanusi","Belgium",29,68,68,"K Beerschot VA","CM",1200000,6000
+"519","Ismaila Coulibaly","Mali",20,68,79,"K Beerschot VA","CM",2600000,9000
+"520","Roberto Meraz","Mexico",21,68,77,"Mazatlán Futbol Club","CM",2700000,4000
+"521","Hiroyuki Mae","Japan",25,68,70,"Avispa Fukuoka","CM",1500000,2000
+"522","Nikolas Nartey","Denmark",21,68,76,"VfB Stuttgart","CM",2700000,8000
+"523","Álvaro Brun","Uruguay",34,68,68,"Montevideo City Torque","CM",550000,500
+"524","Richard Neudecker","Germany",24,68,72,"TSV 1860 München","CM",1700000,2000
+"525","Amara Condé","Germany",24,68,72,"1. FC Magdeburg","CM",1700000,2000
+"526","Mohamed Benkhemassa","Algeria",27,68,68,"Málaga CF","CM",1300000,4000
+"527","Ramon Pascal Lundqvist","Sweden",24,68,73,"Panathinaikos FC","CM",1800000,500
+"528","Simon Olsson","Sweden",23,68,75,"IF Elfsborg","CM",2400000,2000
+"529","Lesley Ugochukwu","France",17,68,81,"Stade Rennais FC","CM",2700000,2000
+"530","Hugo José Rama Calviño","Spain",24,68,73,"Real Oviedo","CM",1800000,4000
+"531","Christian Gentner","Germany",35,68,68,"FC Luzern","CM",475000,5000
+"532","Ramón Enríquez Rodríguez","Spain",20,68,79,"Málaga CF","CM",2600000,3000
+"533","Miguel Ángel Atienza Villa","Spain",22,68,78,"SD Eibar","CM",2700000,4000
+"534","Gabriel Florentín","Argentina",22,68,75,"Argentinos Juniors","CM",2400000,5000
+"535","Lazare Amani","Côte d'Ivoire",23,68,72,"Royale Union Saint-Gilloise","CM",1700000,6000
+"536","Thaciano Mickael da Silva","Brazil",26,68,70,"Altay SK","CM",1500000,6000
+"537","Cameron Brannagan","England",25,68,71,"Oxford United","CM",1600000,5000
+"538","Albert Grønbæk","Denmark",20,67,78,"Aarhus GF","CM",2200000,4000
+"539","Aimen Moueffek","France",20,67,79,"AS Saint-Étienne","CM",2400000,8000
+"540","Ali McCann","Northern Ireland",21,67,77,"Preston North End","CM",2300000,9000
+"541","Yuki Yamamoto","Japan",23,67,71,"Gamba Osaka","CM",1500000,4000
+"542","Reece Brown","England",25,67,70,"Peterborough United","CM",1300000,4000
+"543","Ebenezer Ofori","Ghana",26,67,67,"Vejle Boldklub","CM",1100000,3000
+"544","Andre Dozzell","England",22,67,74,"Queens Park Rangers","CM",2100000,6000
+"545","Keiya Sento","Japan",26,67,67,"Nagoya Grampus","CM",1100000,3000
+"546","Niklas Hauptmann","Germany",25,67,71,"1. FC Köln","CM",1400000,9000
+"547","Bartosz Slisz","Poland",22,67,76,"Legia Warszawa","CM",2300000,3000
+"548","Warren Tchimbembé","Congo",23,67,74,"CD Mirandés","CM",2e+06,6000
+"549","Koba Leïn Koindredi","France",19,67,81,"Valencia CF","CM",2400000,6000
+"550","Valerian Gvilia","Georgia",27,67,68,"Raków Czestochowa","CM",1200000,3000
+"551","Siphesihle Ndlovu","South Africa",24,67,71,"Orlando Pirates","CM",1500000,500
+"552","Jefferson Nogueira Junior","Brazil",27,67,67,"Moreirense FC","CM",1100000,5000
+"553","Agustín Mulet","Argentina",21,67,75,"Vélez Sarsfield","CM",2300000,4000
+"554","Kirian Rodríguez","Spain",25,67,70,"Unión Deportiva Las Palmas","CM",1300000,3000
+"555","Francisco Grahl","Argentina",29,67,67,"Club Atlético Central Córdoba","CM",1e+06,5000
+"556","Erdal Rakip","North Macedonia",25,67,70,"Malmö FF","CM",1300000,3000
+"557","Nicola Rigoni","Italy",30,67,67,"AC Monza","CM",975000,2000
+"558","Mike Frantz","Germany",34,67,67,"Hannover 96","CM",475000,10000
+"559","Paolo Faragò","Italy",28,67,67,"Lecce","CM",1e+06,2000
+"560","Tesfaldet Tekie","Sweden",24,67,71,"Fortuna Sittard","CM",1500000,4000
+"561","Álvaro Quiroga","Bolivia",26,67,68,"Club Deportivo Guabirá","CM",1200000,500
+"562","Rubén Manjarrés","Colombia",21,67,76,"Junior FC","CM",2300000,950
+"563","Petr Schwarz","Czech Republic",29,67,67,"Slask Wroclaw","CM",1e+06,4000
+"564","James Igbekeme","Nigeria",25,67,70,"Columbus Crew","CM",1300000,4000
+"565","Timothy Tillman","Germany",22,67,75,"SpVgg Greuther Fürth","CM",2300000,7000
+"566","Noah Diliberto","France",19,67,79,"Valenciennes FC","CM",2400000,1000
+"567","Jake Forster-Caskey","England",27,67,67,"Charlton Athletic","CM",1100000,4000
+"568","Jamie McGrath","Republic of Ireland",24,67,72,"Wigan Athletic","CM",1500000,2000
+"569","Elias K. Hagen","Norway",21,67,76,"FK Bodø/Glimt","CM",2300000,2000
+"570","Romal Palmer","England",22,67,73,"Barnsley","CM",1600000,12000
+"571","Nikoloz Ninua","Georgia",21,67,76,"PAOK","CM",2300000,500
+"572","Eliel Peretz","Israel",24,67,71,"RZ Pellets Wolfsberger AC","CM",1500000,5000
+"573","Rui Miguel Guerra Pires","Portugal",23,67,74,"FC Paços de Ferreira","CM",2e+06,6000
+"574","Tobias Raschl","Germany",21,67,75,"SpVgg Greuther Fürth","CM",2300000,6000
+"575","Kelechi Nwakali","Nigeria",23,67,76,"SD Huesca","CM",2300000,4000
+"576","Roberto Olabe Del Arco","Spain",25,67,70,"AD Alcorcón","CM",1300000,4000
+"577","Martin Baturina","Croatia",18,67,84,"Dinamo Zagreb","CM",2600000,500
+"578","Ibrahima Kébé","Mali",20,67,77,"Girona FC","CM",2200000,3000
+"579","Clint Leemans","Netherlands",25,67,70,"Viborg FF","CM",1300000,4000
+"580","Bryan Olivera","Uruguay",27,67,67,"Club Atlético Peñarol","CM",1100000,500
+"581","Hernán Rodríguez","Bolivia",25,67,72,"Royal Pari","CM",1500000,500
+"582","Chris Durkin","United States",21,67,75,"D.C. United","CM",2300000,2000
+"583","Hugo Vetlesen","Norway",21,67,76,"FK Bodø/Glimt","CM",2300000,2000
+"584","Ísak Bergmann Jóhannesson","Iceland",18,67,82,"F.C. København","CM",2400000,2000
+"585","Yassin Ayoub","Morocco",27,67,67,"Panathinaikos FC","CM",1100000,500
+"586","Jayson Molumby","Republic of Ireland",21,67,76,"West Bromwich Albion","CM",2300000,10000
+"587","Andrés Tello","Colombia",24,67,72,"Benevento","CM",1500000,1000
+"588","Nicolas Janvier","France",22,67,75,"Vitória de Guimarães","CM",2300000,3000
+"589","Yosuke Ideguchi","Japan",24,67,69,"Celtic","CM",1300000,14000
+"590","Kyle Dempsey","England",25,67,70,"Bolton Wanderers","CM",1300000,4000
+"591","Tarek Carranza","Peru",29,66,66,"Sport Boys","CM",825000,500
+"592","Marcos A. Rodrigues Silva","Portugal",22,66,73,"Clube Sport Marítimo","CM",1700000,3000
+"593","Wouter Burger","Netherlands",20,66,77,"FC Basel 1893","CM",1900000,3000
+"594","Édgar Barreto","Paraguay",36,66,66,"N.E.C. Nijmegen","CM",275000,3000
+"595","Francho Serrano Gracia","Spain",19,66,80,"Real Zaragoza","CM",2e+06,2000
+"596","Édouard Michut","France",18,66,82,"Paris Saint-Germain","CM",2200000,6000
+"597","Adrián Sánchez","Argentina",22,66,77,"CD Everton de Viña del Mar","CM",1900000,1000
+"598","Rosalino Toledo","Paraguay",31,66,66,"Guaireña FC","CM",7e+05,500
+"599","Edwin Rivera","Bolivia",31,66,66,"Club Always Ready","CM",7e+05,500
+"600","Santiago Hezze","Argentina",19,66,80,"Club Atlético Huracán","CM",2e+06,2000
+"601","Juan Ignacio Nardoni","Argentina",18,66,76,"Unión de Santa Fe","CM",1800000,1000
+"602","Emerson Hyndman","United States",25,66,69,"Atlanta United","CM",1100000,2000
+"603","Dardo Miloc","Argentina",30,66,66,"Arsenal de Sarandí","CM",825000,3000
+"604","Ahmet Arslan","Germany",27,66,66,"Holstein Kiel","CM",9e+05,7000
+"605","Matt Smith","Wales",21,66,77,"Milton Keynes Dons","CM",1900000,3000
+"606","Tyreeq Bakinson","England",22,66,73,"Ipswich Town","CM",1700000,9000
+"607","Alex Méndez","United States",20,66,78,"FC Vizela","CM",2100000,1000
+"608","Franz Gonzáles","Bolivia",21,66,76,"Platense","CM",1900000,3000
+"609","Jesús Barco","Peru",24,66,70,"Sport Boys","CM",1200000,500
+"610","Leon Flach","United States",20,66,76,"Philadelphia Union","CM",1900000,2000
+"611","Willian Cevallos","Ecuador",31,66,66,"C.D. Universidad Católica del Ecuador","CM",7e+05,500
+"612","Carlos Ribera","Bolivia",24,66,70,"Royal Pari","CM",1200000,500
+"613","Hampus Finndell","Sweden",21,66,77,"Djurgårdens IF","CM",1900000,2000
+"614","Roli Pereira de Sa","France",24,66,69,"FC Nantes","CM",1200000,6000
+"615","Tatsuki Seko","Japan",23,66,71,"Kawasaki Frontale","CM",1300000,3000
+"616","Anthony Gonçalves","France",35,66,66,"Stade Malherbe Caen","CM",350000,2000
+"617","Enzo Roldán","Argentina",20,66,75,"Unión de Santa Fe","CM",1900000,3000
+"618","Juan Manuel Sanabria","Uruguay",21,66,76,"Club Atlético de San Luis","CM",1900000,9000
+"619","Andrija Lukovic","Serbia",26,66,66,"Belenenses SAD","CM",925000,2000
+"620","Vadim Ra<U+021B>a","Moldova",28,66,66,"FC Voluntari","CM",850000,2000
+"621","Tiago Filipe Oliveira Dantas","Portugal",20,66,80,"CD Tondela","CM",2100000,3000
+"622","Billy Mitchell","England",20,66,74,"Millwall","CM",1900000,3000
+"623","Carl Gustafsson","Sweden",21,66,77,"Kalmar FF","CM",1900000,1000
+"624","Federico Fattori","Argentina",28,66,66,"Club Atlético Huracán","CM",850000,5000
+"625","Hussain Al Moqahwi","Saudi Arabia",33,66,66,"Al Ahli","CM",525000,11000
+"626","David Dioses","Peru",25,66,67,"Carlos A. Mannucci","CM",1e+06,500
+"627","Martín Manuel Calderón Gómez","Spain",22,66,74,"CD Mirandés","CM",1900000,7000
+"628","Laros Duarte","Netherlands",24,66,71,"FC Groningen","CM",1300000,3000
+"629","Toni Domgjoni","Kosovo",22,66,75,"Vitesse","CM",1900000,5000
+"630","Larry Angulo","Colombia",25,66,68,"América de Cali","CM",1100000,1000
+"631","Alejandro Bejarano","Bolivia",37,66,66,"Independiente Petrolero","CM",275000,500
+"632","Sessi D'Almeida","Benin",25,66,69,"CD Tondela","CM",1100000,2000
+"633","Kota Watanabe","Japan",22,66,70,"Yokohama F. Marinos","CM",1200000,3000
+"634","Dru Yearwood","England",21,66,74,"New York Red Bulls","CM",1900000,2000
+"635","Cameron McGeehan","Northern Ireland",26,66,67,"KV Oostende","CM",1e+06,4000
+"636","Tommy Doyle","England",19,66,80,"Cardiff City","CM",2e+06,6000
+"637","Ahmed Hamdi","Egypt",23,66,71,"Club de Foot Montréal","CM",1300000,2000
+"638","Justin Lonwijk","Netherlands",21,66,75,"Viborg FF","CM",1900000,3000
+"639","Luis Ramírez","Venezuela",23,66,70,"Caracas Fútbol Club","CM",1200000,500
+"640","Michael Carcelén","Ecuador",24,66,70,"Barcelona Sporting Club","CM",1200000,500
+"641","Kieran Lee","England",33,66,66,"Bolton Wanderers","CM",525000,4000
+"642","Manolo Portanova","Italy",21,66,79,"Genoa","CM",2100000,4000
+"643","Giannis Papanikolaou","Greece",22,66,71,"Raków Czestochowa","CM",1300000,2000
+"644","Moisés Caicedo","Ecuador",19,66,78,"Brighton & Hove Albion","CM",2e+06,8000
+"645","Julius Kade","Germany",22,66,73,"SG Dynamo Dresden","CM",1700000,5000
+"646","Frankie Amaya","United States",20,66,75,"New York Red Bulls","CM",1900000,2000
+"647","Alejandro Blesa Pina","Spain",19,66,79,"Levante Unión Deportiva","CM",2e+06,4000
+"648","Beñat Prados Díaz","Spain",20,66,77,"Athletic Club de Bilbao","CM",1900000,6000
+"649","Ilija Vukotic","Montenegro",22,66,73,"Boavista FC","CM",1700000,4000
+"650","Tomás Costa Silva","Portugal",21,66,75,"FC Vizela","CM",1900000,1000
+"651","Adalid Terrazas","Bolivia",20,65,69,"Club Atlético Palmaflor","CM",1e+06,500
+"652","Lukas Kunze","Germany",23,65,70,"VfL Osnabrück","CM",1100000,1000
+"653","Ethan Hamilton","Scotland",22,65,71,"Accrington Stanley","CM",1100000,2000
+"654","Catalin Itu","Romania",21,65,73,"CFR Cluj","CM",1600000,3000
+"655","Carlo Boukhalfa","Germany",22,65,73,"SSV Jahn Regensburg","CM",1600000,1000
+"656","Cristian Trujillo","Colombia",22,65,73,"Club Deportes Tolima","CM",1600000,600
+"657","Russell Teibert","Canada",28,65,65,"Vancouver Whitecaps FC","CM",725000,2000
+"658","Andy Cannon","England",25,65,68,"Hull City","CM",950000,4000
+"659","Fabio Miretti","Italy",17,65,82,"Juventus","CM",1800000,2000
+"660","Scott High","Scotland",20,65,76,"Huddersfield Town","CM",1600000,2000
+"661","Achraf El Bouchataoui","Netherlands",21,65,75,"RKC Waalwijk","CM",1600000,2000
+"662","Hyeon Seok Hong","Korea Republic",22,65,72,"LASK Linz","CM",1400000,6000
+"663","Youri Regeer","Netherlands",17,65,81,"Ajax","CM",1800000,500
+"664","Ely Valderrey","Venezuela",35,65,65,"AC Mineros de Guayana","CM",275000,500
+"665","Mohammed Diomande","Côte d'Ivoire",19,65,79,"FC Nordsjælland","CM",1700000,2000
+"666","Vicente Rodríguez","Venezuela",26,65,65,"Caracas Fútbol Club","CM",775000,500
+"667","Franco Catarozzi","Uruguay",21,65,75,"Montevideo City Torque","CM",1600000,500
+"668","Senne Lynen","Belgium",22,65,70,"Royale Union Saint-Gilloise","CM",1100000,4000
+"669","Lautaro Ríos","Argentina",20,65,77,"Club Atlético Banfield","CM",1700000,3000
+"670","Sven Köhler","Germany",24,65,69,"VfL Osnabrück","CM",1e+06,1000
+"671","Sami Lahssaini","Belgium",22,65,71,"Seraing","CM",1100000,4000
+"672","Jack Payne","England",26,65,65,"Swindon Town","CM",775000,5000
+"673","Ebou Adams","Gambia",25,65,68,"Forest Green Rovers","CM",950000,5000
+"674","José Parodi","Peru",23,65,70,"Ayacucho","CM",1100000,500
+"675","Matt Butcher","England",24,65,69,"Accrington Stanley","CM",1e+06,2000
+"676","Maximiliano Gómez","Argentina",33,65,65,"Club Atlético Palmaflor","CM",450000,500
+"677","Callum Wright","England",21,65,75,"Cheltenham Town","CM",1600000,14000
+"678","Marcin Listkowski","Poland",23,65,72,"Lecce","CM",1400000,1000
+"679","Jon Ander Olasagasti Imizcoz","Spain",20,65,75,"Real Sociedad B","CM",1600000,2000
+"680","Bruno Leyes","Argentina",19,65,75,"Godoy Cruz","CM",1500000,2000
+"681","Edgardo Orzusa","Paraguay",31,65,65,"Club Olimpia","CM",575000,500
+"682","Edgar Zaracho","Paraguay",31,65,65,"Club Nacional","CM",575000,500
+"683","Jesse Bosch","Netherlands",21,65,73,"FC Twente","CM",1600000,2000
+"684","Philippe Rommens","Belgium",23,65,71,"Go Ahead Eagles","CM",1100000,2000
+"685","Miguel Muñoz Mora","Spain",26,65,66,"Burgos CF","CM",825000,2000
+"686","Ufuk Akyol","Germany",23,65,69,"Antalyaspor","CM",1e+06,4000
+"687","Andrea Schiavone","Italy",28,65,65,"US Salernitana 1919","CM",725000,10000
+"688","Michal Škvarka","Slovakia",28,65,65,"Wisla Kraków","CM",725000,2000
+"689","Eder González Tortella","Spain",24,65,68,"Sepsi OSK Sf. Gheorghe","CM",975000,3000
+"690","Diego Hoyos","Bolivia",28,65,65,"Club Deportivo Guabirá","CM",725000,500
+"691","Dean Huiberts","Netherlands",21,65,75,"PEC Zwolle","CM",1600000,2000
+"692","Esteban Valencia","Chile",21,65,76,"Unión La Calera","CM",1600000,800
+"693","Tomás Escalante","Argentina",21,65,70,"Defensa y Justicia","CM",1100000,3000
+"694","Kevin Salvatierra","Bolivia",19,65,77,"Club Bolívar","CM",1700000,500
+"695","William Velasco","Bolivia",21,65,72,"Independiente Petrolero","CM",1400000,500
+"696","Higor Matheus Meritão","Brazil",27,65,66,"Club Universidad Nacional","CM",825000,4000
+"697","Aritz Aldasoro Sarriegi","Spain",22,65,73,"Real Sociedad B","CM",1600000,2000
+"698","Thabang Monare","South Africa",31,65,65,"Orlando Pirates","CM",575000,500
+"699","Juan Sforza","Argentina",19,65,80,"Newell's Old Boys","CM",1700000,2000
+"700","Eric Barrios","Argentina",23,65,72,"Ayacucho","CM",1400000,500
+"701","Luis Andrés González","Venezuela",28,65,65,"Metropolitanos de Caracas FC","CM",725000,500
+"702","Habib Keïta","Mali",19,65,78,"Olympique Lyonnais","CM",1700000,8000
+"703","Nicolás Garayalde","Argentina",21,65,73,"Vélez Sarsfield","CM",1600000,3000
+"704","Iron Gomis","France",21,65,70,"USL Dunkerque","CM",1100000,1000
+"705","Lewis Wing","England",26,65,67,"Wycombe Wanderers","CM",875000,3000
+"706","Dennis Adeniran","England",22,65,74,"Sheffield Wednesday","CM",1600000,2000
+"707","Santiago Scotto","Uruguay",24,65,69,"LDU Quito","CM",1e+06,500
+"708","Edoardo Bove","Italy",19,65,80,"Roma","CM",1700000,7000
+"709","Beñat Turrientes Imaz","Spain",19,65,80,"Real Sociedad B","CM",1700000,1000
+"710","Ricardo Román","Bolivia",25,65,68,"Club Deportivo Oriente Petrolero","CM",950000,500
+"711","Marlon Ritter","Germany",26,65,66,"1. FC Kaiserslautern","CM",825000,2000
+"712","Adam Phillips","England",23,65,68,"Morecambe","CM",975000,8000
+"713","Joaquín Trasante","Uruguay",22,65,73,"Club Nacional de Football","CM",1600000,500
+"714","Kristoffer Askildsen","Norway",20,65,77,"U.C. Sampdoria","CM",1700000,4000
+"715","Merlin Röhl","Germany",18,65,77,"FC Ingolstadt 04","CM",1700000,2000
+"716","Jan Fortelný","Czech Republic",21,65,74,"AC Sparta Praha","CM",1600000,500
+"717","Ismael Gutiérrez Montilla","Spain",20,65,78,"Málaga CF","CM",1700000,2000
+"718","Florian Michel","France",29,65,65,"Grenoble Foot 38","CM",7e+05,2000
+"719","Alexis Sabella","Argentina",20,65,76,"San Lorenzo de Almagro","CM",1600000,3000
+"720","Julián López","Argentina",21,65,74,"Racing Club","CM",1600000,4000
+"721","Thomas van den Belt","Netherlands",20,65,75,"PEC Zwolle","CM",1600000,2000
+"722","Rui F. da Cunha Correia","Portugal",26,65,68,"Santa Clara","CM",925000,2000
+"723","Muzepper Mirahmetjan","China PR",30,65,65,"Shanghai Port FC","CM",675000,6000
+"724","Yushi Hasegawa","Japan",24,65,70,"Oita Trinita","CM",1100000,1000
+"725","Goodman Mosele","South Africa",21,65,72,"Orlando Pirates","CM",1400000,500
+"726","Gastón Comas","Argentina",23,65,72,"Unión de Santa Fe","CM",1400000,3000
+"727","Ryan Tunnicliffe","England",28,65,65,"Portsmouth","CM",725000,4000
+"728","Patrick Olsen","Denmark",27,65,65,"Slask Wroclaw","CM",750000,3000
+"729","Tom Conlon","England",25,65,65,"Port Vale","CM",775000,4000
+"730","Liam Kelly","Republic of Ireland",25,65,67,"Rochdale","CM",9e+05,3000
+"731","Gabriel Villamíl","Peru",20,64,73,"Club Bolívar","CM",1300000,500
+"732","Pablo Rai Lima","Bolivia",21,64,71,"Club Bolívar","CM",1200000,500
+"733","José Vera","Paraguay",30,64,64,"General Caballero (JLM)","CM",550000,500
+"734","Archie Collins","England",21,64,70,"Exeter City","CM",925000,2000
+"735","Lautaro Torres","Argentina",24,64,69,"Club Atlético Central Córdoba","CM",875000,3000
+"736","Vassilis Sourlis","Greece",18,64,79,"Olympiacos CFP","CM",1400000,500
+"737","Wesley Spieringhs","Netherlands",19,64,74,"Willem II","CM",1300000,1000
+"738","Naouirou Ahamada","France",19,64,78,"VfB Stuttgart","CM",1400000,3000
+"739","David Kasumu","Nigeria",21,64,73,"Milton Keynes Dons","CM",1300000,2000
+"740","Jay Matete","England",20,64,72,"Sunderland","CM",1300000,2000
+"741","Jhonder Gómez","Venezuela",19,64,71,"Estudiantes de Mérida","CM",1100000,500
+"742","Ángel Urdaneta","Venezuela",31,64,64,"Estudiantes de Mérida","CM",475000,500
+"743","Martin Adeline","France",17,64,78,"Stade de Reims","CM",1300000,750
+"744","Sachiro Toshima","Japan",25,64,67,"Kashiwa Reysol","CM",775000,3000
+"745","Dawid Kort","Poland",26,64,65,"PGE FKS Stal Mielec","CM",675000,1000
+"746","Nicolas Bruneel","France",24,64,69,"USL Dunkerque","CM",875000,1000
+"747","Federico Paradela","Argentina",22,64,73,"Club Atlético Sarmiento","CM",1300000,3000
+"748","Boubacar Traoré","Mali",19,64,75,"FC Metz","CM",1300000,2000
+"749","Ionu<U+021B> <U+0218>erban","Romania",29,64,64,"Campionii FC Arges","CM",575000,2000
+"750","Gonçalo Baptista Franco","Portugal",20,64,72,"Moreirense FC","CM",1300000,2000
+"751","Fernando Godoy","Argentina",31,64,64,"Club Sol de América","CM",475000,500
+"752","Lorik Emini","Switzerland",21,64,75,"FC Luzern","CM",1300000,3000
+"753","Anderson Cardozo","Venezuela",26,64,65,"AC Mineros de Guayana","CM",675000,500
+"754","Olaus Jair Skarsem","Norway",22,64,70,"Rosenborg BK","CM",925000,2000
+"755","Alfons Amade","Germany",21,64,75,"KV Oostende","CM",1300000,2000
+"756","Stefán Teitur Thórdarson","Iceland",22,64,72,"Silkeborg IF","CM",1300000,3000
+"757","Guilherme Borges Guedes","Portugal",19,64,80,"Vitória de Guimarães","CM",1500000,1000
+"758","Rodrigo Vera","Paraguay",25,64,67,"Club Nacional","CM",775000,500
+"759","Matthias Braunöder","Austria",19,64,79,"FK Austria Wien","CM",1400000,3000
+"760","Callum Camps","Northern Ireland",25,64,66,"Fleetwood Town","CM",725000,3000
+"761","Alejandro Domingo Gómez","Spain",19,64,79,"FC Cartagena","CM",1400000,1000
+"762","Finn Azaz","England",20,64,74,"Newport County","CM",1300000,10000
+"763","Patrick Vroegh","Netherlands",21,64,73,"Vitesse","CM",1300000,3000
+"764","Eneko Undabarrena Ubillos","Spain",28,64,64,"Burgos CF","CM",575000,2000
+"765","Iker Bilbao Mendiguren","Spain",25,64,67,"SD Amorebieta","CM",775000,2000
+"766","Tiago Banega","Argentina",22,64,72,"Patronato","CM",1300000,4000
+"767","Idriz Batha","Albania",29,64,64,"AFC UTA Arad","CM",575000,3000
+"768","Francesco Di Tacchio","Italy",31,64,64,"US Salernitana 1919","CM",475000,9000
+"769","Diego Navarro","Bolivia",28,64,64,"Club Atlético Nacional Potosí","CM",575000,500
+"770","Richard Calderón","Ecuador",28,64,64,"Club Social y Deportivo Macará","CM",575000,500
+"771","Miguel Quiroga","Bolivia",29,64,64,"Club Atlético Nacional Potosí","CM",575000,500
+"772","Thomas Van Den Keybus","Belgium",19,64,78,"Club Brugge KV","CM",1400000,3000
+"773","Waniss Taïbi","France",19,64,78,"Angers SCO","CM",1400000,3000
+"774","Kian Fitz-Jim","Netherlands",17,64,80,"Ajax","CM",1500000,500
+"775","Mario Barbery","Bolivia",19,64,77,"Club Atlético Nacional Potosí","CM",1400000,500
+"776","Tom Carroll","England",29,64,64,"Ipswich Town","CM",575000,4000
+"777","Gregorio Gracia Sánchez","Spain",19,64,80,"RCD Espanyol de Barcelona","CM",1500000,2000
+"778","Unai Veiga González","Spain",22,64,73,"Unión Deportiva Las Palmas","CM",1300000,2000
+"779","Fabian Rieder","Switzerland",19,64,81,"BSC Young Boys","CM",1500000,2000
+"780","Riccardo Ladinetti","Italy",20,64,77,"Cagliari","CM",1400000,5000
+"781","Björn Jopek","Germany",27,64,64,"FC Viktoria 1889 Berlin","CM",625000,1000
+"782","Rodrigo Marcos Rodrigues Andrade","Portugal",19,64,76,"Clube Sport Marítimo","CM",1400000,1000
+"783","Jair Tavares da Silva","Brazil",26,64,65,"HJK Helsinki","CM",675000,500
+"784","Lucas Rodríguez","Uruguay",28,64,64,"Carlos A. Mannucci","CM",575000,500
+"785","Anel Šabanadžovic","Bosnia and Herzegovina",22,64,72,"AEK Athens","CM",1300000,500
+"786","Daniel Aguilar","Mexico",23,64,71,"Puebla FC","CM",1200000,2000
+"787","Oswaldo Valenzuela","Peru",20,64,70,"Club Alianza Lima","CM",9e+05,500
+"788","Daniel Rojas","Bolivia",21,64,73,"Club Deportivo Oriente Petrolero","CM",1300000,500
+"789","Cristhian Árabe","Bolivia",29,64,64,"Club Always Ready","CM",575000,500
+"790","Daniel Lorenzo Guerrero","Spain",18,64,77,"Málaga CF","CM",1400000,850
+"791","Pedro Vite","Ecuador",19,64,77,"Vancouver Whitecaps FC","CM",1400000,1000
+"792","Jacob Ortmark","Sweden",23,64,67,"IFK Norrköping","CM",8e+05,2000
+"793","Kianz Froese","Canada",25,64,67,"TSV Havelse","CM",775000,600
+"794","Francisco Contreras","Mexico",22,64,72,"Fútbol Club Juárez","CM",1300000,2000
+"795","Rubén Darío Ríos","Argentina",25,64,65,"Club Nacional","CM",7e+05,500
+"796","Matthew Smith","England",20,64,74,"Doncaster Rovers","CM",1300000,2000
+"797","Hussain Al Qahtani","Saudi Arabia",26,64,65,"Al Shabab","CM",675000,8000
+"798","Ali Al Asmari","Saudi Arabia",24,64,69,"Al Ahli","CM",875000,7000
+"799","Ki Hun Yeom","Korea Republic",38,64,64,"Suwon Samsung Bluewings","CM",180000,1000
+"800","Jordan Holsgrove","Scotland",21,64,75,"RC Celta de Vigo","CM",1300000,4000
+"801","Hikmet Çiftçi","Turkey",23,64,71,"1. FC Kaiserslautern","CM",1200000,1000
+"802","Layonel Figueroa","Bolivia",21,64,71,"Club Deportivo Guabirá","CM",1200000,500
+"803","Tyler Morton","England",18,64,79,"Liverpool","CM",1400000,7000
+"804","Seydouba Cisse","Guinea",20,64,72,"CD Leganés","CM",1300000,2000
+"805","Emilio Sánchez","Mexico",27,64,65,"Mazatlán Futbol Club","CM",675000,3000
+"806","Lukas Petkov","Germany",20,64,74,"Sportclub Verl","CM",1300000,4000
+"807","Eduard Florescu","Romania",24,64,70,"FC Botosani","CM",925000,2000
+"808","Filippo Melegoni","Italy",22,64,73,"Genoa","CM",1300000,4000
+"809","Urby Emanuelson","Netherlands",35,64,64,"FC Utrecht","CM",230000,3000
+"810","Juan Manuel Bravo Alcántara","Spain",23,64,71,"AD Alcorcón","CM",1200000,2000
+"811","Carlo Adriano García Prades","Spain",20,64,75,"Villarreal CF","CM",1300000,5000
+"812","David Jones","England",36,64,64,"Wrexham AFC","CM",180000,500
+"813","Miguel Silva Reisinho","Portugal",22,64,71,"Boavista FC","CM",1200000,3000
+"814","Hans Nicolussi Caviglia","Italy",20,64,77,"Juventus","CM",1400000,10000
+"815","Àlex Carbonell Vallés","Spain",23,64,71,"RC Celta de Vigo","CM",1200000,5000
+"816","Alex Pattison","England",23,64,69,"Harrogate Town","CM",875000,3000
+"817","Bandiougou Fadiga","France",20,64,77,"Olympiacos CFP","CM",1400000,500
+"818","Ben Garrity","England",24,64,65,"Port Vale","CM",725000,3000
+"819","Rocco Reitz","Germany",19,64,78,"Sint-Truidense VV","CM",1400000,3000
+"820","Alejandro Suárez Cardero","Spain",17,64,81,"Real Oviedo","CM",1500000,500
+"821","Alberto Moreno Rebanal","Spain",19,64,81,"Atlético de Madrid","CM",1500000,6000
+"822","Charlie Patino","England",17,64,85,"Arsenal","CM",1800000,2000
+"823","Ethan Erhahon","Scotland",20,64,74,"St. Mirren","CM",1300000,1000
+"824","Josh Benson","England",21,64,73,"Barnsley","CM",1300000,7000
+"825","Juan Castro","Mexico",29,64,64,"Club Atlético de San Luis","CM",575000,4000
+"826","Florent Da Silva","France",18,63,79,"Olympique Lyonnais","CM",1200000,4000
+"827","Adrian Stanilewicz","Poland",21,63,70,"SV Darmstadt 98","CM",975000,2000
+"828","Julian Schwermann","Germany",21,63,72,"Sportclub Verl","CM",1100000,500
+"829","Carlos Esparragoza","Colombia",22,63,69,"Junior FC","CM",775000,700
+"830","Giorgi Kochorashvili","Georgia",22,63,74,"Levante Unión Deportiva","CM",1100000,5000
+"831","Conor Coventry","Republic of Ireland",21,63,74,"Milton Keynes Dons","CM",1100000,9000
+"832","Sander Christiansen","Norway",20,63,71,"Borussia Mönchengladbach","CM",1e+06,4000
+"833","Antoine Valério","France",21,63,72,"Nîmes Olympique","CM",1100000,1000
+"834","Joe Riley","England",24,63,67,"Carlisle United","CM",675000,3000
+"835","Warren Bondo","France",17,63,80,"AS Nancy Lorraine","CM",1200000,500
+"836","Santiago Zamora","Ecuador",19,63,71,"C.D. Universidad Católica del Ecuador","CM",1e+06,500
+"837","Filip Jørgensen","Norway",19,63,77,"Odds BK","CM",1100000,750
+"838","Gabriel Barès","Switzerland",20,63,71,"Montpellier Hérault SC","CM",1e+06,4000
+"839","Félix Lemaréchal","France",17,63,80,"AS Monaco","CM",1200000,1000
+"840","Tiago Galletto","Uruguay",19,63,76,"Club Atlético River Plate","CM",1100000,500
+"841","Abel Bustos","Argentina",22,63,73,"Club Atlético Central Córdoba","CM",1100000,3000
+"842","Ted Bishop","England",24,63,66,"Lincoln City","CM",650000,3000
+"843","Juan Pablo Passaglia","Argentina",32,63,63,"AFC Chindia Târgovi<U+0219>te","CM",375000,2000
+"844","Jakob Bonde","Denmark",27,63,63,"Viborg FF","CM",5e+05,3000
+"845","Nuno Henrique Pina Nunes","Portugal",22,63,73,"CF Fuenlabrada","CM",1100000,2000
+"846","Emiliano Clavijo","Ecuador",21,63,71,"C.D. Universidad Católica del Ecuador","CM",1100000,500
+"847","Braima Embaló Sambú","Portugal",20,63,73,"Belenenses SAD","CM",1e+06,1000
+"848","José Estupiñán","Colombia",21,63,70,"La Equidad","CM",975000,500
+"849","Robinson Flores","Venezuela",23,63,70,"Metropolitanos de Caracas FC","CM",950000,500
+"850","Sebastián González","Ecuador",18,63,76,"LDU Quito","CM",1100000,500
+"851","Gedion Zelalem","United States",24,63,68,"New York City FC","CM",725000,2000
+"852","Leighton Clarkson","England",19,63,78,"Liverpool","CM",1100000,10000
+"853","Sander Erik Kartum","Norway",25,63,66,"Kristiansund BK","CM",625000,1000
+"854","Rafael Vicente Ferreira Santos","Portugal",24,63,68,"Belenenses SAD","CM",725000,1000
+"855","Luciano Vega","Argentina",22,63,71,"Estoril Praia","CM",1100000,2000
+"856","Rodrigo Montes","Argentina",21,63,73,"Club Atlético Central Córdoba","CM",1100000,3000
+"857","Daniel Garrido Peña","Spain",21,63,73,"Real Sociedad B","CM",1100000,1000
+"858","Edvard Sandvik Tagseth","Norway",20,63,75,"Rosenborg BK","CM",1200000,1000
+"859","Tashan Oakley-Boothe","England",21,63,74,"Stoke City","CM",1100000,5000
+"860","Reo Yasunaga","Japan",20,63,73,"Yokohama FC","CM",1e+06,850
+"861","Fabián Ángel","Colombia",20,63,76,"Junior FC","CM",1200000,600
+"862","Francisco Ginella","Uruguay",22,63,72,"Los Angeles FC","CM",1100000,2000
+"863","Stéfano Ardaya","Bolivia",22,63,67,"Club The Strongest","CM",7e+05,500
+"864","Kohei Okuno","Japan",21,63,71,"Gamba Osaka","CM",1100000,2000
+"865","Hiram Boateng","England",25,63,65,"Milton Keynes Dons","CM",6e+05,2000
+"866","Masaki Ikeda","Japan",21,63,70,"Shonan Bellmare","CM",975000,850
+"867","Jorginho Sernaqué","Peru",26,63,64,"Universidad Técnica de Cajamarca","CM",550000,500
+"868","Alfie McCalmont","Northern Ireland",21,63,71,"Morecambe","CM",1100000,10000
+"869","Adrian Malachowski","Poland",23,63,68,"1. FC Magdeburg","CM",725000,1000
+"870","Ariel Shuarztman","Paraguay",23,63,68,"12 de Octubre FC","CM",725000,500
+"871","Nahom Girmai Netabay","Sweden",26,63,64,"Kalmar FF","CM",550000,1000
+"872","Josh Falkingham","England",30,63,63,"Harrogate Town","CM",450000,3000
+"873","Máté Katona","Hungary",24,63,70,"Ferencvárosi TC","CM",950000,500
+"874","Daniel Pereira","Venezuela",20,63,73,"Austin FC","CM",1e+06,1000
+"875","Niccolò Zanellato","Italy",23,63,72,"Crotone","CM",1100000,750
+"876","Craig Eastmond","England",30,63,63,"Sutton United","CM",450000,2000
+"877","Abdoullah Ba","France",17,63,76,"Le Havre AC","CM",1100000,500
+"878","Sergio Guerrero Romero","Spain",22,63,72,"Atlético de Madrid","CM",1100000,8000
+"879","Nicolae Paun","Romania",22,63,72,"Sepsi OSK Sf. Gheorghe","CM",1100000,3000
+"880","Kléri Serber","France",22,63,68,"Toulouse Football Club","CM",725000,2000
+"881","Sergio Lozano Lluch","Spain",22,63,72,"Villarreal CF","CM",1100000,5000
+"882","Maximiliano Rogoski","Argentina",27,63,64,"Arsenal de Sarandí","CM",550000,2000
+"883","Barry Maguire","Scotland",23,63,69,"Motherwell","CM",750000,2000
+"884","Daniel Villahermosa","Spain",20,63,75,"RCD Espanyol de Barcelona","CM",1200000,3000
+"885","Niilo Mäenpää","Finland",23,63,66,"Warta Poznan","CM",650000,900
+"886","Abraham Bahachille","Venezuela",20,63,76,"Metropolitanos de Caracas FC","CM",1200000,500
+"887","Johannes Naschberger","Austria",21,63,72,"WSG Tirol","CM",1100000,2000
+"888","Ander Gorostidi García","Spain",25,63,66,"AD Alcorcón","CM",625000,2000
+"889","Simone Muratore","Italy",23,63,71,"CD Tondela","CM",1100000,2000
+"890","Anders Klynge","Denmark",20,63,71,"Silkeborg IF","CM",1e+06,2000
+"891","Homero Calderón","Venezuela",27,63,63,"Aragua Fútbol Club","CM",5e+05,500
+"892","Michal Hlavatý","Czech Republic",22,63,70,"FC Viktoria Plzen","CM",975000,500
+"893","Adam Carlén","Sweden",21,63,71,"Degerfors IF","CM",1100000,700
+"894","Jordon Mutch","England",29,63,63,"Macarthur FC","CM",475000,1000
+"895","Eliézer Meléndez","Venezuela",20,63,72,"Hermanos Colmenarez","CM",1e+06,500
+"896","Gonzalo Nápoli","Uruguay",21,63,71,"Club Atlético River Plate","CM",1100000,500
+"897","Dylan Portilla","Chile",17,63,78,"Colo-Colo","CM",1100000,500
+"898","Álvaro Bravo Jiménez","Spain",23,63,70,"CF Fuenlabrada","CM",950000,2000
+"899","Matías de los Santos","Uruguay",22,63,70,"Club Atlético Peñarol","CM",975000,500
+"900","Hugo Quintana","Paraguay",19,63,73,"Club Olimpia","CM",1e+06,500
+"901","Alfie Lewis","England",21,63,71,"Plymouth Argyle","CM",1100000,2000
+"902","Stephen Quinn","Republic of Ireland",35,63,63,"Mansfield Town","CM",190000,3000
+"903","Esat Mala","Albania",21,63,72,"GZT Giresunspor","CM",1100000,2000
+"904","Simon Sohlmacher","Germany",29,63,63,"Türkgücü München","CM",475000,2000
+"905","Emil Kornvig","Denmark",21,63,73,"SønderjyskE","CM",1100000,3000
+"906","Robert Wagner","Germany",17,63,72,"SC Freiburg II","CM",1e+06,500
+"907","Richie Towell","Republic of Ireland",29,63,63,"Shamrock Rovers","CM",475000,1000
+"908","George Thomason","England",20,63,70,"Bolton Wanderers","CM",950000,2000
+"909","Soufiane Messeguem","Germany",20,63,72,"FC Erzgebirge Aue","CM",1e+06,2000
+"910","Vinko Sapina","Germany",26,62,65,"Sportclub Verl","CM",525000,600
+"911","Unai Rementería Castro","Spain",21,62,71,"Athletic Club de Bilbao","CM",9e+05,1000
+"912","Luis Fernández","Paraguay",32,62,62,"General Caballero (JLM)","CM",325000,500
+"913","Mauro Estol","Uruguay",26,62,63,"Montevideo Wanderers","CM",475000,500
+"914","Abdallahi Mahmoud","Mauritania",20,62,75,"Deportivo Alavés","CM",950000,3000
+"915","Jacob Maddox","England",22,62,70,"Burton Albion","CM",9e+05,2000
+"916","Dawson Devoy","Republic of Ireland",19,62,79,"Bohemian FC","CM",1e+06,500
+"917","Alejandro Organista","Mexico",21,62,70,"Club Deportivo Guadalajara","CM",9e+05,6000
+"918","William Mejía","Mexico",22,62,70,"Club Atlético de San Luis","CM",9e+05,7000
+"919","Dylan Watts","Republic of Ireland",24,62,67,"Shamrock Rovers","CM",6e+05,700
+"920","Sergio Carrasco González","Spain",22,62,70,"SD Huesca","CM",9e+05,2000
+"921","Nicholas Pennington","Australia",22,62,68,"Wellington Phoenix","CM",625000,900
+"922","Víctor Cuellar","Bolivia",20,62,70,"Club Atlético Nacional Potosí","CM",875000,500
+"923","Christos Kourfalidis","Greece",18,62,73,"Cagliari","CM",825000,2000
+"924","Luca Herrmann","Germany",22,62,70,"SG Dynamo Dresden","CM",9e+05,3000
+"925","David Zalzman","Venezuela",25,62,66,"Deportivo Táchira FC","CM",550000,500
+"926","César Tejena","Ecuador",25,62,67,"Delfín Sporting Club","CM",575000,500
+"927","Emmanuel Boateng","Ghana",24,62,69,"IF Elfsborg","CM",8e+05,1000
+"928","Juan Mercado","Bolivia",24,62,67,"Club Deportivo Oriente Petrolero","CM",6e+05,500
+"929","Carlos Eduardo Oliveira Dias","Brazil",20,62,75,"APOEL Nicosia FC","CM",950000,500
+"930","Hector Kyprianou","Cyprus",20,62,71,"Leyton Orient","CM",875000,2000
+"931","Francisco Parra","Paraguay",29,62,62,"Guaireña FC","CM",4e+05,500
+"932","Mike-Steven Bähre","Germany",25,62,65,"SV Meppen","CM",525000,550
+"933","Maximiliano Luayza","Argentina",19,62,72,"Defensa y Justicia","CM",850000,2000
+"934","Oussama Targhalline","Morocco",19,62,78,"Olympique de Marseille","CM",1e+06,4000
+"935","Regan Slater","England",21,62,71,"Hull City","CM",9e+05,2000
+"936","Juan José Miguel","Mexico",24,62,67,"Club Universidad Nacional","CM",6e+05,2000
+"937","Aimar Sher","Sweden",18,62,77,"Spezia","CM",925000,1000
+"938","Tomoki Takamine","Japan",23,62,67,"Hokkaido Consadole Sapporo","CM",6e+05,1000
+"939","Giannis Satsias","Cyprus",18,62,74,"APOEL Nicosia FC","CM",925000,500
+"940","Emyr Huws","Wales",27,62,62,"Colchester United","CM",425000,3000
+"941","Dominik Meisel","Germany",22,62,70,"FC Würzburger Kickers","CM",9e+05,2000
+"942","Frangoy Zambrano","Ecuador",24,62,67,"Club Social y Deportivo Macará","CM",6e+05,500
+"943","Takuya Shigehiro","Japan",26,62,63,"Avispa Fukuoka","CM",475000,1000
+"944","Isaac Hutchinson","England",21,62,66,"Crawley Town","CM",575000,2000
+"945","Gary Magnée","Belgium",21,62,71,"KAS Eupen","CM",9e+05,2000
+"946","Jean Carlos Pineda","Colombia",23,62,67,"Independiente Medellín","CM",6e+05,750
+"947","Jean Carlos Colorado","Colombia",20,62,74,"Platense","CM",950000,2000
+"948","Kento Haneda","Japan",23,62,67,"Oita Trinita","CM",6e+05,900
+"949","Ji Hun Cho","Korea Republic",31,62,62,"FC Seoul","CM",325000,1000
+"950","Melih Ibrahimoglu","Turkey",20,62,72,"Heracles Almelo","CM",875000,1000
+"951","Diego Guillen","Venezuela",20,62,70,"Estudiantes de Mérida","CM",875000,500
+"952","Johannes Tartarotti","Austria",21,62,69,"SC Rheindorf Altach","CM",8e+05,2000
+"953","Liam Shaw","England",20,62,74,"Motherwell","CM",950000,7000
+"954","Harry Charsley","Republic of Ireland",24,62,63,"Port Vale","CM",5e+05,2000
+"955","Antonio Moyano Carrasquilla","Spain",20,62,73,"AD Alcorcón","CM",875000,1000
+"956","Martín Solar Ruiz","Spain",21,62,73,"Granada CF","CM",9e+05,3000
+"957","Kacper Smolinski","Poland",20,62,76,"Pogon Szczecin","CM",950000,1000
+"958","Antonio Vera Carrillo","Spain",19,62,75,"Getafe CF","CM",950000,3000
+"959","Félix Alonso Expósito","Spain",20,62,74,"CD Tenerife","CM",950000,1000
+"960","Markus Solbakken","Norway",20,62,73,"Viking FK","CM",875000,850
+"961","Franco Díaz","Argentina",20,62,74,"Vélez Sarsfield","CM",950000,2000
+"962","Kamory Doumbia","Mali",18,62,77,"Stade de Reims","CM",925000,2000
+"963","Mathis Picouleau","France",21,62,71,"Valenciennes FC","CM",9e+05,1000
+"964","Chao He","China PR",26,62,63,"Guangzhou FC","CM",475000,4000
+"965","Mathis Lachuer","France",20,62,74,"Amiens SC","CM",950000,1000
+"966","Nikola Stosic","Austria",21,62,70,"SV Ried","CM",9e+05,2000
+"967","Pelayo González Rey","Spain",16,62,81,"Real Oviedo","CM",1e+06,500
+"968","Emirhan Ilkhan","Turkey",17,62,79,"Besiktas JK","CM",1e+06,900
+"969","Taylor Booth","United States",20,62,75,"FC Bayern München","CM",950000,8000
+"970","Thabo Cele","South Africa",24,62,66,"Radomiak Radom","CM",575000,900
+"971","Héctor Lezcano","Paraguay",23,62,62,"General Caballero (JLM)","CM",450000,500
+"972","Jorge Ortiz","Argentina",37,62,62,"Arsenal de Sarandí","CM",130000,2000
+"973","Jon Mellish","England",23,62,66,"Carlisle United","CM",575000,2000
+"974","Adam Randell","England",20,62,72,"Plymouth Argyle","CM",875000,2000
+"975","Nico Gorzel","Germany",22,62,66,"Türkgücü München","CM",575000,1000
+"976","Sergey Babkin","Russia",18,62,71,"FC Lokomotiv Moscow","CM",825000,3000
+"977","Maksim Petrov","Russia",20,62,71,"FC Lokomotiv Moscow","CM",875000,6000
+"978","Felipe Hernandez","United States",23,62,70,"Sporting Kansas City","CM",875000,1000
+"979","Nick Freeman","England",25,62,64,"Wycombe Wanderers","CM",5e+05,2000
+"980","Catalin Cîrjan","Romania",18,62,78,"Arsenal","CM",1e+06,4000
+"981","Jamshid Iskanderov","Uzbekistan",27,62,62,"Seongnam FC","CM",425000,1000
+"982","Aldo Maiz","Paraguay",20,61,75,"Arsenal de Sarandí","CM",775000,2000
+"983","Ugo Bertelli","France",17,61,75,"Olympique de Marseille","CM",750000,750
+"984","Rasmus Örqvist","Sweden",22,61,66,"Degerfors IF","CM",5e+05,650
+"985","Alejandro Blanco Olmedo","Spain",19,61,71,"CF Fuenlabrada","CM",7e+05,850
+"986","Tim Civeja","Germany",19,61,78,"FC Augsburg","CM",850000,2000
+"987","Tochi Chukwuani","Denmark",18,61,75,"FC Nordsjælland","CM",750000,800
+"988","Sebastián Jaurena","Argentina",21,61,67,"Unión de Santa Fe","CM",525000,2000
+"989","Xavier Pons Foncillas","Spain",20,61,71,"FC Cartagena","CM",725000,1000
+"990","Eduard Radaslavescu","Romania",16,61,78,"FC Farul Constan<U+021B>a","CM",825000,500
+"991","Damian Isac","Romania",20,61,70,"AFC UTA Arad","CM",725000,1000
+"992","Joseph Akomadi","Ghana",20,61,70,"Atakas Hatayspor","CM",725000,2000
+"993","Christopher Missilou","Congo",28,61,61,"Oldham Athletic","CM",325000,3000
+"994","Edgar Games","Mexico",20,61,72,"Santos Laguna","CM",725000,3000
+"995","Edenilson Michels","Brazil",28,61,61,"Club Atlético Nacional Potosí","CM",325000,500
+"996","Alassane Sidibe","Côte d'Ivoire",19,61,76,"Atalanta","CM",775000,4000
+"997","Marco García","Mexico",21,61,70,"Club Universidad Nacional","CM",725000,2000
+"998","Zahid Muñoz","Mexico",20,61,70,"Club Atlético de San Luis","CM",725000,6000
+"999","Luis Serrano","Bolivia",23,61,63,"Club Atlético Palmaflor","CM",425000,500
+"1000","Denilson Espinoza","Bolivia",20,61,68,"Club The Strongest","CM",650000,500
+"1001","Tom White","England",24,61,65,"Barrow","CM",475000,2000
+"1002","Jake Cain","England",19,61,73,"Newport County","CM",775000,8000
+"1003","Scott Robertson","Scotland",19,61,76,"Crewe Alexandra","CM",775000,5000
+"1004","Yigit Emre Çeltik","Turkey",18,61,76,"Fortuna Sittard","CM",750000,800
+"1005","Yassin Oukili","Netherlands",20,61,74,"RKC Waalwijk","CM",775000,1000
+"1006","Pablo Ayala","Paraguay",26,61,64,"Guaireña FC","CM",425000,500
+"1007","Damián Bobadilla","Paraguay",19,61,68,"Club Cerro Porteño","CM",625000,500
+"1008","Andy Diouf","France",18,61,79,"Stade Rennais FC","CM",825000,2000
+"1009","Iván Castillo Jiménez","Spain",21,61,72,"Real Zaragoza","CM",725000,1000
+"1010","Janpierr Cano","Peru",20,61,69,"Carlos A. Mannucci","CM",725000,500
+"1011","Léon Delpech","France",18,61,72,"Nîmes Olympique","CM",7e+05,500
+"1012","Alessio Riccardi","Italy",20,61,74,"Roma","CM",775000,6000
+"1013","Kristian Arnstad","Norway",17,61,79,"RSC Anderlecht","CM",825000,500
+"1014","Jordan Stevens","England",21,61,71,"Barrow","CM",725000,1000
+"1015","Kuryu Matsuki","Japan",18,61,74,"FC Tokyo","CM",750000,700
+"1016","Daniel Albiar Serrano","Spain",20,61,73,"Unión Deportiva Almería","CM",775000,1000
+"1017","Nelson Palacio","Colombia",20,61,73,"Atlético Nacional","CM",775000,500
+"1018","José Andrés Rodríguez","Bolivia",21,61,68,"Club Deportivo Guabirá","CM",675000,500
+"1019","Mohammed Al Majhad","Saudi Arabia",24,61,64,"Al Ahli","CM",450000,6000
+"1020","Callum Whelan","England",22,61,68,"Oldham Athletic","CM",675000,2000
+"1021","Fidel Ambríz","Mexico",18,61,73,"Club León","CM",750000,1000
+"1022","Mike Könnecke","Germany",32,61,61,"FSV Zwickau","CM",250000,650
+"1023","Max Anderson","Scotland",20,61,71,"Dundee FC","CM",725000,1000
+"1024","Mark Shelton","England",24,61,64,"Hartlepool United","CM",450000,2000
+"1025","Marcos Gómez","Paraguay",19,61,78,"Club Olimpia","CM",850000,500
+"1026","Baltasar Barcia","Uruguay",20,61,71,"Club Atlético Rentistas","CM",725000,500
+"1027","Daniel Camacho","Bolivia",22,61,67,"Club The Strongest","CM",525000,500
+"1028","Constantin Grameni","Romania",18,61,78,"FC Farul Constan<U+021B>a","CM",825000,750
+"1029","Julius Eskesen","Denmark",22,61,68,"FK Haugesund","CM",675000,750
+"1030","Gianlucca Fatecha","Paraguay",23,61,67,"Club Sol de América","CM",525000,500
+"1031","Jean Paul Madera","Venezuela",22,61,70,"Deportivo Táchira FC","CM",725000,500
+"1032","Rocco Ascone","France",17,61,80,"FC Nordsjælland","CM",825000,700
+"1033","Joscha Wosz","Germany",18,61,77,"Hallescher FC","CM",825000,500
+"1034","Gavan Holohan","Republic of Ireland",29,61,61,"Hartlepool United","CM",325000,3000
+"1035","Ignacio Neira","Uruguay",23,61,67,"Montevideo City Torque","CM",525000,500
+"1036","Williot Swedberg","Sweden",17,61,80,"Hammarby IF","CM",825000,500
+"1037","Zidane Iqbal","Iraq",18,61,79,"Manchester United","CM",825000,5000
+"1038","Souleymane Cissé","Senegal",29,61,61,"Grenoble Foot 38","CM",325000,1000
+"1039","Alejandro Claverías Gutiérrez","Spain",21,61,71,"UD Ibiza","CM",725000,1000
+"1040","Pablo Ibáñez Lumbreras","Spain",22,61,69,"CA Osasuna","CM",725000,4000
+"1041","Gastón Pérez","Uruguay",21,61,69,"Liverpool Fútbol Club","CM",725000,500
+"1042","Luis Sánchez","Colombia",20,61,74,"América de Cali","CM",775000,650
+"1043","Bruno Liuzzi","Argentina",20,61,68,"Club Atlético Sarmiento","CM",650000,2000
+"1044","Adnan Ugur","Belgium",20,61,74,"Fatih Karagümrük S.K.","CM",775000,2000
+"1045","Jordan Davies","Wales",22,61,67,"Wrexham AFC","CM",525000,500
+"1046","Andri Fannar Baldursson","Iceland",19,61,75,"F.C. København","CM",775000,3000
+"1047","Javier Guerra Moreno","Spain",18,61,79,"Valencia CF","CM",825000,2000
+"1048","Roger Martínez Santamaría","Spain",17,61,77,"RCD Espanyol de Barcelona","CM",825000,500
+"1049","Fisayo Dele-Bashiru","Nigeria",20,61,71,"Sheffield Wednesday","CM",725000,1000
+"1050","Sergio Arratia Lechosa","Spain",21,61,72,"Rayo Vallecano","CM",725000,2000
+"1051","Walter Tandazo","Peru",21,61,70,"FBC Melgar","CM",725000,500
+"1052","Pablo Labrín","Peru",20,61,70,"FBC Melgar","CM",725000,500
+"1053","Davy van den Berg","Netherlands",21,61,71,"FC Utrecht","CM",725000,2000
+"1054","Gabriel Veiga Novas","Spain",19,61,81,"RC Celta de Vigo","CM",925000,2000
+"1055","Sacha Delaye","France",19,61,75,"Montpellier Hérault SC","CM",775000,2000
+"1056","Redwan Bourlès","France",18,61,74,"FC Lorient","CM",750000,1000
+"1057","Marcelino Ñamandú","Paraguay",21,61,70,"Club Cerro Porteño","CM",725000,500
+"1058","Olly Pendlebury","England",19,61,73,"Wycombe Wanderers","CM",775000,1000
+"1059","Leonardo Sánchez","Bolivia",23,61,67,"Club Deportivo Oriente Petrolero","CM",525000,500
+"1060","Leandro Fernandes da Cunha","Netherlands",21,61,70,"PEC Zwolle","CM",725000,1000
+"1061","Odin Thiago Holm","Norway",18,61,79,"Vålerenga Fotball","CM",825000,500
+"1062","Ciaran Gilligan","Republic of Ireland",19,60,73,"Burton Albion","CM",575000,800
+"1063","Amaury García","Mexico",19,60,75,"Club Universidad Nacional","CM",575000,1000
+"1064","Junior Olaitan Ishola","Benin",19,60,71,"Chamois Niortais Football Club","CM",525000,700
+"1065","George McEachran","England",20,60,74,"Chelsea","CM",6e+05,10000
+"1066","Juan Briones","Ecuador",19,60,70,"Sociedad Deportiva Aucas","CM",525000,500
+"1067","Diego Gomez","Mexico",17,60,73,"Club Necaxa","CM",550000,500
+"1068","Ángel Zapata","Mexico",20,60,74,"CF Monterrey","CM",6e+05,5000
+"1069","Ignacio Agustín Rodríguez","Argentina",19,60,73,"Club Atlético Banfield","CM",575000,1000
+"1070","Mario García","Uruguay",21,60,70,"Club Atlético Rentistas","CM",550000,500
+"1071","Karel Campos","Mexico",18,60,72,"Club América","CM",575000,2000
+"1072","David Ayala","Mexico",21,60,70,"Tigres U.A.N.L.","CM",550000,5000
+"1073","Charles M'Mombwa","Congo DR",23,60,66,"Macarthur FC","CM",375000,800
+"1074","Stan Van Dessel","Belgium",19,60,71,"Sint-Truidense VV","CM",525000,1000
+"1075","Neil El Aynaoui","France",19,60,73,"AS Nancy Lorraine","CM",575000,750
+"1076","Kerem Sen","Turkey",19,60,75,"Trabzonspor","CM",575000,2000
+"1077","Efe Tatli","Turkey",18,60,69,"Fatih Karagümrük S.K.","CM",525000,850
+"1078","Martin Niøten Palumbo","Norway",18,60,78,"Udinese Calcio","CM",625000,950
+"1079","Hugo Rojas","Bolivia",27,60,60,"Club Deportivo Oriente Petrolero","CM",250000,500
+"1080","Hyun Muk Kang","Korea Republic",20,60,74,"Suwon Samsung Bluewings","CM",6e+05,850
+"1081","Alexandre Jankewitz","Switzerland",19,60,76,"FC St. Gallen 1879","CM",625000,2000
+"1082","Mario Ordoñez Cruz","Spain",21,60,72,"SD Ponferradina","CM",6e+05,1000
+"1083","Jofre Cherta Clara","Spain",20,60,74,"CD Mirandés","CM",6e+05,1000
+"1084","José Villalobos","Peru",22,60,67,"Universidad Técnica de Cajamarca","CM",5e+05,500
+"1085","Francisco Valdés","Chile",19,60,74,"Club de Deportes Cobresal","CM",575000,500
+"1086","Florian Chabrolle","France",23,60,67,"AC Ajaccio","CM",5e+05,1000
+"1087","Adrian Oeynhausen","Germany",19,60,69,"SC Paderborn 07","CM",525000,2000
+"1088","Deian Verón","Argentina",20,60,71,"Club Atlético Central Córdoba","CM",550000,2000
+"1089","Rohat Agca","Netherlands",19,60,73,"Heracles Almelo","CM",575000,800
+"1090","Joe White","England",18,60,76,"Hartlepool United","CM",625000,2000
+"1091","Camilo Góngora","Bolivia",19,60,68,"Club Deportivo Guabirá","CM",525000,500
+"1092","Wilmer Rojas","Bolivia",19,60,72,"Club Deportivo Guabirá","CM",575000,500
+"1093","Lucas Naranjo","Argentina",19,60,73,"Atlético Tucumán","CM",575000,1000
+"1094","Elio Salazar","Bolivia",20,60,67,"Club Deportivo Guabirá","CM",475000,500
+"1095","Alieu Fadera","Gambia",19,60,74,"SV Zulte Waregem","CM",575000,1000
+"1096","Jose Eduardo Chambi","Bolivia",20,60,69,"Club Always Ready","CM",550000,500
+"1097","George Broadbent","England",20,60,71,"Rochdale","CM",550000,3000
+"1098","Bagner Ruiz","Ecuador",19,60,69,"Guayaquil City FC","CM",525000,500
+"1099","Bilal Nadir","France",17,60,74,"Olympique de Marseille","CM",550000,700
+"1100","James Olayinka","England",20,60,72,"Arsenal","CM",6e+05,8000
+"1101","Edgar López","Mexico",22,60,67,"Club Tijuana","CM",5e+05,3000
+"1102","Fabio Markelic","Austria",19,60,70,"SK Austria Klagenfurt","CM",525000,1000
+"1103","Yaw Moses","Ghana",22,60,67,"FC Arouca","CM",5e+05,1000
+"1104","Albin Winbo","Sweden",23,60,64,"Varbergs BoIS FC","CM",350000,600
+"1105","Mateusz Legowski","Poland",18,60,75,"Pogon Szczecin","CM",575000,550
+"1106","Jesse Daley","Australia",23,60,65,"Brisbane Roar","CM",375000,950
+"1107","Marian <U+0218>erban","Romania",20,60,68,"AFC Chindia Târgovi<U+0219>te","CM",550000,1000
+"1108","Enrique Camargo","Colombia",19,60,67,"Deportivo Cali","CM",475000,500
+"1109","Luka Gagnidze","Georgia",18,60,73,"Raków Czestochowa","CM",575000,550
+"1110","Ismet Lushaku","Kosovo",20,60,71,"Varbergs BoIS FC","CM",550000,550
+"1111","Guillermo Balzi","Argentina",19,60,72,"Newell's Old Boys","CM",575000,1000
+"1112","Kristoffer Khazeni","Sweden",26,60,61,"IFK Norrköping","CM",3e+05,1000
+"1113","Cheick Souaré","France",18,60,73,"Olympique de Marseille","CM",575000,2000
+"1114","Mateo Enríquez Luna","Spain",19,60,74,"Girona FC","CM",575000,1000
+"1115","Julio Báez","Paraguay",21,60,68,"Club Cerro Porteño","CM",550000,500
+"1116","Alejandro Balboa Bandeira","Equatorial Guinea",20,60,73,"Deportivo Alavés","CM",6e+05,3000
+"1117","Walim Lgharbi","France",18,60,76,"Angers SCO","CM",625000,1000
+"1118","Jhon Mena","Bolivia",22,60,67,"Club Atlético Palmaflor","CM",5e+05,500
+"1119","Cristian Cruz","Venezuela",19,60,72,"Deportivo Táchira FC","CM",575000,500
+"1120","Ismaël Koné","Canada",19,60,79,"Club de Foot Montréal","CM",625000,800
+"1121","Caleb Watts","Australia",19,60,70,"Crawley Town","CM",525000,4000
+"1122","Bryang Kayo","United States",18,60,76,"FC Viktoria 1889 Berlin","CM",625000,3000
+"1123","Kartal Yilmaz","Turkey",19,60,75,"Besiktas JK","CM",575000,4000
+"1124","Zico Buurmeester","Netherlands",19,60,71,"AZ Alkmaar","CM",525000,1000
+"1125","Jack McGlynn","United States",17,60,74,"Philadelphia Union","CM",550000,500
+"1126","Alberto Vaquero Aguilar","Spain",17,60,81,"Real Zaragoza","CM",775000,500
+"1127","Carlos Beitia Cardos","Spain",21,60,73,"RC Celta de Vigo","CM",6e+05,3000
+"1128","Patricio Damián Pérez","Argentina",20,60,69,"Platense","CM",550000,2000
+"1129","Djenahro Nunumete","Netherlands",19,60,74,"SC Heerenveen","CM",575000,900
+"1130","Pedro Ortiz Bernat","Spain",20,60,74,"Sevilla FC","CM",6e+05,3000
+"1131","Santeri Väänänen","Finland",19,60,75,"HJK Helsinki","CM",575000,500
+"1132","Daniel Toma","Romania",21,60,71,"CS Mioveni","CM",550000,800
+"1133","Aaron Ramsey","England",18,60,79,"Cheltenham Town","CM",625000,650
+"1134","Tim Latteier","Germany",21,60,67,"1. FC Nürnberg","CM",5e+05,2000
+"1135","Matías Rosales","Argentina",22,60,69,"Burgos CF","CM",550000,1000
+"1136","Antonio Foti","Cyprus",17,60,80,"Eintracht Frankfurt","CM",675000,550
+"1137","Taiyo Hiraoka","Japan",18,60,71,"Shonan Bellmare","CM",525000,500
+"1138","Jordan James","Wales",16,60,78,"Birmingham City","CM",6e+05,500
+"1139","Sander Risan Mørk","Norway",20,60,71,"Sandefjord Fotball","CM",550000,600
+"1140","Diego Rafael Pereira Batista","Portugal",21,60,71,"Futebol Clube de Famalicão","CM",550000,1000
+"1141","Tyler Onyango","England",18,60,80,"Everton","CM",675000,4000
+"1142","Jimmy Pérez","Peru",20,60,70,"Sport Huancayo","CM",550000,500
+"1143","Gustavo Iturra","Argentina",22,60,69,"Unión La Calera","CM",550000,600
+"1144","Álex Vázquez","Uruguay",19,60,72,"Liverpool Fútbol Club","CM",575000,500
+"1145","Leonardo Justiniano","Bolivia",19,60,69,"Club Atlético Nacional Potosí","CM",525000,500
+"1146","Adelio Zárate","Paraguay",20,60,68,"Club Olimpia","CM",550000,500
+"1147","Konstantinos Roukounakis","Greece",19,60,75,"AEK Athens","CM",575000,500
+"1148","Lars Nussbaumer","Austria",20,59,68,"SC Rheindorf Altach","CM",5e+05,2000
+"1149","Steve Mvoué","Cameroon",19,59,76,"Toulouse Football Club","CM",575000,750
+"1150","Lewis Warrington","England",18,59,69,"Tranmere Rovers","CM",475000,4000
+"1151","Guillermo Wagner","Uruguay",19,59,72,"Montevideo Wanderers","CM",525000,500
+"1152","Dean Cornelius","Scotland",20,59,73,"Motherwell","CM",550000,1000
+"1153","Jack Young","England",20,59,73,"Wycombe Wanderers","CM",550000,1000
+"1154","Hayden Hackney","England",19,59,72,"Scunthorpe United","CM",525000,3000
+"1155","Paris Maghoma","England",20,59,73,"Brentford","CM",550000,5000
+"1156","Jean N'Guessan","Côte d'Ivoire",18,59,69,"FC Lausanne-Sport","CM",475000,2000
+"1157","Moritz Oswald","Austria",19,59,71,"SK Rapid Wien","CM",525000,3000
+"1158","Jakub Kaluzinski","Poland",18,59,75,"Lechia Gdansk","CM",575000,550
+"1159","Tomás Castro","Argentina",20,59,72,"Godoy Cruz","CM",550000,2000
+"1160","Magnus S. Lundal","Norway",20,59,72,"Stabæk Fotball","CM",550000,600
+"1161","Jhon Ortiz","Colombia",20,59,70,"América de Cali","CM",5e+05,600
+"1162","Henry Wise","England",21,59,69,"Watford","CM",5e+05,6000
+"1163","Juan Ramón Cáceres","Paraguay",19,59,74,"Club Sol de América","CM",525000,500
+"1164","Loup Hervieu","France",21,59,68,"Stade Malherbe Caen","CM",5e+05,850
+"1165","Juan Pablo Barinaga","Argentina",21,59,70,"Patronato","CM",5e+05,2000
+"1166","Salvador González","Mexico",21,59,68,"Club Atlético de San Luis","CM",5e+05,2000
+"1167","Mario González Casado","Spain",22,59,66,"AD Alcorcón","CM",450000,2000
+"1168","Orlando Colmán","Paraguay",19,59,70,"Club Nacional","CM",475000,500
+"1169","Sadou Diallo","England",22,59,63,"Forest Green Rovers","CM",325000,3000
+"1170","Gustavo Elvis Loayza","Peru",19,59,70,"Ayacucho","CM",475000,500
+"1171","Kenny Davis","England",33,59,59,"Sutton United","CM",140000,2000
+"1172","Aitor González Ramírez","Spain",19,59,75,"AD Alcorcón","CM",575000,1000
+"1173","Sebastián Benítez","Paraguay",20,59,69,"General Caballero (JLM)","CM",5e+05,500
+"1174","Guilmer Giro","Venezuela",18,59,68,"Deportivo La Guaira FC","CM",475000,500
+"1175","Maximilian Somnitz","Germany",18,59,76,"1. FC Union Berlin","CM",575000,2000
+"1176","Danilo Gómez","Argentina",19,59,71,"Club Atlético Colón","CM",525000,1000
+"1177","Mamadou Camara","Senegal",18,59,71,"Racing Club de Lens","CM",525000,1000
+"1178","Titouan Thomas","France",19,59,74,"Olympique Lyonnais","CM",525000,5000
+"1179","Kaloyan Kostadinov","Norway",18,59,76,"Stabæk Fotball","CM",575000,500
+"1180","Abdoulaye Kamara","Guinea",16,59,82,"Borussia Dortmund","CM",7e+05,950
+"1181","Juan Macías","Ecuador",16,59,73,"LDU Quito","CM",5e+05,500
+"1182","Merveille Papela","Germany",20,59,72,"1. FSV Mainz 05","CM",550000,3000
+"1183","Tommy Leigh","England",21,59,69,"Accrington Stanley","CM",5e+05,800
+"1184","Levent Mercan","Germany",20,59,72,"Fatih Karagümrük S.K.","CM",550000,2000
+"1185","Alessandro Bordin","Italy",21,59,68,"Spezia","CM",5e+05,2000
+"1186","Damián Cáceres Rodríguez","Spain",18,59,67,"CF Fuenlabrada","CM",475000,500
+"1187","Gian Franco Cabezas","Colombia",18,59,75,"Deportivo Cali","CM",575000,500
+"1188","Matt LaGrassa","United States",28,59,59,"Nashville SC","CM",220000,1000
+"1189","Timothé Rupil","Luxembourg",18,59,75,"1. FSV Mainz 05","CM",575000,1000
+"1190","Kreshnik Krasniqi","Kosovo",20,59,71,"Strømsgodset IF","CM",550000,650
+"1191","Max Sanders","England",22,59,65,"Lincoln City","CM",350000,2000
+"1192","Ben Williamson","Scotland",19,59,76,"Livingston FC","CM",575000,4000
+"1193","Lewis Hall","England",16,59,80,"Chelsea","CM",7e+05,2000
+"1194","Trazié Thomas","Côte d'Ivoire",22,59,67,"FC Lausanne-Sport","CM",5e+05,2000
+"1195","Jamir Berdecio","Bolivia",18,59,68,"Club Deportivo Oriente Petrolero","CM",475000,500
+"1196","Julian Stark","Germany",20,59,68,"1. FC Heidenheim 1846","CM",5e+05,3000
+"1197","Fernando Delgado Guerrero","Spain",19,59,72,"CF Fuenlabrada","CM",525000,10000
+"1198","Ángel Algobia Esteves","Spain",22,59,70,"Getafe CF","CM",5e+05,4000
+"1199","Metin Yildirim","Turkey",21,59,69,"Göztepe SK","CM",5e+05,2000
+"1200","Diego Orellana Riffo","Chile",19,59,66,"CD Antofagasta","CM",425000,500
+"1201","Jack Smith","England",19,59,70,"Stevenage","CM",475000,1000
+"1202","Samuel Adrian","Sweden",23,59,66,"Malmö FF","CM",450000,1000
+"1203","Mathias De Wolf","Belgium",19,59,72,"N.E.C. Nijmegen","CM",525000,1000
+"1204","Franklin Clavijo","Ecuador",19,59,71,"Sociedad Deportiva Aucas","CM",525000,500
+"1205","Jake Taylor","England",22,59,60,"Port Vale","CM",275000,2000
+"1206","Göktan Gürpüz","Germany",18,59,78,"Borussia Dortmund","CM",575000,2000
+"1207","Johan Rojas","Colombia",18,58,70,"La Equidad","CM",475000,500
+"1208","Jaziel Martínez","Mexico",20,58,72,"CF Monterrey","CM",5e+05,5000
+"1209","Nils Rossen","Netherlands",16,58,74,"N.E.C. Nijmegen","CM",5e+05,500
+"1210","Kodai Dohi","Japan",20,58,70,"Sanfrecce Hiroshima","CM",5e+05,1000
+"1211","Dogukan Emeksiz","Turkey",20,58,68,"Yeni Malatyaspor","CM",450000,2000
+"1212","Callum Jones","Wales",20,58,71,"Hull City","CM",5e+05,2000
+"1213","Teddy Jenks","England",19,58,75,"Aberdeen","CM",525000,850
+"1214","Charlie Carter","England",24,58,59,"Stevenage","CM",250000,2000
+"1215","Kyle Scott","United States",23,58,64,"FC Cincinnati","CM",325000,1000
+"1216","Alex Robertson","England",18,58,78,"Manchester City","CM",550000,5000
+"1217","Max Bruns","Netherlands",18,58,74,"FC Twente","CM",525000,650
+"1218","Derek Mazou-Sacko","France",16,58,76,"ESTAC Troyes","CM",5e+05,500
+"1219","Darius Ghindovean","Romania",19,58,66,"MSV Duisburg","CM",450000,850
+"1220","Declan Glass","Scotland",21,58,68,"Dundee United","CM",450000,1000
+"1221","Robert Pessel","Germany",17,58,71,"Hallescher FC","CM",475000,500
+"1222","Lucas Tol","Netherlands",18,58,71,"PEC Zwolle","CM",475000,650
+"1223","César Moreno Meca","Spain",19,58,71,"Elche CF","CM",475000,2000
+"1224","Marcelo Acosta","Paraguay",20,58,68,"Guaireña FC","CM",450000,500
+"1225","Tom Crawford","England",22,58,65,"Hartlepool United","CM",4e+05,2000
+"1226","Gabi Caschili","Netherlands",17,58,75,"PEC Zwolle","CM",5e+05,500
+"1227","Bryce Duke","United States",20,58,71,"Inter Miami CF","CM",5e+05,1000
+"1228","Florian Krebs","Germany",22,58,66,"Borussia Dortmund II","CM",450000,750
+"1229","Xavier Flores","Venezuela",19,58,71,"Aragua Fútbol Club","CM",475000,500
+"1230","Anas Bakhat","Germany",21,58,69,"1. FC Kaiserslautern","CM",450000,750
+"1231","Enderson Abreu","Venezuela",20,58,67,"Academia Puerto Cabello","CM",450000,500
+"1232","Adrian Dziedzic","Poland",18,58,71,"Górnik Zabrze","CM",475000,500
+"1233","Lenín Checco","Peru",17,58,72,"Cienciano","CM",475000,500
+"1234","Lucas Soto","Chile",18,58,70,"Colo-Colo","CM",475000,500
+"1235","Maikel Reyes","Ecuador",18,58,69,"Delfín Sporting Club","CM",425000,500
+"1236","Matías Pacheco","Peru",20,58,65,"Sport Boys","CM",4e+05,500
+"1237","Kevin Custovic","Sweden",21,58,67,"Vejle Boldklub","CM",450000,1000
+"1238","Mads Sande","Norway",23,58,65,"FK Haugesund","CM",4e+05,700
+"1239","<U+0218>tefan Panoiu","Romania",18,58,71,"Rapid Bucure<U+0219>ti","CM",475000,550
+"1240","Fabio Díaz","Bolivia",19,58,70,"Club Deportivo Jorge Wilstermann","CM",475000,500
+"1241","Jhonatan Riascos","Colombia",17,58,75,"Deportivo Pasto","CM",5e+05,500
+"1242","Jair Micolta","Colombia",19,58,68,"Deportivo Pasto","CM",450000,500
+"1243","Eniss Shabani","Germany",18,58,75,"1. FSV Mainz 05","CM",525000,1000
+"1244","Arnaldo Zambrano","Ecuador",19,58,65,"Mushuc Runa","CM",4e+05,500
+"1245","Ignacio Sosa","Uruguay",17,58,75,"Centro Atlético Fénix","CM",5e+05,500
+"1246","Stephan Seiler","Switzerland",20,58,70,"FC Zürich","CM",5e+05,2000
+"1247","Filip Olsson","Sweden",22,58,66,"IK Sirius","CM",450000,750
+"1248","Yasin Ayari","Sweden",17,58,76,"AIK","CM",5e+05,500
+"1249","Drew Skundrich","United States",25,58,61,"D.C. United","CM",275000,1000
+"1250","Christos Zafeiris","Norway",18,58,76,"FK Haugesund","CM",525000,500
+"1251","Drissa Camara","Côte d'Ivoire",19,58,74,"Parma","CM",525000,500
+"1252","Xavi Moreno","Peru",17,58,73,"Sport Boys","CM",475000,500
+"1253","Luis Barco","Venezuela",19,58,67,"Hermanos Colmenarez","CM",450000,500
+"1254","Miguel Pernía","Venezuela",17,58,73,"Hermanos Colmenarez","CM",475000,500
+"1255","Maicol Ruiz","Venezuela",17,58,69,"Hermanos Colmenarez","CM",425000,500
+"1256","Edson Acevedo","Colombia",18,58,67,"América de Cali","CM",425000,500
+"1257","Fabio Schneider","Germany",18,58,72,"1. FC Union Berlin","CM",475000,2000
+"1258","Luke Cundle","England",19,58,75,"Wolverhampton Wanderers","CM",525000,6000
+"1259","Leo Walta","Finland",18,58,76,"FC Nordsjælland","CM",525000,750
+"1260","Jeremi Escate","Peru",19,58,72,"Carlos A. Mannucci","CM",475000,500
+"1261","Jesper Ceesay","Sweden",19,58,74,"AIK","CM",525000,800
+"1262","Gerard Yepes Laut","Spain",18,58,74,"U.C. Sampdoria","CM",525000,1000
+"1263","Tomasz Neugebauer","Poland",18,58,75,"Lechia Gdansk","CM",525000,550
+"1264","Zak Brunt","England",19,58,73,"Sheffield United","CM",475000,3000
+"1265","Julio Luques","Argentina",18,58,76,"Rosario Central","CM",525000,950
+"1266","Jafar Bynoe","Netherlands",17,58,74,"Sparta Rotterdam","CM",5e+05,500
+"1267","Jean Bone","Ecuador",17,58,73,"C.D. Universidad Católica del Ecuador","CM",475000,500
+"1268","Jhon Solís","Colombia",17,58,73,"Atlético Nacional","CM",475000,500
+"1269","Jean Torres","Venezuela",18,58,72,"Caracas Fútbol Club","CM",475000,500
+"1270","Mohammed Abbas","United Arab Emirates",18,58,75,"Al Ain FC","CM",525000,500
+"1271","Liberman Torres","Ecuador",19,58,70,"Independiente del Valle","CM",475000,500
+"1272","Hans Høllsberg","Denmark",19,58,70,"Vejle Boldklub","CM",475000,1000
+"1273","Dikeni Salifou","Togo",18,58,75,"FC Augsburg","CM",525000,1000
+"1274","Adam O'Reilly","Republic of Ireland",20,58,65,"St. Patrick's Athletic","CM",4e+05,4000
+"1275","Ben Klefisch","Germany",18,58,74,"RB Leipzig","CM",525000,3000
+"1276","Dennis Lütke-Frie","Germany",18,58,77,"Borussia Dortmund II","CM",525000,500
+"1277","Mamadou Fofana","France",20,58,66,"Amiens SC","CM",450000,850
+"1278","Santiago Tamayo","Colombia",18,58,75,"Club Independiente Santa Fe","CM",525000,500
+"1279","Sho Hiramatsu","Japan",21,58,65,"Shonan Bellmare","CM",4e+05,650
+"1280","Justin Salmon","Liberia",22,58,65,"Degerfors IF","CM",4e+05,600
+"1281","César Pérez","Chile",18,58,71,"Unión La Calera","CM",475000,500
+"1282","Chris Briones","Ecuador",16,58,78,"Independiente del Valle","CM",550000,500
+"1283","Albin Sporrong","Sweden",21,58,67,"Mjøndalen IF","CM",450000,600
+"1284","Wai-Tsun Dai","Hong Kong",21,57,67,"Shenzhen FC","CM",375000,1000
+"1285","Björn Zempelin","Germany",21,57,66,"SSV Jahn Regensburg","CM",375000,1000
+"1286","Joel Sundström","Sweden",19,57,68,"Varbergs BoIS FC","CM",350000,500
+"1287","Bon Chul Koo","Korea Republic",21,57,67,"Seongnam FC","CM",375000,750
+"1288","Pedro Bravo","Colombia",16,57,72,"América de Cali","CM",375000,500
+"1289","Yimy Gamero","Peru",19,57,66,"FBC Melgar","CM",350000,500
+"1290","Daniel Williams","Wales",20,57,71,"Dundalk FC","CM",4e+05,3000
+"1291","Norbert Wojtuszek","Poland",19,57,67,"Górnik Zabrze","CM",350000,800
+"1292","Harry Wood","England",18,57,70,"Scunthorpe United","CM",375000,800
+"1293","Keiber Lamadrid","Venezuela",17,57,71,"Deportivo La Guaira FC","CM",375000,500
+"1294","Iker Colque","Bolivia",17,57,69,"Club The Strongest","CM",375000,500
+"1295","Martín Suárez","Uruguay",17,57,78,"Montevideo Wanderers","CM",5e+05,500
+"1296","Sofus Berger","Denmark",18,57,70,"Viborg FF","CM",375000,700
+"1297","Juan Lozano","Colombia",18,57,69,"Club Independiente Santa Fe","CM",375000,500
+"1298","Vlad Pop","Romania",20,57,71,"FC U Craiova 1948","CM",4e+05,1000
+"1299","Caspar Jander","Germany",18,57,68,"MSV Duisburg","CM",350000,500
+"1300","Steeve Eyango","France",20,57,74,"Genoa","CM",425000,2000
+"1301","Dylan Tait","Scotland",19,57,72,"Hibernian","CM",4e+05,850
+"1302","Sofiane Djeffal","France",22,57,66,"D.C. United","CM",375000,1000
+"1303","José Mijares","Venezuela",18,57,69,"Deportivo La Guaira FC","CM",375000,500
+"1304","Tsotne Bendianishvili","Georgia",18,57,73,"KV Kortrijk","CM",425000,850
+"1305","Felix Hache","Germany",17,57,72,"FC Erzgebirge Aue","CM",375000,500
+"1306","Jonathan Capuz","Ecuador",22,57,65,"Mushuc Runa","CM",375000,500
+"1307","Plamedi Buni Jorge","Angola",20,57,66,"Rodez Aveyron Football","CM",350000,750
+"1308","Noah Söderberg","Sweden",19,57,69,"IF Elfsborg","CM",4e+05,550
+"1309","Frankie Maguire","England",17,57,75,"Sheffield United","CM",4e+05,600
+"1310","Santiago Trigos","Mexico",19,57,68,"Club Universidad Nacional","CM",350000,1000
+"1311","César Castillo","Mexico",20,57,65,"Club Tijuana","CM",350000,2000
+"1312","Leo Vielgut","Austria",20,57,68,"RZ Pellets Wolfsberger AC","CM",350000,2000
+"1313","Elliot Thorpe","Wales",20,57,68,"Luton Town","CM",350000,2000
+"1314","Mathias Olesen","Luxembourg",20,57,68,"1. FC Köln","CM",350000,3000
+"1315","Kenji Cabrera","Peru",17,57,72,"FBC Melgar","CM",375000,500
+"1316","Seong Ung Maeng","Korea Republic",23,57,65,"Jeonbuk Hyundai Motors","CM",375000,2000
+"1317","Emiliano Vidart","Uruguay",19,57,68,"Montevideo Wanderers","CM",350000,500
+"1318","Ryan Howley","Wales",17,57,79,"Coventry City","CM",5e+05,500
+"1319","Einar Iversen","Norway",20,57,71,"Everton","CM",4e+05,8000
+"1320","Jacob Montes","United States",22,57,64,"Crystal Palace","CM",325000,7000
+"1321","Cammy Ballantyne","Scotland",21,57,71,"St. Johnstone FC","CM",4e+05,1000
+"1322","Gary Moya","Chile",19,57,65,"CD Everton de Viña del Mar","CM",350000,500
+"1323","Jan Ras","Netherlands",22,57,65,"SC Heerenveen","CM",375000,1000
+"1324","Hasan Yurtseven","Turkey",19,57,68,"Gazisehir Gaziantep F.K.","CM",350000,1000
+"1325","Daniel Crisostomo","United States",24,57,64,"Los Angeles FC","CM",325000,1000
+"1326","Archie Meekison","Scotland",19,57,74,"Dundee United","CM",425000,750
+"1327","David Rodríguez","Mexico",19,57,71,"Club Atlético de San Luis","CM",4e+05,1000
+"1328","Abraham Okyere","Ghana",18,56,70,"K Beerschot VA","CM",325000,700
+"1329","Johan Bakke","Norway",17,56,72,"Molde FK","CM",350000,500
+"1330","Callum Rowe","England",21,56,62,"Exeter City","CM",230000,2000
+"1331","Emanuel Dat","Romania",20,56,66,"CS Mioveni","CM",3e+05,800
+"1332","Oliver Sørensen","Denmark",19,56,72,"FC Midtjylland","CM",375000,2000
+"1333","Pablo Martinez","Wales",20,56,60,"Bristol Rovers","CM",2e+05,2000
+"1334","Daniel Vidal Martínez","Spain",21,56,67,"CD Lugo","CM",325000,1000
+"1335","Andrija Radovanovic","Serbia",19,56,68,"Al Ain FC","CM",350000,500
+"1336","Thomas Schirò","Italy",21,56,66,"Crotone","CM",325000,500
+"1337","Maicol León","Chile",18,56,71,"Club Deportivo Palestino","CM",325000,500
+"1338","Nicky Hernandez","United States",22,56,65,"FC Dallas","CM",325000,1000
+"1339","Keenan Appiah-Forson","England",19,56,71,"West Ham United","CM",350000,5000
+"1340","Milan Robberechts","Belgium",17,56,74,"KV Mechelen","CM",350000,500
+"1341","Luis Calzadilla","Mexico",21,56,64,"Club Atlético de San Luis","CM",325000,2000
+"1342","Daylam Meddah","France",18,56,70,"Le Havre AC","CM",325000,550
+"1343","Juan Rangel","Mexico",21,56,64,"Club León","CM",325000,3000
+"1344","Juan Velásquez","Mexico",21,56,63,"Fútbol Club Juárez","CM",3e+05,1000
+"1345","Arjan Raikhy","England",18,56,71,"Aston Villa","CM",325000,3000
+"1346","Ricky Aguiar","England",20,56,65,"Swindon Town","CM",3e+05,2000
+"1347","Ricardo Alves","Switzerland",19,56,73,"Servette FC","CM",375000,2000
+"1348","Dae Woo Kim","Korea Republic",20,56,64,"Gangwon FC","CM",3e+05,1000
+"1349","Charlie Webster","England",17,56,80,"Chelsea","CM",450000,2000
+"1350","Aleksander D. Nilsson","Sweden",18,56,71,"Sandefjord Fotball","CM",325000,500
+"1351","Simone Trimboli","Italy",19,56,70,"U.C. Sampdoria","CM",350000,2000
+"1352","Yordi López","Uruguay",19,56,71,"Liverpool Fútbol Club","CM",350000,500
+"1353","Caolán Boyd-Munce","Northern Ireland",21,56,66,"Middlesbrough","CM",325000,3000
+"1354","Samy Faraj","Algeria",19,56,69,"FC Sochaux-Montbéliard","CM",350000,700
+"1355","André Boman","Sweden",19,56,67,"Varbergs BoIS FC","CM",3e+05,500
+"1356","Junnosuke Suzuki","Japan",17,56,70,"Shonan Bellmare","CM",325000,500
+"1357","Adam Petersson","Sweden",20,56,70,"Mjällby AIF","CM",350000,550
+"1358","Vlad Mitrea","Romania",20,56,68,"CS Mioveni","CM",350000,800
+"1359","Diego Medina","Mexico",20,56,68,"Santos Laguna","CM",350000,2000
+"1360","Dmitry Markitesov","Russia",20,56,65,"Spartak Moskva","CM",3e+05,6000
+"1361","Turan Tuzlacik","Netherlands",20,56,64,"Go Ahead Eagles","CM",3e+05,1000
+"1362","Kaito Yasui","Japan",21,56,66,"Urawa Red Diamonds","CM",325000,2000
+"1363","Diego Zago","Mexico",19,56,71,"Puebla FC","CM",350000,850
+"1364","Felix Paschke","Germany",17,56,69,"Hamburger SV","CM",325000,500
+"1365","Kristian Bernt Torgersen","Norway",18,56,71,"Stabæk Fotball","CM",325000,500
+"1366","Harvey Macadam","England",20,56,67,"Fleetwood Town","CM",3e+05,1000
+"1367","Marc Leonard","Scotland",19,56,71,"Brighton & Hove Albion","CM",350000,5000
+"1368","Scott Pollock","England",20,56,64,"Northampton Town","CM",3e+05,2000
+"1369","Otto Rosengren","Sweden",18,56,75,"Mjällby AIF","CM",350000,500
+"1370","Pyry Hannola","Finland",19,56,73,"HJK Helsinki","CM",375000,500
+"1371","Théo Le Bris","France",18,56,70,"FC Lorient","CM",325000,1000
+"1372","Damiano Pecile","Canada",19,56,69,"Venezia FC","CM",350000,800
+"1373","Jahaziel Marchand","Mexico",19,56,65,"Pachuca","CM",3e+05,2000
+"1374","Tomoki Kondo","Japan",20,55,65,"Yokohama FC","CM",275000,600
+"1375","Ardon Jashari","Switzerland",18,55,75,"FC Luzern","CM",350000,800
+"1376","Claudio Espinoza","Chile",19,55,64,"Unión Española","CM",275000,600
+"1377","John Freeman","England",19,55,63,"Milton Keynes Dons","CM",275000,1000
+"1378","Suresh Wangjam","India",20,55,65,"Bengaluru FC","CM",275000,500
+"1379","Oumar Ngom","France",17,55,71,"Chamois Niortais Football Club","CM",325000,500
+"1380","Bas Van Den Eynden","Belgium",19,55,69,"KV Mechelen","CM",3e+05,1000
+"1381","Ethan Brierley","England",17,55,69,"Rochdale","CM",275000,500
+"1382","Bassim Boukteb","Belgium",19,55,65,"Seraing","CM",275000,1000
+"1383","Giordano Colli","Australia",21,55,65,"Perth Glory","CM",275000,750
+"1384","Riku Yamane","Japan",17,55,74,"Yokohama F. Marinos","CM",325000,500
+"1385","Ben Dempsey","England",21,55,63,"Charlton Athletic","CM",275000,1000
+"1386","Liam Gibbs","England",18,55,70,"Norwich City","CM",3e+05,2000
+"1387","Þórir Jóhann Helgason","Iceland",20,55,65,"Lecce","CM",275000,550
+"1388","Syver Aas","Norway",17,55,75,"Odds BK","CM",350000,500
+"1389","Taylor Charters","England",19,55,70,"Carlisle United","CM",3e+05,1000
+"1390","Abdulaziz Damdam","Saudi Arabia",26,55,56,"Al Batin","CM",150000,2000
+"1391","Matías Cabrera","Uruguay",19,55,66,"Montevideo City Torque","CM",275000,500
+"1392","Fredrik Sjøvold","Norway",17,55,74,"FK Bodø/Glimt","CM",325000,500
+"1393","Rodrigo Díaz Desidel","Chile",19,55,70,"CD Everton de Viña del Mar","CM",3e+05,500
+"1394","Asker Beck","Denmark",17,55,75,"Aarhus GF","CM",350000,500
+"1395","Tobias Hafstad","Norway",19,55,69,"Tromsø IL","CM",3e+05,500
+"1396","Valentín Demateis","Argentina",20,55,67,"Deportivo Ñublense","CM",3e+05,650
+"1397","Adam Wikman","Sweden",17,55,70,"IK Sirius","CM",275000,500
+"1398","Roy van Mameren","Netherlands",20,55,66,"SC Cambuur","CM",275000,1000
+"1399","Malcolm Viltard","France",18,55,68,"FC Sochaux-Montbéliard","CM",3e+05,500
+"1400","Sang Jun Kim","Korea Republic",19,55,67,"Suwon Samsung Bluewings","CM",3e+05,600
+"1401","Buluthan Bulut","Turkey",18,55,71,"Aytemiz Alanyaspor","CM",325000,750
+"1402","Nacim El Hassani","France",21,55,65,"Chamois Niortais Football Club","CM",275000,850
+"1403","Yanis Chahid","France",16,55,70,"Dijon FCO","CM",275000,500
+"1404","Eryk Galara","Poland",20,55,64,"PGE FKS Stal Mielec","CM",275000,550
+"1405","Kevin Holmén","Sweden",19,55,70,"IF Elfsborg","CM",3e+05,500
+"1406","Antoni Kozubal","Poland",16,55,75,"Lech Poznan","CM",350000,500
+"1407","Joe Hodge","Republic of Ireland",18,55,72,"Wolverhampton Wanderers","CM",325000,3000
+"1408","Aneurin Livermore","Wales",18,55,67,"Newport County","CM",3e+05,700
+"1409","Eric Taylor","Ghana",20,55,67,"Lillestrøm SK","CM",3e+05,650
+"1410","Amel Mujanic","Sweden",20,55,69,"Malmö FF","CM",3e+05,1000
+"1411","Isak Bråholm","Sweden",20,55,65,"IK Sirius","CM",275000,600
+"1412","Pelle Mattsson","Denmark",19,55,69,"Silkeborg IF","CM",3e+05,1000
+"1413","Amarjit Singh Kiyam","India",20,55,68,"SC East Bengal FC","CM",3e+05,500
+"1414","Yazid Heimur","Germany",18,55,66,"FC Viktoria 1889 Berlin","CM",275000,500
+"1415","Daniel Aguirre","United States",21,55,62,"LA Galaxy","CM",250000,950
+"1416","Jack Skahan","United States",23,55,61,"San Jose Earthquakes","CM",2e+05,1000
+"1417","Amane Romeo","Côte d'Ivoire",18,55,72,"BK Häcken","CM",325000,500
+"1418","Josh Austerfield","England",19,55,69,"Harrogate Town","CM",3e+05,950
+"1419","Lewis Brunt","England",20,55,69,"Leicester City","CM",3e+05,8000
+"1420","Ryan Finnigan","England",17,55,73,"Southampton","CM",325000,900
+"1421","Benjamín Iglesias","Chile",18,55,68,"Universidad Católica","CM",3e+05,650
+"1422","Oscar Luigi Fraulo","Denmark",17,55,72,"FC Midtjylland","CM",325000,500
+"1423","Laurent Jacques Mendy","Senegal",19,55,69,"Sarpsborg 08 FF","CM",3e+05,500
+"1424","James Vennings","England",20,55,68,"Charlton Athletic","CM",3e+05,1000
+"1425","Farick Haddad","Chile",18,55,65,"Unión La Calera","CM",275000,500
+"1426","Ibrahim Karamoko","France",20,55,65,"Torino F.C.","CM",275000,4000
+"1427","Raúl Castillo","Mexico",20,55,66,"Puebla FC","CM",275000,1000
+"1428","Diego Bravo","Chile",18,54,64,"CD Huachipato","CM",230000,500
+"1429","Connor Dixon","England",20,54,66,"Derby County","CM",250000,2000
+"1430","Noel Buck","United States",16,54,73,"New England Revolution","CM",275000,500
+"1431","Joe Willis","England",19,54,60,"Walsall","CM",160000,1000
+"1432","Joe Robbins","England",19,54,70,"Crewe Alexandra","CM",275000,1000
+"1433","Lirik Vishi","Switzerland",19,54,69,"FC Basel 1893","CM",250000,1000
+"1434","Niklas Jensen Wassberg","Norway",17,54,76,"SK Brann","CM",325000,500
+"1435","Lucas Puyol","Uruguay",17,54,65,"Club Atlético Rentistas","CM",220000,500
+"1436","Owen Hesketh","Wales",18,54,70,"Wolverhampton Wanderers","CM",275000,3000
+"1437","Kane Thompson-Sommers","England",20,54,64,"Birmingham City","CM",240000,2000
+"1438","Lewis Simper","England",19,54,65,"Cambridge United","CM",230000,850
+"1439","Leon Chambers-Parillon","England",19,54,64,"Oxford United","CM",230000,1000
+"1440","Raul <U+0218>teau","Romania",20,54,64,"Gaz Metan Medias","CM",240000,1000
+"1441","Ole Enersen","Norway",18,54,71,"Strømsgodset IF","CM",275000,500
+"1442","Marley Marshall","England",18,54,69,"Colchester United","CM",250000,850
+"1443","Álvaro Garrido","Chile",21,54,68,"CD Huachipato","CM",275000,900
+"1444","Jack Armson","Australia",21,54,61,"Newcastle Jets","CM",220000,500
+"1445","Kian Corbally","Republic of Ireland",17,54,66,"St. Patrick's Athletic","CM",240000,500
+"1446","Ronaldo González","Mexico",21,54,64,"Gallos Blancos de Querétaro","CM",240000,1000
+"1447","Philipp Sonn","Germany",16,54,73,"SV Darmstadt 98","CM",275000,500
+"1448","Dan Gallimore","England",18,54,67,"Scunthorpe United","CM",250000,850
+"1449","Jakob Andersson","Sweden",18,54,67,"Degerfors IF","CM",250000,500
+"1450","Max Balard","Australia",20,54,66,"Central Coast Mariners","CM",250000,500
+"1451","Tom Mehew","England",20,54,61,"Bristol Rovers","CM",210000,2000
+"1452","Ionu<U+021B> Zanfir","Romania",19,54,63,"FC U Craiova 1948","CM",230000,900
+"1453","Adan Abadala Hussein","Norway",18,54,71,"FK Bodø/Glimt","CM",275000,500
+"1454","Adrien Delphis","France",18,54,67,"FC Sochaux-Montbéliard","CM",250000,500
+"1455","Harvey Bunker","England",18,54,66,"Forest Green Rovers","CM",250000,1000
+"1456","Matt Young","England",18,54,68,"Leyton Orient","CM",250000,850
+"1457","Luke Duzel","Australia",19,54,68,"Western United FC","CM",250000,500
+"1458","Finlay Robertson","Scotland",18,54,72,"Dundee FC","CM",275000,500
+"1459","Ahmed Bahusayn","Saudi Arabia",20,54,65,"Al Ittihad","CM",240000,4000
+"1460","Javier Ajenjo Hyjek","Poland",20,54,65,"Slask Wroclaw","CM",240000,1000
+"1461","Lewis Leigh","England",17,54,74,"Preston North End","CM",3e+05,650
+"1462","Erik Stavås Skistad","Norway",20,54,66,"Mjøndalen IF","CM",250000,550
+"1463","Arsen Hrosu","Ukraine",20,54,64,"Górnik Zabrze","CM",240000,950
+"1464","Jakub Nowakowski","Poland",19,54,65,"Radomiak Radom","CM",230000,500
+"1465","Valentin Borcea","Romania",19,54,70,"FC Dinamo 1948 Bucuresti","CM",275000,550
+"1466","Magnus Riisnæs","Norway",16,54,77,"Vålerenga Fotball","CM",325000,500
+"1467","Isaac Fletcher","England",19,53,62,"Hartlepool United","CM",2e+05,2000
+"1468","Florent Hoti","Kosovo",20,53,64,"Dundee United","CM",2e+05,900
+"1469","Liam Loughlan","England",19,53,64,"Salford City","CM",2e+05,2000
+"1470","Joel Tabiner","England",17,53,69,"Crewe Alexandra","CM",230000,500
+"1471","Ethan Hill","England",18,53,65,"Mansfield Town","CM",220000,1000
+"1472","Carlos Harvey","Panama",21,53,62,"LA Galaxy","CM",210000,950
+"1473","Kang Hyeon Lee","Korea Republic",22,53,62,"Incheon United FC","CM",210000,800
+"1474","Musab Al Juwair","Saudi Arabia",18,53,70,"Al Hilal","CM",240000,2000
+"1475","Mitsuki Hidaka","Japan",18,53,69,"Vissel Kobe","CM",240000,550
+"1476","Adam Lovatt","England",22,53,61,"Sutton United","CM",210000,1000
+"1477","Emil Özkan","Sweden",17,53,67,"IK Sirius","CM",210000,500
+"1478","Dylan Teves","United States",21,53,64,"Seattle Sounders FC","CM",210000,950
+"1479","Apipon Tongnoy","Norway",19,53,68,"Lillestrøm SK","CM",220000,500
+"1480","Dino Salihovic","Sweden",18,53,66,"IFK Norrköping","CM",220000,500
+"1481","Emil Kischka","Germany",19,53,68,"Eintracht Braunschweig","CM",220000,700
+"1482","Adrian Bukowski","Poland",18,53,69,"Slask Wroclaw","CM",240000,500
+"1483","Will Vint","United States",19,53,67,"Colorado Rapids","CM",220000,750
+"1484","Nicolás Fernández","Uruguay",18,53,64,"Club Atlético Rentistas","CM",2e+05,500
+"1485","Siriky Sanogo","Côte d'Ivoire",19,53,67,"Benevento","CM",220000,500
+"1486","Ludvig Carlius","Sweden",20,53,66,"Mjällby AIF","CM",220000,500
+"1487","Musab Habkoor","Saudi Arabia",21,53,64,"Abha Club","CM",210000,2000
+"1488","David Edvardsson","Sweden",19,53,68,"Malmö FF","CM",220000,750
+"1489","Rhys-James Fenlon","England",19,53,62,"Accrington Stanley","CM",2e+05,550
+"1490","Mads Enggård","Denmark",17,53,70,"Randers FC","CM",230000,500
+"1491","Eli King","Wales",18,53,70,"Cardiff City","CM",240000,2000
+"1492","Scott Smith","Wales",20,53,64,"Wigan Athletic","CM",2e+05,750
+"1493","Adam MacKinnon","Scotland",18,53,73,"Ross County FC","CM",250000,500
+"1494","Luke Mariette","Wales",17,53,73,"Blackpool","CM",250000,500
+"1495","Filip Gryglak","Poland",16,53,77,"Slask Wroclaw","CM",3e+05,500
+"1496","Noah Rupp","Switzerland",17,53,74,"FC Luzern","CM",3e+05,500
+"1497","Wahengbam Angousana","India",25,52,54,"SC East Bengal FC","CM",1e+05,500
+"1498","Markus Björkqvist","Sweden",17,52,71,"Malmö FF","CM",2e+05,500
+"1499","Tomas Stabell","Norway",19,52,67,"Tromsø IL","CM",190000,500
+"1500","Abdallah Basit","Ghana",21,52,62,"Benevento","CM",180000,500
+"1501","Will Jenkins-Davies","Wales",16,52,71,"Plymouth Argyle","CM",2e+05,500
+"1502","Finlay Johnson","England",16,52,63,"Stevenage","CM",160000,500
+"1503","Ben Kershaw","England",17,52,63,"Rochdale","CM",160000,500
+"1504","Oisin Gallagher","Republic of Ireland",16,52,69,"Lincoln City","CM",2e+05,500
+"1505","Jordan Scanlon","England",17,52,63,"Rochdale","CM",160000,500
+"1506","Jin Yong Lee","Korea Republic",20,52,64,"Daegu FC","CM",190000,1000
+"1507","Oliver Larraz","United States",19,52,66,"Colorado Rapids","CM",190000,750
+"1508","Roberto Dini<U+021B>a","Romania",18,52,64,"FC Dinamo 1948 Bucuresti","CM",180000,500
+"1509","Till Streller","Germany",18,52,68,"SV Darmstadt 98","CM",2e+05,800
+"1510","Marius Broholm","Norway",16,52,70,"Rosenborg BK","CM",2e+05,500
+"1511","Regan Riley","England",18,52,72,"Norwich City","CM",220000,2000
+"1512","Connor Barron","Scotland",18,52,72,"Aberdeen","CM",220000,500
+"1513","Issah Salou","Niger",22,52,60,"Randers FC","CM",180000,2000
+"1514","Jackson Manuel","New Zealand",18,52,64,"Wellington Phoenix","CM",180000,500
+"1515","Cristian Cîmpean","Romania",18,52,67,"Gaz Metan Medias","CM",180000,550
+"1516","Dylan Murugesapillai","Norway",17,52,70,"Lillestrøm SK","CM",2e+05,500
+"1517","Leandro E. Neto","Norway",16,52,72,"Lillestrøm SK","CM",210000,500
+"1518","Billy Brooks","Republic of Ireland",17,52,68,"Lincoln City","CM",2e+05,500
+"1519","Ross Fay","Republic of Ireland",18,52,60,"St. Patrick's Athletic","CM",170000,500
+"1520","Robbie Hamilton","Scotland",16,52,71,"Hibernian","CM",2e+05,500
+"1521","Liam Munther","Sweden",20,52,63,"Varbergs BoIS FC","CM",170000,500
+"1522","Fares Al Shahrani","Saudi Arabia",20,52,66,"Damac FC","CM",190000,2000
+"1523","Kosuke Saito","Japan",16,52,70,"Vegalta Sendai","CM",2e+05,500
+"1524","Antony Papadopoulos","England",18,52,63,"Leyton Orient","CM",170000,850
+"1525","Enzo Bardeli","France",20,52,60,"USL Dunkerque","CM",170000,800
+"1526","Olly Green","England",18,52,67,"Hull City","CM",180000,750
+"1527","Juan Affonso","Uruguay",23,52,59,"Cerro Largo Fútbol Club","CM",160000,500
+"1528","Hyeon Seung Lee","Korea Republic",21,52,66,"Ulsan Hyundai FC","CM",2e+05,1000
+"1529","Josh Dixon","England",20,52,62,"Carlisle United","CM",170000,2000
+"1530","Runar Norheim","Norway",16,52,75,"Tromsø IL","CM",250000,500
+"1531","Sang Hoon Paik","Korea Republic",19,52,67,"FC Seoul","CM",190000,550
+"1532","Tarik Ibrahimagic","Denmark",20,52,65,"Odense Boldklub","CM",190000,2000
+"1533","Juan Castilla","Colombia",16,52,72,"Houston Dynamo","CM",210000,500
+"1534","Jake Peck","England",20,52,64,"Luton Town","CM",190000,2000
+"1535","Nathan Moriah-Welsh","Guyana",19,52,65,"AFC Bournemouth","CM",190000,3000
+"1536","Harry McHugh","England",17,52,67,"Wigan Athletic","CM",180000,500
+"1537","Liam Cross","England",18,52,70,"Northampton Town","CM",2e+05,1000
+"1538","Martin Bergum","Norway",19,52,67,"Lillestrøm SK","CM",190000,500
+"1539","Seung Woo Baek","Korea Republic",22,52,62,"Jeju United FC","CM",180000,1000
+"1540","Alexander Freitag","Germany",22,52,59,"TSV 1860 München","CM",160000,600
+"1541","Harry Jewitt-White","Wales",17,52,74,"Portsmouth","CM",250000,500
+"1542","Valdemar Sadrifar","Denmark",19,52,67,"Vejle Boldklub","CM",190000,1000
+"1543","Peder Meen Johansen","Norway",17,52,71,"Sandefjord Fotball","CM",2e+05,500
+"1544","Halik Abraham","China PR",20,52,65,"Shanghai Port FC","CM",190000,2000
+"1545","Ossama Ashley","England",21,52,64,"West Ham United","CM",2e+05,6000
+"1546","Harrison Steele","Australia",18,52,60,"Central Coast Mariners","CM",170000,500
+"1547","James Melhado","England",20,52,65,"Salford City","CM",190000,2000
+"1548","Filip Ambrož","Sweden",17,52,67,"IFK Göteborg","CM",180000,500
+"1549","Liam Chipperfield","Switzerland",17,51,74,"FC Basel 1893","CM",180000,500
+"1550","Tom Jenkins","England",17,51,65,"Wrexham AFC","CM",130000,500
+"1551","Faisal Al Mutairi","Saudi Arabia",21,51,59,"Al Taawoun","CM",130000,3000
+"1552","Elliot Bolton","England",18,51,68,"AFC Wimbledon","CM",150000,500
+"1553","Leo Bech Hermansen","Norway",17,51,71,"Sarpsborg 08 FF","CM",160000,500
+"1554","Alfie Williams","England",16,51,67,"Stevenage","CM",150000,500
+"1555","Ramon Ga<U+0219>par","Romania",18,51,70,"Gaz Metan Medias","CM",150000,550
+"1556","Jack Moore-Billam","England",17,51,67,"Scunthorpe United","CM",150000,500
+"1557","Jack Veale","England",18,51,58,"Exeter City","CM",110000,700
+"1558","Filip Loftesnes-Bjune","Norway",16,51,72,"Sandefjord Fotball","CM",180000,500
+"1559","Nagi Kawatani","Japan",17,51,61,"Shimizu S-Pulse","CM",120000,500
+"1560","Mansour Al Bishi","Saudi Arabia",21,51,62,"Al Raed","CM",130000,4000
+"1561","Finn Robson","Scotland",17,51,69,"Dundee United","CM",150000,500
+"1562","Peter Abimbola","England",17,51,67,"Northampton Town","CM",150000,500
+"1563","Baba Adeeko","Republic of Ireland",17,51,67,"Wigan Athletic","CM",150000,500
+"1564","Harry McGee","England",17,51,69,"Wigan Athletic","CM",150000,500
+"1565","Jae Sung Kim","Korea Republic",21,51,60,"Ulsan Hyundai FC","CM",130000,1000
+"1566","Arran Pettifer","England",17,51,65,"Bolton Wanderers","CM",130000,500
+"1567","Brad Williams","England",16,51,64,"Harrogate Town","CM",130000,500
+"1568","Keelan Leslie","England",18,50,68,"Carlisle United","CM",120000,650
+"1569","Christy Davis","India",22,50,59,"FC Goa","CM",1e+05,500
+"1570","Noa Dundas","Netherlands",17,50,73,"FC Basel 1893","CM",150000,500
+"1571","Jesús Castellano","Venezuela",17,50,69,"New York Red Bulls","CM",120000,500
+"1572","Finley Shrimpton","England",18,50,67,"Scunthorpe United","CM",120000,800
+"1573","Samuel Wikman","Sweden",19,50,65,"IK Sirius","CM",110000,500
+"1574","Christian Witzig","Switzerland",20,50,64,"FC St. Gallen 1879","CM",110000,1000
+"1575","Sam Klein","Australia",17,50,66,"Brisbane Roar","CM",120000,500
+"1576","Ayush Adhikari","India",20,50,63,"Kerala Blasters FC","CM",110000,500
+"1577","Edward Caspers","Australia",17,50,65,"Macarthur FC","CM",110000,500
+"1578","Sonny Lewis","Wales",16,50,65,"Newport County","CM",110000,500
+"1579","Mads Søndergaard","Denmark",18,50,65,"Viborg FF","CM",110000,600
+"1580","Anders Dahl","Denmark",19,50,66,"Silkeborg IF","CM",120000,950
+"1581","Jeppe Grøn","Denmark",18,50,68,"Silkeborg IF","CM",120000,600
+"1582","Jin Sung Kim","Korea Republic",21,50,61,"FC Seoul","CM",1e+05,650
+"1583","Adam Porter","England",19,50,61,"Stoke City","CM",1e+05,2000
+"1584","Haoran Wang","China PR",20,50,60,"Henan Songshan Longmen FC","CM",1e+05,1000
+"1585","Haijian Wang","China PR",20,50,59,"Shanghai Shenhua FC","CM",1e+05,2000
+"1586","Sam Beckwith","England",19,50,64,"Luton Town","CM",110000,1000
+"1587","Alexandru Blidar","Romania",18,50,68,"FC U Craiova 1948","CM",120000,500
+"1588","Adam Murphy","Republic of Ireland",16,50,67,"St. Patrick's Athletic","CM",120000,500
+"1589","Szymon Kowalczyk","England",17,50,62,"Crawley Town","CM",110000,500
+"1590","Reed Baker-Whiting","United States",16,50,71,"Seattle Sounders FC","CM",150000,500
+"1591","Vetle Walle Egeli","Norway",17,50,66,"Sandefjord Fotball","CM",120000,500
+"1592","Eivind Helgeland","Norway",17,50,69,"FK Haugesund","CM",120000,500
+"1593","Vegard Solheim","Norway",16,50,69,"FK Haugesund","CM",120000,500
+"1594","Denis Ursu","Romania",17,50,68,"Gaz Metan Medias","CM",120000,500
+"1595","Isaac Modi","England",17,50,73,"Oldham Athletic","CM",150000,500
+"1596","Joe Edwards","England",17,50,73,"Oldham Athletic","CM",150000,500
+"1597","Gustav Bendrik","Sweden",18,50,65,"Varbergs BoIS FC","CM",110000,500
+"1598","Horatiu Covaci","Romania",17,50,65,"Gaz Metan Medias","CM",110000,500
+"1599","Anton Ingves","Sweden",19,50,66,"Örebro SK","CM",120000,500
+"1600","Daniel Skare","Norway",17,50,69,"Mjøndalen IF","CM",120000,500
+"1601","Javier Casas Jr.","United States",18,50,73,"Chicago Fire Football Club","CM",150000,500
+"1602","Callum Stringer","Republic of Ireland",19,50,60,"Waterford FC","CM",1e+05,500
+"1603","Matthew Tweedley","England",17,50,74,"Bolton Wanderers","CM",150000,500
+"1604","Alexandru Jipa","Romania",19,50,59,"AFC Chindia Târgovi<U+0219>te","CM",1e+05,700
+"1605","Brandon McMorrow","Australia",19,50,62,"Brisbane Roar","CM",110000,500
+"1606","Spencer Moreland","Scotland",18,50,70,"St. Johnstone FC","CM",130000,500
+"1607","Xuyang Fan","China PR",22,50,56,"Tianjin Jinmen Tiger FC","CM",70000,2000
+"1608","Jong Tae Yoon","Korea Republic",23,49,56,"Daegu FC","CM",90000,1000
+"1609","Ruifeng Huang","China PR",21,49,60,"Shenzhen FC","CM",1e+05,1000
+"1610","Yongjun Wen","China PR",18,49,61,"Guangzhou City","CM",110000,750
+"1611","Chun Lok Tan","Hong Kong",25,49,51,"Guangzhou City","CM",60000,2000
+"1612","Jake Davis","United States",19,49,66,"Sporting Kansas City","CM",120000,650
+"1613","Gi Hyeok Lee","Korea Republic",20,49,56,"Suwon FC","CM",90000,650
+"1614","Graham O'Reilly","Republic of Ireland",18,49,63,"Waterford FC","CM",110000,500
+"1615","Dong Hyeok Kang","Korea Republic",21,49,58,"Ulsan Hyundai FC","CM",1e+05,1000
+"1616","Yinquan Kong","China PR",21,49,56,"Dalian Professional Football Club","CM",90000,2000
+"1617","Longfei Xie","China PR",20,49,56,"Beijing Guoan FC","CM",90000,2000
+"1618","Xiangshuo Zhang","China PR",20,49,55,"Shijiazhuang Ever Bright F.C.","CM",70000,1000
+"1619","Hao Fang","China PR",21,49,54,"Wuhan FC","CM",70000,1000
+"1620","Yunqi Guo","China PR",24,48,53,"Shijiazhuang Ever Bright F.C.","CM",70000,1000
+"1621","Xintao Song","China PR",19,48,58,"Hebei FC","CM",1e+05,1000
+"1622","Chunxin Chen","China PR",23,48,55,"Shanghai Port FC","CM",90000,3000
+"1623","Wei Liao","China PR",22,48,54,"Hebei FC","CM",70000,2000
+"1624","Tomas Giraldo","Canada",18,48,64,"Club de Foot Montréal","CM",120000,500
+"1625","CVL Remtluanga","India",20,48,60,"Odisha FC","CM",110000,500
+"1626","Xianyong Lu","China PR",21,48,55,"Chongqing Liangjiang Athletic","CM",90000,1000
+"1627","Caoimhin Porter","Republic of Ireland",19,48,60,"Derry City","CM",110000,500
+"1628","Zhexiang Ruan","China PR",24,48,53,"Qingdao FC","CM",70000,2000
+"1629","Zhixuan Du","China PR",19,48,60,"Henan Songshan Longmen FC","CM",110000,1000
+"1630","Ziwenhao Song","China PR",18,48,61,"Changchun Yatai FC","CM",110000,500
+"1631","Xingxian Li","China PR",16,48,64,"Guangzhou FC","CM",120000,500
+"1632","Yu Hou","China PR",20,48,58,"Guangzhou FC","CM",1e+05,2000
+"1633","Zhengfeng Chen","China PR",20,48,52,"Guangzhou FC","CM",70000,2000
+"1634","Junhao Wu","China PR",16,48,64,"Guangzhou FC","CM",120000,500
+"1635","Likai Yang","China PR",20,48,53,"Qingdao FC","CM",70000,1000
+"1636","Jiali Hu","China PR",21,48,52,"Wuhan FC","CM",70000,1000
+"1637","Subhadip Majhi","India",22,48,56,"Chennaiyin FC","CM",1e+05,500
+"1638","Haobam Singh","India",18,47,64,"SC East Bengal FC","CM",120000,500
+"1639","Nathan Logue","Republic of Ireland",21,47,55,"Finn Harps","CM",1e+05,500
+"1640","Billu Teli","India",22,47,55,"Jamshedpur FC","CM",1e+05,500
+"1641","Nathan-Dylan Saliba","Canada",17,47,64,"Club de Foot Montréal","CM",120000,500
+"1642","Nestor Dias","India",22,47,54,"FC Goa","CM",90000,500
+"1643","Liam Mullan","Northern Ireland",17,47,67,"Derry City","CM",130000,500
+"1644","Xuchen Yao","China PR",21,47,53,"Hebei FC","CM",70000,1000
+"1645","Ho Yeon Jung","Korea Republic",20,45,53,"GwangJu FC","CM",1e+05,550
