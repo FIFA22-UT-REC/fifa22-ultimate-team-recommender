@@ -24,9 +24,11 @@ def pipeline(df):
     # Rename some variable names
     #df.rename({"Country": "Nationality", "Overall Rating": "Overall"}, inplace=True)
 
+
     # Drop duplicates
     df.drop_duplicates(inplace=True, ignore_index=True)
 
+    
 
 def convert_into_val(value):
     value = value.strip('€')
@@ -38,7 +40,7 @@ def convert_into_val(value):
         return float(value)
 
 
-def convert_into_cm(height):
-    height = height.strip('"')
-    foot, inches = height.split("'")
-    return int(foot) * 30.48 + int(inches) * 2.54
+# def convert_into_cm(height):
+#     height = height.strip('"')
+#     foot, inches = height.split("'")
+#     return int(foot) * 30.48 + int(inches) * 2.54
