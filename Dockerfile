@@ -1,5 +1,6 @@
 # Docker file for fifa 22 ultimate team recommender
-# Tony Liang, May, 2022
+# Author : Tony Liang
+# Date : May, 2022
 
 # use rocker/tidyverse as the base image
 FROM jupyter/scipy-notebook:8f0a73e76d17
