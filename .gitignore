@@ -1,22 +1,3 @@
-Skip to content
-othmbela
-/
-fifa-21-web-scraping
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-More
-fifa-21-web-scraping/.gitignore
-@othmbela
-othmbela .gitignore & LICENSE Added
- History
- 1 contributor
-137 lines (110 sloc)  1.81 KB
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

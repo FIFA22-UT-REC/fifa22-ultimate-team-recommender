@@ -1,5 +1,7 @@
 from itertools import chain
+import os
 import pandas as pd
+
 
 from utils.pipeline import pipeline
 
@@ -13,5 +15,10 @@ def save_csv(data):
 
     df = pd.DataFrame(list(chain.from_iterable(data)))
     pipeline(df)
-    df.to_csv("./data/player_data.csv", index=False, encoding='utf-8-sig')
+    outname = "player_raw_data.csv"
+    outdir = "./data/raw"
+    if not os.path.exists(outdir):
+        os.mkdir(outdir)
+    fullname = os.path.join(outdir, outname)
+    df.to_csv(fullname, index=False, encoding='utf-8-sig')
 

@@ -1,0 +1,9 @@
+name: fifa22
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - pip
+  - r-essentials
+  - r
+
