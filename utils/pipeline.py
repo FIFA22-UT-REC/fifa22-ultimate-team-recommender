@@ -8,8 +8,6 @@ def pipeline(df):
     :return: processed data frame
     """
 
-    # Drop duplicates
-    df.drop_duplicates(inplace=True, ignore_index=True)
 
     # print(df.columns)
     # Convert height and weight to standard units
@@ -24,7 +22,10 @@ def pipeline(df):
     #df[columns] = df[columns].apply(pd.to_numeric())
 
     # Rename some variable names
-    df.rename({"Country": "Nationality", "Overall Rating": "Overall"}, inplace=True)
+    #df.rename({"Country": "Nationality", "Overall Rating": "Overall"}, inplace=True)
+
+    # Drop duplicates
+    df.drop_duplicates(inplace=True, ignore_index=True)
 
 
 def convert_into_val(value):
