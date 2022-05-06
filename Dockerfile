@@ -6,6 +6,7 @@ FROM jupyter/scipy-notebook:8f0a73e76d17
 
 USER root
 RUN conda install --quiet --yes -c conda-forge\
+    python \
     pip \
     r r r-essentials
     
