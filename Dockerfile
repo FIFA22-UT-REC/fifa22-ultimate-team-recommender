@@ -2,13 +2,15 @@
 # Tony Liang, May, 2022
 
 # use rocker/tidyverse as the base image
-FROM rocker/tidyverse
+FROM jupyter/scipy-notebook:8f0a73e76d17
 
-# install python packages
-RUN apt-get update && apt-get install -y --no-install-recommends r-base python3.9 python3-pip
-
+USER root
+RUN conda install --quiet --yes -c conda-forge\
+    pip \
+    r r r-essentials
+    
 # install R packages
-Run R -e "install.packages('docopt')"
+Run R -e "install.packages('docopt', repos = 'http://cran.us.r-project.org')"
 
 # install dependencies of python
 COPY requirements.txt requirements.txt
