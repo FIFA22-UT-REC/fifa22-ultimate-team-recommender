@@ -11,9 +11,8 @@ def save_csv(data):
     :return: csv
     """
 
-    flatten = lambda x: list(chain.from_iterable(x))
 
-    df = pd.DataFrame(flatten(data))
+    df = pd.DataFrame(list(chain.from_iterable(data)))
     pipeline(df)
     df.to_csv("./data/fifa22.csv", index=False, encoding='utf-8-sig')
 

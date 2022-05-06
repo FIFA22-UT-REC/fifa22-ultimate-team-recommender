@@ -23,9 +23,12 @@ def pipeline(df):
 
     # Rename some variable names
     #df.rename({"Country": "Nationality", "Overall Rating": "Overall"}, inplace=True)
-    
+
+
     # Drop duplicates
     df.drop_duplicates(inplace=True, ignore_index=True)
+
+    
 
 def convert_into_val(value):
     value = value.strip('€')
