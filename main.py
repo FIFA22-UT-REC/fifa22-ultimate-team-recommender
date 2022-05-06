@@ -1,8 +1,6 @@
 import logging
 import time
 
-from fake_useragent import UserAgent
-
 from scraper.scraper import Scraper
 from utils.multi_threading import MultiThreading
 from utils.save_csv import save_csv
@@ -14,7 +12,6 @@ def main():
     logging.config.fileConfig("logging.conf")
     logger = logging.getLogger("sLogger")
 
-    ua = UserAgent()
 
     params = {
         "ae": "0",
@@ -36,7 +33,7 @@ def main():
 
     query = "&".join([f"showCol%5B{y}%5D={x}" for x, y in params.items()])
     url = f"https://sofifa.com/players?{query}&offset="
-    urls = [url + str(offset) for offset in range(0, 18060, 60)]
+    urls = [url + str(offset) for offset in range(0, 120, 60)]
 
     # Parameters
     number_of_scraper = 31
