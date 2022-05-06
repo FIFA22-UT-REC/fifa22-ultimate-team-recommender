@@ -22,16 +22,16 @@ def main():
         "pt": "2",
         "vl": "3",
         "wg": "4",
-        "pf": "5",
-        "hi": "6",
-        "wi": "7",
+        #"pf": "5",
+        #"hi": "6",
+        #"wi": "7",
         "bp": "8",
-        "pac": "9",
-        "pas": "10",
-        "sho": "11",
-        "phy": "12",
-        "dri": "13",
-        "def": "14"
+        #"pac": "9",
+        #"pas": "10",
+        #"sho": "11",
+        #"phy": "12",
+        #"dri": "13",
+        #"def": "14"
     }
 
     query = "&".join([f"showCol%5B{y}%5D={x}" for x, y in params.items()])
@@ -42,7 +42,7 @@ def main():
     number_of_scraper = 31
     pages = 10
 
-    scrapers = [Scraper(urls[pages*i:min(pages*(i+1), len(urls))], ua.random) for i in range(number_of_scraper)]
+    scrapers = [Scraper(urls[pages*i:min(pages*(i+1), len(urls))]) for i in range(number_of_scraper)]
 
     # logging the track of scraping
     logger.info("Scraping started...")     # considering adding timer to record

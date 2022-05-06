@@ -16,14 +16,13 @@ class Scraper(object):
     players_scraped = []
 
     # Instantiate scraper
-    def __init__(self, urls, user_agent):
+    def __init__(self, urls):
         self.urls = urls
-        self.headers = {"UserAgent": user_agent}
         self.logger = logging.getLogger("sLogger")
 
     # request to get the url
-    def get_page(self, url, headers):
-        response = requests.get(url, headers=headers)
+    def get_page(self, url):
+        response = requests.get(url)
         if response.status_code:
             soup = BeautifulSoup(response.content, "html.parser")
             return soup.find("tbody", {"class": "list"})
@@ -36,17 +35,16 @@ class Scraper(object):
         return [extract_info(tr) for tr in trs]
 
     # method to extract and copy player info from web
-    def scrap(self, urls, headers):
+    def scrap(self, urls):
         for url in urls:
-            tbody = self.get_page(url, headers)
+            tbody = self.get_page(url)
             if tbody is None:
                 continue
             trs = tbody.findAll("tr")
             Scraper.players_scraped.append(self.get_players(trs))
             self.logger.info("Page{} scraped".format(len(Scraper.players_scraped)))
-            time.sleep(random.randit(3, 8))
 
     # method to start the scraper
     def start(self):
-        self.scrap(self.urls, self.headers)
+        self.scrap(self.urls)
 
