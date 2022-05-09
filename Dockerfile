@@ -1,5 +1,5 @@
 # Docker file for fifa 22 ultimate team recommender
-# Author : Tony Liang
+# Author : Tony Liang, Chloe Zhang
 # Date : May, 2022
 
 
@@ -19,6 +19,6 @@ FROM rocker/tidyverse
 # install R packages
 Run R -e "install.packages('docopt', repos = 'http://cran.us.r-project.org')"
 
-# install dependencies of python
+# install dependencies of python 
 COPY requirements.txt requirements.txt
 #RUN pip3 install -r requirements.txt
