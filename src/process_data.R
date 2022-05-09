@@ -23,7 +23,7 @@ main <- function(file_path, out_path) {
   # value = 0 means "system created player (not real)"
   # best_position from 12 : 21 means legacy players
   
-  df <- read_csv(file_path, locale = readr::locale(encoding = "UTF-8")) %>% as.data.frame() %>%
+  df <- read_csv(file_path, locale = locale(encoding = "UTF-8")) %>% as.data.frame() %>%
         filter(value != 0, !best_position %in% c("12","13", "14","15","16","17",
                                                  "18","19","20","21")) %>%
         rename(pos = best_position) 
