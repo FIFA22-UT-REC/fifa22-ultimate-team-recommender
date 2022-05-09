@@ -25,6 +25,6 @@ __Tony Liang__:
 
 ## License
 
-The underlying source code used to format and display the content of this project is licensed under the [MIT License](LICENSE.md)
+The underlying source code used to format and display the content of this project is licensed under the [MIT License](LICENSE)
 
 
