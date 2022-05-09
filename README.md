@@ -1,4 +1,4 @@
-# fifa22-ultimate-team-recommender
+# FIFA 22 Ultimate Team Recommender
 
 ## Overview
 This is project using Python to scrap FIFA player data from an open source website [SoFIFA](https://sofifa.com/) and apply automated non-interacitve scripts to process crawled data, then fit models to player statistics to setup a recommender (With UI) of players in FIFA22 given user inputs as constraints eg. budget, potential, attribute and etc.
