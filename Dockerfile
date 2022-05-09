@@ -8,7 +8,7 @@
 # docker run -it  <image-name> <- means run interactive 
 # docker run -it --rm <image-name> runs interactively and remove it after <exit>
 # docker run -it --rm -v /$(pwd): <path-to-store> <img>
-# docker run -it --rm -v /$(pwd):/home/folder_name hello-w  
+# docker run -it --rm -v /$(pwd):/home/folder_name hello-w 
 
 FROM ubcdsci/jupyterlab
 
