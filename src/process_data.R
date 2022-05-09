@@ -11,7 +11,7 @@ Options:
     --file_path=<file_path> Path to the raw data
     --out_path=<out_path> Path to store processed data
 " -> doc
-install.packages("docopt", repos = "http://cran.us.r-project.org")
+#install.packages("docopt", repos = "http://cran.us.r-project.org")
 library(tidyverse)
 library(docopt)
 library(rlang)
