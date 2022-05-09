@@ -39,9 +39,33 @@ root directory of this project:
 
     make clean
 
+#### 2. Using Docker to run on Jupyter lab
+
+1)  Clone this GitHub repository and run the following code in the
+    terminal
+
+`git clone https://github.com/tonyliang19/fifa22-ultimate-team-recommender`
+
+2)  Run this firstly in your terminal to pull latest docker image
+
+`docker pull tonyliang19/fifa22-ultimate-team-recommender`
+
+3)  Run the following command to run the container based on the latest
+    image
+
+`docker run -it --rm -v /$(pwd):/opt/notebooks/ -p 8888:8888 tonyliang19/fifa22-ultimate-team-recommender`
+
+4)  After the command runs, copy the last link in your terminal similar
+    to the following:
+
+`http://127.0.0.1:8888/lab?token=f4eef0c11762e60a7974f3ea3eb352a4913e70755433398b`
+and open it on any browser like Google Chrome or Mozilla Firefox.
+
+Then you should be able to run and explore the project interactively!
+
 ## Dependencies
 
--   Python 3.10.4 and Python packages:
+-   Python 3.9.5 and Python packages:
     -   beautifulsoup4=4.11.1
     -   bs4=0.0.1
     -   certifi=2021.10.8
@@ -57,7 +81,7 @@ root directory of this project:
     -   six=1.16.0
     -   soupsieve=2.3.2.post1
     -   urllib3=1.26.9
--   R version 4.1.3 and R packages:
+-   R version 4.1.1 and R packages:
     -   docopt=0.7.1
     -   knitr=1.38
     -   rlang=1.0.2
