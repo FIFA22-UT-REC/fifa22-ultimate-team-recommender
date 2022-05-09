@@ -82,11 +82,14 @@ Then you should be able to run and explore the project interactively!
     -   soupsieve=2.3.2.post1
     -   urllib3=1.26.9
 -   R version 4.1.1 and R packages:
+    -   bookdown=0.25
     -   docopt=0.7.1
+    -   devtools=2.4.3
     -   knitr=1.38
     -   rlang=1.0.2
-    -   rmarkdown=2.13
     -   tidyverse=1.3.1
+    -   tinytex=0.38
+    -   vctrs=0.4.1
 -   GNU make 4.3
 
 ## License

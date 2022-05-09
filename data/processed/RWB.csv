@@ -1,0 +1,162 @@
+"","name","country","age","overall","potential","club","pos","value","wage"
+"1","Reece James","England",21,83,87,"Chelsea","RWB",49500000,90000
+"2","Nélson Cabral Semedo","Portugal",27,81,81,"Wolverhampton Wanderers","RWB",2.5e+07,86000
+"3","Denzel Dumfries","Netherlands",25,81,83,"Inter","RWB",29500000,90000
+"4","Hans Hateboer","Netherlands",27,80,80,"Atalanta","RWB",20500000,51000
+"5","Pedro Antonio Porro Sauceda","Spain",21,80,87,"Sporting CP","RWB",40500000,80000
+"6","Rick Karsdorp","Netherlands",26,80,80,"Roma","RWB",2.1e+07,54000
+"7","Davide Zappacosta","Italy",29,79,79,"Atalanta","RWB",15500000,51000
+"8","Jonathan Clauss","France",28,79,79,"Racing Club de Lens","RWB",1.6e+07,34000
+"9","Matteo Darmian","Italy",31,79,79,"Inter","RWB",12500000,85000
+"10","Ricardo Sousa Esgaio","Portugal",28,78,78,"Sporting CP","RWB",12500000,15000
+"11","Emerson Leite De Souza","Brazil",22,78,82,"Tottenham Hotspur","RWB",1.9e+07,63000
+"12","Stefan Lainer","Austria",28,78,78,"Borussia Mönchengladbach","RWB",12500000,29000
+"13","Frédéric Guilbert","France",26,77,78,"RC Strasbourg Alsace","RWB",11500000,55000
+"14","Silvan Widmer","Switzerland",28,77,77,"1. FSV Mainz 05","RWB",9500000,25000
+"15","Joakim Mæhle","Denmark",24,77,80,"Atalanta","RWB",13500000,35000
+"16","Christopher Trimmel","Austria",34,77,77,"1. FC Union Berlin","RWB",3900000,29000
+"17","Matt Doherty","Republic of Ireland",29,77,77,"Tottenham Hotspur","RWB",9500000,72000
+"18","Marco Davide Faraoni","Italy",29,77,77,"Hellas Verona","RWB",9500000,27000
+"19","Nahuel Molina","Argentina",23,76,82,"Udinese Calcio","RWB",1.1e+07,14000
+"20","Fabien Centonze","France",25,76,79,"FC Metz","RWB",9e+06,17000
+"21","Ainsley Maitland-Niles","England",23,76,80,"Roma","RWB",1e+07,52000
+"22","Tariq Lamptey","England",20,75,84,"Brighton & Hove Albion","RWB",1.2e+07,32000
+"23","Mërgim Vojvoda","Kosovo",26,74,74,"Torino F.C.","RWB",4200000,32000
+"24","Japhet Tanganga","England",22,74,82,"Tottenham Hotspur","RWB",9e+06,49000
+"25","Danny da Costa","Germany",27,74,74,"Eintracht Frankfurt","RWB",4100000,22000
+"26","Bart Nieuwkoop","Netherlands",25,73,75,"Royale Union Saint-Gilloise","RWB",3500000,12000
+"27","Djed Spence","England",20,73,81,"Nottingham Forest","RWB",6500000,15000
+"28","Almamy Touré","Mali",25,73,75,"Eintracht Frankfurt","RWB",3500000,19000
+"29","Jayden Bogle","England",20,73,82,"Sheffield United","RWB",6500000,15000
+"30","Reggie Cannon","United States",23,73,81,"Boavista FC","RWB",6500000,10000
+"31","Wilfried Singo","Côte d'Ivoire",20,73,85,"Torino F.C.","RWB",7e+06,21000
+"32","Deyovaisio Zeefuik","Netherlands",23,73,78,"Blackburn Rovers","RWB",4300000,25000
+"33","Eli Dasa","Israel",28,73,73,"Vitesse","RWB",2800000,14000
+"34","Joel Andersson","Sweden",24,72,75,"FC Midtjylland","RWB",3e+06,15000
+"35","Richie Laryea","Canada",26,72,73,"Nottingham Forest","RWB",2500000,31000
+"36","Davide Santon","Italy",30,72,72,"Roma","RWB",2e+06,29000
+"37","Numa Lavanchy","Switzerland",27,72,72,"FC Lugano","RWB",2300000,8000
+"38","Erik Durm","Germany",29,72,72,"Eintracht Frankfurt","RWB",2100000,18000
+"39","George Baldock","England",28,72,72,"Sheffield United","RWB",2100000,20000
+"40","Isaiah Jones","England",22,71,77,"Middlesbrough","RWB",2800000,14000
+"41","Rui Filipe Caetano Moura","Portugal",28,71,71,"Belenenses SAD","RWB",1700000,8000
+"42","James Bree","England",23,71,75,"Luton Town","RWB",2500000,8000
+"43","Cyrus Christie","Republic of Ireland",28,71,71,"Swansea City","RWB",1700000,31000
+"44","Issa Kaboré","Burkina Faso",20,71,83,"ESTAC Troyes","RWB",4300000,38000
+"45","Joe Scally","United States",18,71,82,"Borussia Mönchengladbach","RWB",3800000,5000
+"46","Tommy Smith","England",29,71,71,"Stoke City","RWB",1600000,18000
+"47","Julian Ryerson","Norway",23,71,75,"1. FC Union Berlin","RWB",2500000,15000
+"48","Mohamed Dräger","Tunisia",25,70,75,"FC Luzern","RWB",2200000,23000
+"49","Alistair Johnston","Canada",22,70,75,"Club de Foot Montréal","RWB",2300000,4000
+"50","Kevin Rüegg","Switzerland",22,70,78,"FC Lugano","RWB",3400000,11000
+"51","Arnau Martínez López","Spain",18,70,82,"Girona FC","RWB",3500000,2000
+"52","Paolo Marco Leima Donatelo","Brazil",21,70,70,"Clube Atlético Mineiro","RWB",1700000,12000
+"53","Felix Agu","Germany",21,70,81,"SV Werder Bremen","RWB",3400000,5000
+"54","Philipp Hercher","Germany",25,69,72,"1. FC Kaiserslautern","RWB",1700000,3000
+"55","Gustavo H. Ferrareis","Brazil",25,69,70,"Puebla FC","RWB",1500000,4000
+"56","Chiedozie Ogbene","Republic of Ireland",24,69,74,"Rotherham United","RWB",2e+06,5000
+"57","Nathan Santos de Araújo","Brazil",19,69,80,"Boavista FC","RWB",2900000,4000
+"58","Federico Vera","Argentina",23,69,75,"Unión de Santa Fe","RWB",2100000,6000
+"59","Mads Roerslev","Denmark",22,69,76,"Brentford","RWB",2700000,16000
+"60","Nikola Boranijašević","Serbia",29,69,69,"FC Zürich","RWB",1200000,9000
+"61","Andreas Vindheim","Norway",25,69,70,"FC Schalke 04","RWB",1500000,500
+"62","Gonçalo Esteves","Portugal",17,69,85,"Sporting CP","RWB",3300000,500
+"63","Michael Smith","Northern Ireland",32,68,68,"Heart of Midlothian","RWB",825000,3000
+"64","Gaizka Larrazabal","Spain",23,68,75,"SD Amorebieta","RWB",2300000,4000
+"65","Danny McNamara","Republic of Ireland",22,68,74,"Millwall","RWB",1800000,5000
+"66","Oğuz Ceylan","Turkey",30,68,68,"Gazişehir Gaziantep F.K.","RWB",1e+06,6000
+"67","Reinhold Ranftl","Austria",29,68,68,"FC Schalke 04","RWB",1100000,5000
+"68","Mahlon Romeo","Antigua and Barbuda",25,68,71,"Portsmouth","RWB",1500000,6000
+"69","Brandon Soppy","France",19,68,81,"Udinese Calcio","RWB",2700000,3000
+"70","Andreas Bruus","Denmark",22,67,73,"Brøndby IF","RWB",1500000,4000
+"71","Osman Kakay","Sierra Leone",23,67,72,"Queens Park Rangers","RWB",1400000,5000
+"72","Matt Olosunde","United States",23,67,74,"Preston North End","RWB",1900000,9000
+"73","Taylor Gardner-Hickman","England",19,67,79,"West Bromwich Albion","RWB",2300000,7000
+"74","Cody Drameh","England",19,67,80,"Cardiff City","RWB",2300000,11000
+"75","Shaun Rooney","Scotland",24,66,71,"St. Johnstone FC","RWB",1200000,2000
+"76","Peter Kioso","Republic of Ireland",21,66,73,"Luton Town","RWB",1600000,3000
+"77","Ishaq Abdulrazak","Nigeria",19,66,78,"IFK Norrköping","RWB",1900000,1000
+"78","Jordan Williams","England",21,66,75,"Barnsley","RWB",1800000,8000
+"79","Steven Sessegnon","England",21,66,77,"Plymouth Argyle","RWB",1800000,10000
+"80","Jackson Tchatchoua","Belgium",20,66,78,"Royal Charleroi S.C.","RWB",2e+06,3000
+"81","Jason McCarthy","England",25,66,69,"Wycombe Wanderers","RWB",1e+06,3000
+"82","Bali Mumba","England",19,66,78,"Peterborough United","RWB",1900000,5000
+"83","Ki-Jana Hoever","Netherlands",19,66,79,"Wolverhampton Wanderers","RWB",1900000,9000
+"84","Tae Hwan Kim","Korea Republic",21,66,77,"Suwon Samsung Bluewings","RWB",1800000,1000
+"85","Kane Wilson","England",21,66,72,"Forest Green Rovers","RWB",1300000,4000
+"86","Diallang Jaiyesimi","England",23,66,73,"Charlton Athletic","RWB",1600000,2000
+"87","Joe Rafferty","Republic of Ireland",27,66,66,"Preston North End","RWB",825000,9000
+"88","Patryk Janasik","Poland",23,65,69,"Śląsk Wrocław","RWB",950000,2000
+"89","Marlon Fossey","United States",22,65,72,"Bolton Wanderers","RWB",1400000,10000
+"90","Jan Grzesik","Poland",26,65,66,"Warta Poznań","RWB",775000,1000
+"91","Demba Thiam","France",31,65,65,"USL Dunkerque","RWB",525000,2000
+"92","Eirik Wichne","Norway",24,64,70,"Sarpsborg 08 FF","RWB",875000,1000
+"93","Kaine Kesler Hayden","England",18,64,77,"Milton Keynes Dons","RWB",1300000,3000
+"94","Joel Nilsson","Sweden",26,64,65,"Hammarby IF","RWB",625000,1000
+"95","Wolke Janssens","Belgium",25,64,66,"Sint-Truidense VV","RWB",675000,3000
+"96","Rúben Ismael Valente Ramos","Portugal",22,63,71,"Moreirense FC","RWB",1e+06,2000
+"97","Junior Mansoni","Belgium",25,63,66,"Seraing","RWB",575000,3000
+"98","Pedro Jorge Gonçalves Malheiro","Portugal",20,63,71,"Boavista FC","RWB",1e+06,2000
+"99","Anton Liljenbäck","Sweden",26,63,64,"Varbergs BoIS FC","RWB",525000,850
+"100","Lukas Pinckert","Germany",21,63,69,"FC Viktoria 1889 Berlin","RWB",725000,650
+"101","Robert Dadok","Poland",24,63,66,"Górnik Zabrze","RWB",6e+05,1000
+"102","Aitor Aldalur Agirrezabal","Spain",29,63,63,"SD Amorebieta","RWB",425000,2000
+"103","Daniel Pike","England",19,62,77,"Blackburn Rovers","RWB",9e+05,4000
+"104","Idris Kanu","Sierra Leone",21,62,71,"Northampton Town","RWB",850000,2000
+"105","Thomas Aquilina","Australia",20,62,72,"Western Sydney Wanderers","RWB",825000,1000
+"106","Jorge Miguel Lopes Xavier","Portugal",20,62,68,"Belenenses SAD","RWB",575000,950
+"107","Kaan Kurt","Germany",19,62,71,"Borussia Mönchengladbach","RWB",825000,2000
+"108","Ionuț Rădescu","Romania",26,62,63,"CS Mioveni","RWB",425000,1000
+"109","Dorinel Oancea","Romania",24,62,66,"CS Mioveni","RWB",525000,950
+"110","James Brown","Republic of Ireland",23,61,64,"Blackburn Rovers","RWB",425000,6000
+"111","Eskil Edh","Norway",18,61,75,"Lillestrøm SK","RWB",725000,500
+"112","Gideon Mensah","Ghana",20,61,68,"Varbergs BoIS FC","RWB",625000,500
+"113","Fin Stevens","Wales",18,61,79,"Brentford","RWB",8e+05,2000
+"114","Siebe Wylin","Belgium",18,61,82,"KV Oostende","RWB",1e+06,600
+"115","Jayden Richardson","England",20,61,74,"Nottingham Forest","RWB",750000,5000
+"116","Alan Kerouedan","France",21,61,70,"Rodez Aveyron Football","RWB",7e+05,700
+"117","Ayrton Mboko","Belgium",23,61,65,"FC Academica Clinceni","RWB",425000,1000
+"118","William Mikelbrencis","France",17,60,74,"FC Metz","RWB",525000,500
+"119","Marco Schleef","Germany",22,60,66,"TSV Havelse","RWB",375000,500
+"120","Marcel Lavinier","England",20,60,72,"Tottenham Hotspur","RWB",575000,7000
+"121","Mikel Zarrabeitia Ipiña","Spain",27,60,60,"SD Amorebieta","RWB",240000,1000
+"122","Femi Seriki","England",19,59,73,"Sheffield United","RWB",5e+05,2000
+"123","Kacper Tabiś","Poland",21,59,70,"Jagiellonia Białystok","RWB",475000,1000
+"124","Romaric Yapi","France",20,59,71,"Vitesse","RWB",525000,2000
+"125","Denis Kina","Germany",28,59,59,"TSV Havelse","RWB",2e+05,500
+"126","Michał Król","Poland",21,58,64,"Górnik Łęczna","RWB",3e+05,550
+"127","Owen Gene","France",18,58,78,"Amiens SC","RWB",550000,500
+"128","Johan Karlsson","Sweden",20,58,68,"IK Sirius","RWB",425000,550
+"129","Daniel Oyegoke","England",18,58,74,"Brentford","RWB",5e+05,2000
+"130","Warren Kamanzi","Norway",20,58,68,"Tromsø IL","RWB",425000,600
+"131","Charlie Barker","England",18,58,67,"Charlton Athletic","RWB",4e+05,500
+"132","Marcel Oakley","England",18,57,74,"Birmingham City","RWB",4e+05,950
+"133","Josip Filipovic","Croatia",25,57,62,"Mjällby AIF","RWB",220000,600
+"134","Fin Back","England",18,57,74,"Nottingham Forest","RWB",4e+05,2000
+"135","Casper Gedsted","Denmark",19,57,69,"Aalborg BK","RWB",375000,1000
+"136","Ethan Ingram","England",18,57,73,"West Bromwich Albion","RWB",4e+05,2000
+"137","Tivonge Rushesha","Wales",18,56,72,"Swansea City","RWB",350000,1000
+"138","Ho Jun Son","Korea Republic",18,56,73,"Suwon Samsung Bluewings","RWB",350000,500
+"139","Harry Birtwistle","Singapore",17,55,72,"Wolverhampton Wanderers","RWB",3e+05,500
+"140","Jesper Bergset Robertsen","Norway",17,55,70,"Tromsø IL","RWB",275000,500
+"141","Christian Friedrich","Denmark",18,55,70,"Brøndby IF","RWB",275000,600
+"142","Blaine Rowe","England",19,55,70,"Coventry City","RWB",275000,2000
+"143","Callum Wilson","Northern Ireland",17,54,65,"Shrewsbury Town","RWB",210000,500
+"144","Jordan Helliwell","England",19,54,70,"Barnsley","RWB",275000,3000
+"145","David Bendrik","Sweden",18,53,70,"Varbergs BoIS FC","RWB",230000,500
+"146","Donell Gordon","England",17,53,65,"Swindon Town","RWB",2e+05,500
+"147","Cosmin Ioniță","Romania",18,53,65,"FC Academica Clinceni","RWB",210000,500
+"148","Shahram Jabari","Norway",18,53,68,"Lillestrøm SK","RWB",210000,500
+"149","Harry Jones","Wales",17,52,68,"Swansea City","RWB",190000,500
+"150","James Clark","England",19,52,68,"Wycombe Wanderers","RWB",2e+05,800
+"151","Lucas Lykkegaard","Denmark",19,52,65,"FC Nordsjælland","RWB",180000,900
+"152","Ben McLean","England",18,52,60,"Burton Albion","RWB",160000,500
+"153","Łukasz Seweryn","Poland",19,52,67,"PGE FKS Stal Mielec","RWB",180000,500
+"154","Myung Sun Kim","Korea Republic",20,51,57,"Jeju United FC","RWB",80000,750
+"155","Avan Jones","England",19,51,66,"Luton Town","RWB",130000,1000
+"156","Jack McLoughlin","Australia",19,51,63,"Macarthur FC","RWB",130000,500
+"157","Shenyuan Li","China PR",23,51,58,"Shanghai Port FC","RWB",110000,3000
+"158","Qi Cui","China PR",23,50,54,"Changchun Yatai FC","RWB",60000,1000
+"159","Benjamin Mensah","England",18,50,66,"Peterborough United","RWB",110000,500
+"160","Yuhao Chen","China PR",19,49,66,"Wuhan FC","RWB",120000,800
+"161","Huapeng Wang","China PR",21,48,54,"Chongqing Liangjiang Athletic","RWB",70000,950
