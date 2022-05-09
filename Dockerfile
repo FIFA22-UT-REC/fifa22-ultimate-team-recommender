@@ -2,6 +2,7 @@
 # Author : Tony Liang, Chloe Zhang
 # Date : May, 2022
 
+# docker run -it --rm -v /$(pwd):/opt/notebooks/ -p 8888:8888 fifa22-ultimate-team-recommender
 
 # docker build -t <image-name> .   <- this dot means everything 
 # docker run -it  <image-name> <- means run interactive 
@@ -9,16 +10,26 @@
 # docker run -it --rm -v /$(pwd): <path-to-store> <img>
 # docker run -it --rm -v /$(pwd):/home/folder_name hello-w  
 
-FROM rocker/tidyverse
+FROM ubcdsci/jupyterlab
 
-#RUN conda install --quiet --yes -c conda-forge\
+RUN conda install --quiet --yes -c conda-forge\
+  r-bookdown=0.25 \
+  r-docopt=0.7.1  \
+  r-devtools=2.4.3 \
+  r-knitr=1.38 \
+  r-rlang=1.0.2 \
+  r-tidyverse=1.3.1 \
+  r-tinytex=0.38 \
+  r-vctrs=0.4.1
+  
 #    python \
 #    pip \
 #    r r r-essentials
     
 # install R packages
-Run R -e "install.packages('docopt', repos = 'http://cran.us.r-project.org')"
+#RUN R -e "install.packages(c('docopt', 'tidyverse'), repos='http://cran.us.r-project.org')"
 
 # install dependencies of python 
 COPY requirements.txt requirements.txt
-#RUN pip3 install -r requirements.txt
+RUN pip install -r requirements.txt
+
