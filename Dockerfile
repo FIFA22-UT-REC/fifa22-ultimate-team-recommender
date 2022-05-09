@@ -1,5 +1,6 @@
 # Docker file for fifa 22 ultimate team recommender
-# Tony Liang, May, 2022
+# Author : Tony Liang
+# Date : May, 2022
 
 
 # docker build -t <image-name> .   <- this dot means everything 
@@ -21,4 +22,8 @@ FROM ubcdsci/jupyterlab:v0.9.0
 
 # install dependencies of python
 COPY requirements.txt requirements.txt
+<<<<<<< HEAD
 #RUN pip3 install -r requirements.txt
+=======
+RUN pip3 install -r requirements.txt
+>>>>>>> 935d37b85abd24adcd142fae2cafdffe4a236a28
