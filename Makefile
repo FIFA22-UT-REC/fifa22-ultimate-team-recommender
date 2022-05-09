@@ -1,6 +1,6 @@
 # This driver script completes all preliminary data processing and results
 # from data scraped from web to further use it to train for model
-# Author: Tony Liang
+# Author: Tony Liang， Chloe Zhang
 # Date: May, 2022
 
 all : data/raw/player_raw_data.csv data/processed/ST.csv data/processed/CF.csv data/processed/CAM.csv data/processed/CM.csv data/processed/CDM.csv data/processed/CB.csv data/processed/GK.csv data/processed/LB.csv data/processed/RB.csv data/processed/LWB.csv data/processed/RWB.csv data/processed/LM.csv data/processed/RM.csv data/processed/LW.csv data/processed/RW.csv
