@@ -85,10 +85,12 @@ Then you should be able to run and explore the project interactively!
     -   docopt=0.7.1
     -   devtools=2.4.3
     -   knitr=1.38
+    -   rfifa=1.0.0
     -   rlang=1.0.2
     -   tidyverse=1.3.1
     -   tinytex=0.38
     -   vctrs=0.4.1
+    
 -   GNU make 4.3
 
 ## License

@@ -27,7 +27,7 @@ RUN conda install --quiet --yes -c conda-forge\
 #    r r r-essentials
     
 # install R packages
-#RUN R -e "install.packages(c('docopt', 'tidyverse'), repos='http://cran.us.r-project.org')"
+RUN Rscript -e "devtools::install_github('tonyliang19/rfifa', force = TRUE)"
 
 # install dependencies of python 
 COPY requirements.txt requirements.txt

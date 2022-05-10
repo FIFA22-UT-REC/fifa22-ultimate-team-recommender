@@ -5,17 +5,16 @@
 takes data file path as argument, and another out directory to store processed
 data.
 
-Usage: src/process_data.R --file_path=<file_path> --out_path=<>
+Usage: src/R/process_data.R --file_path=<file_path> --out_path=<>
 
 Options:
     --file_path=<file_path> Path to the raw data
     --out_path=<out_path> Path to store processed data
 " -> doc
-#install.packages("docopt", repos = "http://cran.us.r-project.org")
-library(tidyverse)
-library(docopt)
-library(rlang)
-source("src/save_dat.R")
+
+suppressWarnings(library(tidyverse))
+suppressWarnings(library(docopt))
+suppressWarnings(library(rfifa))
 
 opt <- docopt(doc)
 main <- function(file_path, out_path) {
