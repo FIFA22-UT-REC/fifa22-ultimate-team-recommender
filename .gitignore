@@ -104,3 +104,6 @@ database.ini
 
 # pycharm
 .idea
+
+# processed data
+data/processed
