@@ -2,7 +2,7 @@
 # Author : Tony Liang, Chloe Zhang
 # Date : May, 2022
 
-# docker run -it --rm -v /$(pwd):/opt/notebooks/ -p 8888:8888 fifa22-ultimate-team-recommender
+# docker run -it --rm -v /$(pwd):/opt/notebooks/ -p 8888:8888 tonyliang19/fifa22-ultimate-team-recommender
 
 # docker build -t <image-name> .   <- this dot means everything 
 # docker run -it  <image-name> <- means run interactive 
@@ -22,12 +22,8 @@ RUN conda install --quiet --yes -c conda-forge\
   r-tinytex=0.38 \
   r-vctrs=0.4.1
   
-#    python \
-#    pip \
-#    r r r-essentials
-    
 # install R packages
-RUN Rscript -e "devtools::install_github('tonyliang19/rfifa', force = TRUE)"
+RUN Rscript -e "devtools::install_github('FIFA22-UT-Recommender/rfifa', force = TRUE)"
 
 # install dependencies of python 
 COPY requirements.txt requirements.txt

@@ -44,7 +44,7 @@ root directory of this project:
 1)  Clone this GitHub repository and run the following code in the
     terminal
 
-`git clone https://github.com/tonyliang19/fifa22-ultimate-team-recommender`
+`git clone https://github.com/FIFA22-UT-Recommender/fifa22-ultimate-team-recommender`
 
 2)  Run this firstly in your terminal to pull latest docker image
 
