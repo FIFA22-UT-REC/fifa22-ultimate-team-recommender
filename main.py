@@ -50,7 +50,7 @@ def main():
     # logging the track of saving csv
     logger.info("Generating surface CSV file...")  # considering adding timer to record
     save_csv(Scraper.players_scraped)
-    p_urls = save_csv.p_urls
+    #p_urls = save_csv.p_urls
     logger.info("CSV file is generated.")
     # Now scrape each player individually
     # logger.info("Scraping deep started...")
@@ -62,7 +62,7 @@ def main():
     # logger.info("Generating deep CSV file...")  # considering adding timer to record
     # save_csv(Scraper.players_scraped_individual)
     # logger.info("CSV file is generated.")
-    print(p_urls)
+    #print(p_urls)
 
 if __name__ == "__main__":
     main()
