@@ -12,8 +12,14 @@ class Scraper(object):
     Pull player info down from web
     """
 
-    # Initialize array to store player
+    # Initialize array to store player (surface)
     players_scraped = []
+
+    # Initialize array to store urls belonging to individual player
+    p_urls = []
+
+    # Initialize array to store player (deep)
+    # players_deep_scraped = []
 
     # Instantiate scraper
     def __init__(self, urls):

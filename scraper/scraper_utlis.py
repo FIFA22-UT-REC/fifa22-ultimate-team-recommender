@@ -2,6 +2,7 @@
 
 def extract_info(tr):
     return {
+        "link": tr.select('td.col-name')[0].find("a").get("href"),
         "name": tr.select('td.col-name')[0].find("a").get("aria-label"),
         "country": tr.select('td.col-name')[0].find("img").get("title"),
         "age": tr.select('td.col.col-ae')[0].text.strip(),

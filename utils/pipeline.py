@@ -1,5 +1,3 @@
-import pandas as pd
-
 
 def pipeline(df):
     """
@@ -17,15 +15,17 @@ def pipeline(df):
     df['value'] = df['value'].apply(convert_into_val)
     df['wage'] = df['wage'].apply(convert_into_val)
 
-    # Convert the attributes to numeric only
-    # columns = ["PAC", "SHO", "PAS", "DRI", "DEF", "PHY"]
-    # df[columns] = df[columns].apply(pd.to_numeric())
+    # adding the base url to player self link
 
-    # Rename some variable names
-    # df.rename({"Country": "Nationality", "Overall Rating": "Overall"}, inplace=True)
+    df['link'] = df['link'].apply(add_link)
 
     # Drop duplicates
     df.drop_duplicates(inplace=True, ignore_index=True)
+
+
+def add_link(link):
+    base = "https://sofifa.com/"
+    return base + format(link)
 
 
 def convert_into_val(value):
