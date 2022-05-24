@@ -12,16 +12,14 @@ def save_csv(data):
     :param data:
     :return: csv
     """
-
-    df = pd.DataFrame(list(chain.from_iterable(data)))
+    flat = list(chain_from_iterable(data))
+    players = list(map(flatten, flat))
+    df = pd.DataFrame(players)
     pipeline(df)
-    # outname = "player_raw_dat.csv"
-    outname = "test.csv"
+    outname = "player_raw_data.csv"
     outdir = "./data/raw"
     if not os.path.exists(outdir):
         os.mkdir(outdir)
     fullname = os.path.join(outdir, outname)
-    p_urls = df['link']
-    df = df.drop('link', axis=1)
     df.to_csv(fullname, index=False, encoding='utf-8-sig')
 

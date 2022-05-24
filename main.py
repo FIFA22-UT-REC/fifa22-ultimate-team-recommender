@@ -11,35 +11,25 @@ def main():
     logging.config.fileConfig("logging.conf")
     logger = logging.getLogger("sLogger")
 
-    params = {
-        "ae": "0",
-        "oa": "1",
-        "pt": "2",
-        "vl": "3",
-        "wg": "4",
-        # "pf": "5",
-        # "hi": "6",
-        # "wi": "7",
-        "bp": "8",
-        # "pac": "9",
-        # "pas": "10",
-        # "sho": "11",
-        # "phy": "12",
-        # "dri": "13",
-        # "def": "14"
-    }
+#     params = {
+#         "ae": "0",
+#         "oa": "1",
+#         "pt": "2",
+#         "vl": "3",
+#         "wg": "4",
+#         "bp": "5"
+#     }
 
-    query = "&".join([f"showCol%5B{y}%5D={x}" for x, y in params.items()])
-    url = f"https://sofifa.com/players?{query}&offset="
-    urls = [url + str(offset) for offset in range(0, 120, 60)] # 18060 in the middle
-    #p_urls = []
+#     query = "&".join([f"showCol%5B{y}%5D={x}" for x, y in params.items()])
+#     url = f"https://sofifa.com/players?{query}&offset="
+    url = "https://sofifa.com/players?offset="
+    urls = [url + str(offset) for offset in range(0, 18060, 60)] # 18060 in the middle
 
     # Parameters
     number_of_scraper = 31
     pages = 10
 
     scrapers = [Scraper(urls[pages * i:min(pages * (i + 1), len(urls))]) for i in range(number_of_scraper)]
-    #scrapers_deep = [Scraper(p_urls[pages * i:min(pages * (i + 1), len(p_urls))]) for i in range(number_of_scraper)]
 
     # logging the track of scraping
     logger.info("Scraping surface started...")  # considering adding timer to record
@@ -50,19 +40,7 @@ def main():
     # logging the track of saving csv
     logger.info("Generating surface CSV file...")  # considering adding timer to record
     save_csv(Scraper.players_scraped)
-    #p_urls = save_csv.p_urls
     logger.info("CSV file is generated.")
-    # Now scrape each player individually
-    # logger.info("Scraping deep started...")
-    # multi_threading = MultiThreading(scrapers_deep)
-    # multi_threading.run()
-    # logger.info("Scraping deep finished.")
-    # time.sleep(1)
-    # # logging the track of saving csv
-    # logger.info("Generating deep CSV file...")  # considering adding timer to record
-    # save_csv(Scraper.players_scraped_individual)
-    # logger.info("CSV file is generated.")
-    #print(p_urls)
 
 if __name__ == "__main__":
     main()
