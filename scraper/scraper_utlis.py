@@ -1,6 +1,8 @@
 # helper method for extracting data of the player
 import requests
 from bs4 import BeautifulSoup
+from stats_utils.extract_goalkeep import extract_goalkeep
+from stats_utils.extract_def import extract_def
 
 
 def extract_info(tr):
@@ -40,65 +42,10 @@ def extract_deep(stats_block):
             "Goalkeep": extract_goalkeep(stats_block[6].find("ul"))}
 
 
-# helpers for extract_deep(tr)
-def extract_att(att):
-    return {"Crossing": att.select("li")[0].find("span").text.strip(),
-            "Finishing": att.select("li")[1].find("span").text.strip(),
-            "Heading Accuracy":  att.select("li")[2].find("span").text.strip(),
-            "Short passing": att.select("li")[3].find("span").text.strip()
-            #"Volleys": att.select("li")[4].find("span").text.strip()
-            }
 
 
-def extract_skill(ski):
-    return {"Dribbling": ski.select("li")[0].find("span").text.strip(),
-            "Curve": ski.select("li")[1].find("span").text.strip(),
-            "Fk Accuracy": ski.select("li")[2].find("span").text.strip(),
-            "Long Passing": ski.select("li")[3].find("span").text.strip(),
-            "Ball Control": ski.select("li")[4].find("span").text.strip()
-            }
 
 
-def extract_move(mov):
-    return {"Acceleration": mov.select("li")[0].find("span").text.strip(),
-            "Sprint Speed": mov.select("li")[1].find("span").text.strip(),
-            "Agility": mov.select("li")[2].find("span").text.strip(),
-            "Reactions": mov.select("li")[3].find("span").text.strip(),
-            "Balance": mov.select("li")[4].find("span").text.strip()
-            }
 
 
-def extract_pow(pow):
-    return {"Shot Power": pow.select("li")[0].find("span").text.strip(),
-            "Jumping": pow.select("li")[1].find("span").text.strip(),
-            "Stamina": pow.select("li")[2].find("span").text.strip(),
-            "Strength": pow.select("li")[3].find("span").text.strip(),
-            "Long Shots": pow.select("li")[4].find("span").text.strip()
-            }
 
-
-def extract_mentality(men):
-    return {"Aggression": men.select("li")[0].find("span").text.strip(),
-            "Interceptions": men.select("li")[1].find("span").text.strip(),
-            "Positioning": men.select("li")[2].find("span").text.strip(),
-            "Vision": men.select("li")[3].find("span").text.strip(),
-            "Penalties": men.select("li")[4].find("span").text.strip()
-            #"Composure": men.select("li")[5].find("span").text.strip()
-            }
-
-
-def extract_def(defe):
-    return {"Marking": defe.select("li")[0].find("span").text.strip(),
-            "Standing Tackle": defe.select("li")[1].find("span").text.strip(),
-            "Sliding Tackle": defe.select("li")[2].find("span").text.strip()
-            }
-
-
-def extract_goalkeep(gk):
-    return {"Diving": gk.select("li")[0].find("span").text.strip(),
-            "Handling": gk.select("li")[1].find("span").text.strip(),
-            "Kicking": gk.select("li")[2].find("span").text.strip(),
-            "Positioning": gk.select("li")[3].find("span").text.strip(),
-            "Reflexes": gk.select("li")[4].find("span").text.strip()
-            }
-    

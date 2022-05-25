@@ -1,4 +1,3 @@
-
 def pipeline(df):
     """
     Pipe and pre process scraped data

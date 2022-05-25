@@ -16,11 +16,16 @@ etc.
 
 -   [GitHub](https://github.com/ZiyueChloeZhang)
 
+**Jinghan Xu**:
+- <jh0220x@gmail.com>
+
 **Tony Liang**:
 
 -   <chunqingliang@gmail.com>
 
 -   [GitHub](https://github.com/tonyliang19)
+
+
 
 ## Usage of the project (Instructions)
 

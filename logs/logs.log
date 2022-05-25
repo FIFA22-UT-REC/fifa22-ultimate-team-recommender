@@ -1159,3 +1159,7 @@
 [2022-05-25 06:36:31,231] INFO Page116 scraped
 [2022-05-25 06:36:33,930] INFO Page117 scraped
 [2022-05-25 06:36:42,200] INFO Page118 scraped
+[2022-05-25 13:21:13,197] INFO Scraping surface started...
+[2022-05-25 13:21:20,392] INFO Scraping surface finished.
+[2022-05-25 13:21:21,405] INFO Generating surface CSV file...
+[2022-05-25 13:21:21,415] INFO CSV file is generated.
