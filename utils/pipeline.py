@@ -7,8 +7,8 @@ def pipeline(df):
     """
 
     # Convert value to exact numbers of Euros
-    df['value'] = df['value'].apply(convert_into_val)
-    df['wage'] = df['wage'].apply(convert_into_val)
+    #df['value'] = df['value'].apply(convert_into_val)
+    #df['wage'] = df['wage'].apply(convert_into_val)
 
 
     # Drop duplicates

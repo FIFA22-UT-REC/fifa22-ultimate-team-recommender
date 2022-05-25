@@ -11,17 +11,8 @@ def main():
     logging.config.fileConfig("logging.conf")
     logger = logging.getLogger("sLogger")
 
-#     params = {
-#         "ae": "0",
-#         "oa": "1",
-#         "pt": "2",
-#         "vl": "3",
-#         "wg": "4",
-#         "bp": "5"
-#     }
-
-#     query = "&".join([f"showCol%5B{y}%5D={x}" for x, y in params.items()])
-#     url = f"https://sofifa.com/players?{query}&offset="
+    # query = "&".join([f"showCol%5B{y}%5D={x}" for x, y in params.items()])
+    # url = f"https://sofifa.com/players?{query}&offset="
     url = "https://sofifa.com/players?offset="
     urls = [url + str(offset) for offset in range(0, 18060, 60)] # 18060 in the middle
 
@@ -41,6 +32,7 @@ def main():
     logger.info("Generating surface CSV file...")  # considering adding timer to record
     save_csv(Scraper.players_scraped)
     logger.info("CSV file is generated.")
+
 
 if __name__ == "__main__":
     main()

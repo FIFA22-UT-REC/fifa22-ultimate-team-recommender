@@ -4,6 +4,7 @@ import pandas as pd
 
 
 from utils.pipeline import pipeline
+from utils.flatten import flatten
 
 
 def save_csv(data):
@@ -12,7 +13,7 @@ def save_csv(data):
     :param data:
     :return: csv
     """
-    flat = list(chain_from_iterable(data))
+    flat = list(chain.from_iterable(data))
     players = list(map(flatten, flat))
     df = pd.DataFrame(players)
     pipeline(df)

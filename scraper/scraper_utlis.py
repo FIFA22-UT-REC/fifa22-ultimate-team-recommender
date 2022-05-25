@@ -2,6 +2,7 @@
 import requests
 from bs4 import BeautifulSoup
 
+
 def extract_info(tr):
     base = "https://sofifa.com/"
     link = base + tr.select('td.col-name')[0].find("a").get("href")
@@ -15,7 +16,7 @@ def extract_info(tr):
         "best_position": tr.select('td.col-name')[0].find("span").text,
         "value": tr.select('td.col.col-vl')[0].text.strip(),
         "wage": tr.select('td.col.col-wg')[0].text.strip(),
-        "stats" : extract_stats(link)
+        "stats": extract_stats(link)
     }
     
 
@@ -24,77 +25,80 @@ def extract_info(tr):
 def extract_stats(link):
     new_res = requests.get(link)
     new_soup = BeautifulSoup(new_res.content, "html.parser")
-    n_tbody = new_soup.find_all("div", {"class":"center"})[5]
-    stats_block = n_tbody.findAll("div", {"class":"block-quarter"})
+    n_tbody = new_soup.find_all("div", {"class": "center"})[5]
+    stats_block = n_tbody.findAll("div", {"class": "block-quarter"})
     return extract_deep(stats_block)
 
-def extract_deep(tr):
-    return {"Att": extract_att(tr[0]) 
-        , "Skill" : extract_skill(tr[1]) 
-        , "Move" : extract_move(tr[2])
-        , "Power" : extract_pow(tr[3])
-        , "Mentality" : extract_mentality(tr[4])
-        , "Defending" : extract_def(tr[5])
-        , "Goalkeep" : extract_goalkeep(tr[6])}
+
+def extract_deep(stats):
+    return {"Att": extract_att(stats[0].find("ul")),
+            "Skill": extract_skill(stats[1].find("ul")),
+            "Move": extract_move(stats[2].find("ul")),
+            "Power": extract_pow(stats[3].find("ul")),
+            "Mentality": extract_mentality(stats[4].find("ul")),
+            "Defending": extract_def(stats[5].find("ul")),
+            "Goalkeep": extract_goalkeep(stats[6].find("ul"))}
 
 
 # helpers for extract_deep(tr)
-def extract_att(tr):
-    return {"Crossing" : tr.findAll("li")[0].find("span").text.strip(),
-           "Finishing" : tr.findAll("li")[1].find("span").text.strip(),
-           "Heading Accuracy":  tr.findAll("li")[2].find("span").text.strip(),
-           "Short passing":tr.findAll("li")[3].find("span").text.strip(),
-           "Volleys": tr.findAll("li")[4].find("span").text.strip()
+def extract_att(att):
+    return {"Crossing": att.select("li")[0].find("span").text.strip(),
+            "Finishing": att.select("li")[1].find("span").text.strip(),
+            "Heading Accuracy":  att.select("li")[2].find("span").text.strip(),
+            "Short passing": att.select("li")[3].find("span").text.strip(),
+            "Volleys": att.select("li")[4].find("span").text.strip()
             }
 
-def extract_skill(tr):
-    return {"Dribbling" : tr.findAll("li")[0].find("span").text.strip(),
-           "Curve" : tr.findAll("li")[1].find("span").text.strip(),
-           "Fk Accuracy": tr.findAll("li")[2].find("span").text.strip(),
-           "Long Passing": tr.findAll("li")[3].find("span").text.strip(),
-           "Ball Control": tr.findAll("li")[4].find("span").text.strip()
+
+def extract_skill(ski):
+    return {"Dribbling": ski.select("li")[0].find("span").text.strip(),
+            "Curve": ski.select("li")[1].find("span").text.strip(),
+            "Fk Accuracy": ski.select("li")[2].find("span").text.strip(),
+            "Long Passing": ski.select("li")[3].find("span").text.strip(),
+            "Ball Control": ski.select("li")[4].find("span").text.strip()
             }
 
-def extract_move(tr):
-    return {"Acceleration" : tr.findAll("li")[0].find("span").text.strip(),
-           "Sprint Speed" : tr.findAll("li")[1].find("span").text.strip(),
-           "Agility": tr.findAll("li")[2].find("span").text.strip(),
-           "Reactions": tr.findAll("li")[3].find("span").text.strip(),
-           "Balance": tr.findAll("li")[4].find("span").text.strip()
+
+def extract_move(mov):
+    return {"Acceleration": mov.select("li")[0].find("span").text.strip(),
+            "Sprint Speed": mov.select("li")[1].find("span").text.strip(),
+            "Agility": mov.select("li")[2].find("span").text.strip(),
+            "Reactions": mov.select("li")[3].find("span").text.strip(),
+            "Balance": mov.select("li")[4].find("span").text.strip()
             }
 
-def extract_pow(tr):
-    return {"Shot Power" : tr.findAll("li")[0].find("span").text.strip(),
-           "Jumping" : tr.findAll("li")[1].find("span").text.strip(),
-           "Stamina": tr.findAll("li")[2].find("span").text.strip(),
-           "Strength": tr.findAll("li")[3].find("span").text.strip(),
-           "Long Shots": tr.findAll("li")[4].find("span").text.strip()
+
+def extract_pow(pow):
+    return {"Shot Power": pow.select("li")[0].find("span").text.strip(),
+            "Jumping": pow.select("li")[1].find("span").text.strip(),
+            "Stamina": pow.select("li")[2].find("span").text.strip(),
+            "Strength": pow.select("li")[3].find("span").text.strip(),
+            "Long Shots": pow.select("li")[4].find("span").text.strip()
             }
 
-def extract_mentality(tr):
-    return {"Aggression" : tr.findAll("li")[0].find("span").text.strip(),
-           "Interceptions" : tr.findAll("li")[1].find("span").text.strip(),
-           "Positioning": tr.findAll("li")[2].find("span").text.strip(),
-           "Vision": tr.findAll("li")[3].find("span").text.strip(),
-           "Penalties": tr.findAll("li")[4].find("span").text.strip(),
-           "Composure": tr.findAll("li")[5].find("span").text.strip()
+
+def extract_mentality(men):
+    return {"Aggression": men.select("li")[0].find("span").text.strip(),
+            "Interceptions": men.select("li")[1].find("span").text.strip(),
+            "Positioning": men.select("li")[2].find("span").text.strip(),
+            "Vision": men.select("li")[3].find("span").text.strip(),
+            "Penalties": men.select("li")[4].find("span").text.strip(),
+            "Composure": men.select("li")[5].find("span").text.strip()
             }
 
-def extract_def(tr):
-    return {"Defensive Awareness" : tr.findAll("li")[0].find("span").text.strip(),
-           "Standing Tackle" : tr.findAll("li")[1].find("span").text.strip(),
-           "Sliding Tackle": tr.findAll("li")[2].find("span").text.strip()
+
+def extract_def(defe):
+    return {"Marking": defe.select("li")[0].find("span").text.strip(),
+            "Standing Tackle": defe.select("li")[1].find("span").text.strip(),
+            "Sliding Tackle": defe.select("li")[2].find("span").text.strip()
             }
 
-def extract_goalkeep(tr):
-    return {"Diving" : tr.findAll("li")[0].find("span").text.strip(),
-           "Handling" : tr.findAll("li")[1].find("span").text.strip(),
-           "Kicking": tr.findAll("li")[2].find("span").text.strip(),
-           "Positioning": tr.findAll("li")[3].find("span").text.strip(),
-           "Reflexes": tr.findAll("li")[4].find("span").text.strip()
-            }
-    
 
-    
-    
+def extract_goalkeep(gk):
+    return {"Diving": gk.select("li")[0].find("span").text.strip(),
+            "Handling": gk.select("li")[1].find("span").text.strip(),
+            "Kicking": gk.select("li")[2].find("span").text.strip(),
+            "Positioning": gk.select("li")[3].find("span").text.strip(),
+            "Reflexes": gk.select("li")[4].find("span").text.strip()
+            }
     
