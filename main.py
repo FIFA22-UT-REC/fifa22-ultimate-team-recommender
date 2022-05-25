@@ -10,14 +10,18 @@ import logging.config
 def main():
     logging.config.fileConfig("logging.conf")
     logger = logging.getLogger("sLogger")
+    
+    # params = { "a" : "1",
+    #             "b" : "2",
+    #           "c" : "3"}
 
-    # query = "&".join([f"showCol%5B{y}%5D={x}" for x, y in params.items()])
-    # url = f"https://sofifa.com/players?{query}&offset="
+    #query = "&".join([f"showCol%5B{y}%5D={x}" for x, y in params.items()])
+    #url = f"https://sofifa.com/players?{query}&offset="
     url = "https://sofifa.com/players?offset="
-    urls = [url + str(offset) for offset in range(0, 18060, 60)] # 18060 in the middle
+    urls = [url + str(offset) for offset in range(0, 20040, 60)] # 18060 in the middle
 
     # Parameters
-    number_of_scraper = 31
+    number_of_scraper = 34
     pages = 10
 
     scrapers = [Scraper(urls[pages * i:min(pages * (i + 1), len(urls))]) for i in range(number_of_scraper)]

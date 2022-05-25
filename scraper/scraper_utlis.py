@@ -25,19 +25,19 @@ def extract_info(tr):
 def extract_stats(link):
     new_res = requests.get(link)
     new_soup = BeautifulSoup(new_res.content, "html.parser")
-    n_tbody = new_soup.find_all("div", {"class": "center"})[5]
-    stats_block = n_tbody.findAll("div", {"class": "block-quarter"})
+    new_tbody = new_soup.find_all("div", {"class": "center"})[5]
+    stats_block = new_tbody.findAll("div", {"class": "block-quarter"})
     return extract_deep(stats_block)
 
 
-def extract_deep(stats):
-    return {"Att": extract_att(stats[0].find("ul")),
-            "Skill": extract_skill(stats[1].find("ul")),
-            "Move": extract_move(stats[2].find("ul")),
-            "Power": extract_pow(stats[3].find("ul")),
-            "Mentality": extract_mentality(stats[4].find("ul")),
-            "Defending": extract_def(stats[5].find("ul")),
-            "Goalkeep": extract_goalkeep(stats[6].find("ul"))}
+def extract_deep(stats_block):
+    return {"Att": extract_att(stats_block[0].find("ul")),
+            "Skill": extract_skill(stats_block[1].find("ul")),
+            "Move": extract_move(stats_block[2].find("ul")),
+            "Power": extract_pow(stats_block[3].find("ul")),
+            "Mentality": extract_mentality(stats_block[4].find("ul")),
+            "Defending": extract_def(stats_block[5].find("ul")),
+            "Goalkeep": extract_goalkeep(stats_block[6].find("ul"))}
 
 
 # helpers for extract_deep(tr)
@@ -45,8 +45,8 @@ def extract_att(att):
     return {"Crossing": att.select("li")[0].find("span").text.strip(),
             "Finishing": att.select("li")[1].find("span").text.strip(),
             "Heading Accuracy":  att.select("li")[2].find("span").text.strip(),
-            "Short passing": att.select("li")[3].find("span").text.strip(),
-            "Volleys": att.select("li")[4].find("span").text.strip()
+            "Short passing": att.select("li")[3].find("span").text.strip()
+            #"Volleys": att.select("li")[4].find("span").text.strip()
             }
 
 
@@ -82,8 +82,8 @@ def extract_mentality(men):
             "Interceptions": men.select("li")[1].find("span").text.strip(),
             "Positioning": men.select("li")[2].find("span").text.strip(),
             "Vision": men.select("li")[3].find("span").text.strip(),
-            "Penalties": men.select("li")[4].find("span").text.strip(),
-            "Composure": men.select("li")[5].find("span").text.strip()
+            "Penalties": men.select("li")[4].find("span").text.strip()
+            #"Composure": men.select("li")[5].find("span").text.strip()
             }
 
 
