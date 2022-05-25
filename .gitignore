@@ -107,3 +107,6 @@ database.ini
 
 # data processed
 data/processed
+
+# pycache
+__pycache__

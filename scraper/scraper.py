@@ -4,7 +4,7 @@ import random
 import time
 import logging
 
-from scraper.scraper_utlis import extract_info
+from scraper.extract_info import extract_info
 
 
 class Scraper(object):

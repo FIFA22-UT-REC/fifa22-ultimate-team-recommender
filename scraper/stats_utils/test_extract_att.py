@@ -3,6 +3,7 @@ import requests
 from bs4 import BeautifulSoup
 from extract_att import extract_att
 
+
 class Test(TestCase):
     def test_extract_att(self):
         link = "https://sofifa.com/player/229582/gianluca-mancini/220053/"

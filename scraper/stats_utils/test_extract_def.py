@@ -16,6 +16,7 @@ class Test(TestCase):
         expected = {"Defensive Awareness": "78",
                     "Standing Tackle": "81",
                     "Sliding Tackle": "77"
-            }
+                    }
+
         self.assertEqual(actual, expected)
 

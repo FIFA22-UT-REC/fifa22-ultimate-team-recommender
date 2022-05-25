@@ -18,5 +18,5 @@ class Test(TestCase):
                     "Stamina": "86",
                     "Strength": "83",
                     "Long Shots": "34"
-            }
+                    }
         self.assertEqual(actual, expected)
