@@ -32,7 +32,15 @@ class Scraper(object):
 
     # helper method to get players
     def get_players(self,trs):
-        return [extract_info(tr) for tr in trs]
+        out = []
+        for tr in trs:
+            try:
+                out.append(extract_info(tr))
+            except Exception as e:
+                print(f"error parsing tr {tr}")
+                self.logger.error(f"error parsing tr {tr}")
+                raise e
+        return out
 
     # method to extract and copy player info from web
     def scrap(self, urls):

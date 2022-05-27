@@ -1,6 +1,5 @@
 import threading
 
-
 class MultiThreading(object):
 
     def __init__(self, scrapers):

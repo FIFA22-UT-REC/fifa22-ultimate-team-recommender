@@ -1,9 +1,11 @@
 # Helper method to extract skill attributes of the player
 
 def extract_skill(ski):
-    return {"Dribbling": ski.select("li")[0].find("span").text.strip(),
-            "Curve": ski.select("li")[1].find("span").text.strip(),
-            "Fk Accuracy": ski.select("li")[2].find("span").text.strip(),
-            "Long Passing": ski.select("li")[3].find("span").text.strip(),
-            "Ball Control": ski.select("li")[4].find("span").text.strip()
+    getSki = ski.select("li")
+    assert len(getSki) == 5, f"List out of range {getSki}"
+    return {"Dribbling": getSki[0].find("span").text.strip(),
+            "Curve": getSki[1].find("span").text.strip(),
+            "Fk Accuracy": getSki[2].find("span").text.strip(),
+            "Long Passing": getSki[3].find("span").text.strip(),
+            "Ball Control": getSki[4].find("span").text.strip()
             }

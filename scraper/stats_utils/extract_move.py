@@ -1,9 +1,12 @@
 # Helper method to extract movement attributes of the player
 
 def extract_move(mov):
-    return {"Acceleration": mov.select("li")[0].find("span").text.strip(),
-            "Sprint Speed": mov.select("li")[1].find("span").text.strip(),
-            "Agility": mov.select("li")[2].find("span").text.strip(),
-            "Reactions": mov.select("li")[3].find("span").text.strip(),
-            "Balance": mov.select("li")[4].find("span").text.strip()
+
+    getMov = mov.select("li")
+    assert len(getMov) == 5, f"List out of range {getMov}"
+    return {"Acceleration": getMov[0].find("span").text.strip(),
+            "Sprint Speed": getMov[1].find("span").text.strip(),
+            "Agility": getMov[2].find("span").text.strip(),
+            "Reactions": getMov[3].find("span").text.strip(),
+            "Balance": getMov[4].find("span").text.strip()
             }

@@ -15,16 +15,35 @@ def main():
     #             "b" : "2",
     #           "c" : "3"}
 
-    #query = "&".join([f"showCol%5B{y}%5D={x}" for x, y in params.items()])
-    #url = f"https://sofifa.com/players?{query}&offset="
+    # query = "&".join([f"showCol%5B{y}%5D={x}" for x, y in params.items()])
+    # url = f"https://sofifa.com/players?{query}&offset="
+    # url = "https://sofifa.com/players?r=2200&set=true&offset="
     url = "https://sofifa.com/players?offset="
-    urls = [url + str(offset) for offset in range(0, 20040, 60)] # 18060 in the middle
+    #urls = [url + str(offset) for offset in range(0, 20040, 60)] # 18060 in the middle
+    urls = []
+    for offset in range(0,20040,60):
+        try:
+            urls.append(url + str(offset))
+        except Exception as e:
+            print(f"incorrect url passed to array {url}")
+            raise e
+
 
     # Parameters
-    number_of_scraper = 34
+    number_of_scraper = 31
     pages = 10
 
+
     scrapers = [Scraper(urls[pages * i:min(pages * (i + 1), len(urls))]) for i in range(number_of_scraper)]
+    #scrapers = []
+    # for i in range(number_of_scraper):
+    #     try:
+    #         scrapers = Scraper(urls[pages * i:min(pages * (i + 1), len(urls))])
+    #
+    #     except Exception as e:
+    #         print(f"Wrong scraper array, {scrapers}")
+    #         raise e
+
 
     # logging the track of scraping
     logger.info("Scraping surface started...")  # considering adding timer to record
