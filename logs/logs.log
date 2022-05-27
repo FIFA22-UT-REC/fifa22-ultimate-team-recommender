@@ -5099,3 +5099,804 @@ Free</div>
 [2022-05-27 10:28:42,253] INFO Page5 scraped
 [2022-05-27 10:29:15,426] INFO Page6 scraped
 [2022-05-27 10:29:48,151] INFO Page7 scraped
+[2022-05-27 13:39:09,056] INFO Scraping surface started...
+[2022-05-27 13:39:47,620] INFO Page1 scraped
+[2022-05-27 13:39:48,195] INFO Page2 scraped
+[2022-05-27 13:39:48,377] INFO Page3 scraped
+[2022-05-27 13:39:48,643] INFO Page4 scraped
+[2022-05-27 13:39:49,243] INFO Page5 scraped
+[2022-05-27 13:39:49,368] INFO Page6 scraped
+[2022-05-27 13:40:20,697] INFO Page7 scraped
+[2022-05-27 13:40:22,538] INFO Page8 scraped
+[2022-05-27 13:40:24,213] INFO Page9 scraped
+[2022-05-27 13:40:24,945] INFO Page10 scraped
+[2022-05-27 13:40:48,800] INFO Page11 scraped
+[2022-05-27 13:40:51,971] INFO Page12 scraped
+[2022-05-27 13:40:52,158] INFO Page13 scraped
+[2022-05-27 13:41:16,492] INFO Page14 scraped
+[2022-05-27 13:41:21,445] INFO Page15 scraped
+[2022-05-27 13:41:22,463] INFO Page16 scraped
+[2022-05-27 13:41:46,802] INFO Page17 scraped
+[2022-05-27 13:41:48,161] INFO Page18 scraped
+[2022-05-27 13:42:12,055] INFO Page19 scraped
+[2022-05-27 13:42:13,485] INFO Page20 scraped
+[2022-05-27 13:42:39,679] INFO Page21 scraped
+[2022-05-27 13:42:40,274] INFO Page22 scraped
+[2022-05-27 13:43:09,989] INFO Page23 scraped
+[2022-05-27 13:43:11,546] INFO Page24 scraped
+[2022-05-27 13:43:38,672] INFO Page25 scraped
+[2022-05-27 13:43:42,143] INFO Page26 scraped
+[2022-05-27 13:44:08,198] INFO Page27 scraped
+[2022-05-27 13:44:08,198] INFO Scraping surface finished.
+[2022-05-27 13:44:08,198] INFO Generating surface CSV file...
+[2022-05-27 13:44:08,260] INFO CSV file is generated.
+[2022-05-27 14:14:35,846] INFO Scraping surface started...
+[2022-05-27 14:15:19,960] INFO Page1 scraped
+[2022-05-27 14:15:20,774] INFO Page2 scraped
+[2022-05-27 14:15:21,150] INFO Page3 scraped
+[2022-05-27 14:15:21,886] INFO Page4 scraped
+[2022-05-27 14:15:23,512] INFO Page5 scraped
+[2022-05-27 14:15:23,543] INFO Page6 scraped
+[2022-05-27 14:15:24,231] INFO Page7 scraped
+[2022-05-27 14:15:53,398] INFO Page8 scraped
+[2022-05-27 14:15:54,885] INFO Page9 scraped
+[2022-05-27 14:15:56,230] INFO Page10 scraped
+[2022-05-27 14:15:58,184] INFO Page11 scraped
+[2022-05-27 14:16:24,764] INFO Scraping surface started...
+[2022-05-27 14:17:05,120] INFO Page1 scraped
+[2022-05-27 14:17:06,120] INFO Page2 scraped
+[2022-05-27 14:17:08,418] INFO Page3 scraped
+[2022-05-27 14:17:08,574] INFO Page4 scraped
+[2022-05-27 14:17:09,762] INFO Page5 scraped
+[2022-05-27 14:17:26,550] INFO Scraping surface started...
+[2022-05-27 14:18:09,850] INFO Page1 scraped
+[2022-05-27 14:18:11,195] INFO Page2 scraped
+[2022-05-27 14:18:12,634] INFO Page3 scraped
+[2022-05-27 14:18:13,791] INFO Page4 scraped
+[2022-05-27 14:18:15,151] INFO Page5 scraped
+[2022-05-27 14:18:16,543] INFO Scraping surface started...
+[2022-05-27 14:18:17,888] INFO Page6 scraped
+[2022-05-27 14:18:43,198] INFO Page7 scraped
+[2022-05-27 14:18:48,418] INFO Page8 scraped
+[2022-05-27 14:18:51,075] INFO Page9 scraped
+[2022-05-27 14:18:52,388] INFO Page10 scraped
+[2022-05-27 14:18:57,373] INFO Page1 scraped
+[2022-05-27 14:18:59,545] INFO Page2 scraped
+[2022-05-27 14:19:00,217] INFO Page3 scraped
+[2022-05-27 14:19:00,327] INFO Page4 scraped
+[2022-05-27 14:19:00,390] INFO Page5 scraped
+[2022-05-27 14:19:01,734] INFO Page6 scraped
+[2022-05-27 14:19:03,499] INFO Page7 scraped
+[2022-05-27 14:19:17,645] INFO Page11 scraped
+[2022-05-27 14:19:20,974] INFO Page12 scraped
+[2022-05-27 14:19:28,727] INFO Page13 scraped
+[2022-05-27 14:19:29,184] INFO Page14 scraped
+[2022-05-27 14:19:33,966] INFO Page8 scraped
+[2022-05-27 14:19:35,810] INFO Page9 scraped
+[2022-05-27 14:19:37,341] INFO Page10 scraped
+[2022-05-27 14:19:38,013] INFO Page11 scraped
+[2022-05-27 14:19:48,255] INFO Page15 scraped
+[2022-05-27 14:19:57,463] INFO Page16 scraped
+[2022-05-27 14:19:59,355] INFO Page17 scraped
+[2022-05-27 14:20:02,842] INFO Page12 scraped
+[2022-05-27 14:20:05,657] INFO Page13 scraped
+[2022-05-27 14:20:08,595] INFO Page14 scraped
+[2022-05-27 14:20:13,566] INFO Page15 scraped
+[2022-05-27 14:20:20,528] INFO Page18 scraped
+[2022-05-27 14:20:32,776] INFO Page19 scraped
+[2022-05-27 14:20:35,121] INFO Page16 scraped
+[2022-05-27 14:20:35,527] INFO Page20 scraped
+[2022-05-27 14:20:41,830] INFO Page17 scraped
+[2022-05-27 14:20:44,675] INFO Page18 scraped
+[2022-05-27 14:20:49,288] INFO Page19 scraped
+[2022-05-27 14:21:09,426] INFO Page21 scraped
+[2022-05-27 14:21:09,614] INFO Page20 scraped
+[2022-05-27 14:21:10,427] INFO Page22 scraped
+[2022-05-27 14:21:23,198] INFO Page21 scraped
+[2022-05-27 14:21:24,855] INFO Page22 scraped
+[2022-05-27 14:21:41,499] INFO Page23 scraped
+[2022-05-27 14:21:41,983] INFO Page24 scraped
+[2022-05-27 14:21:47,781] INFO Scraping surface started...
+[2022-05-27 14:21:47,828] INFO Scraping surface finished.
+[2022-05-27 14:21:47,828] INFO Generating surface CSV file...
+[2022-05-27 14:21:47,828] INFO CSV file is generated.
+[2022-05-27 14:21:54,001] INFO Page23 scraped
+[2022-05-27 14:21:54,704] INFO Page24 scraped
+[2022-05-27 14:22:09,567] INFO Scraping surface started...
+[2022-05-27 14:22:12,115] INFO Page25 scraped
+[2022-05-27 14:22:28,281] INFO Page25 scraped
+[2022-05-27 14:22:28,313] INFO Page26 scraped
+[2022-05-27 14:22:42,797] INFO Page26 scraped
+[2022-05-27 14:22:52,713] INFO Page1 scraped
+[2022-05-27 14:22:53,296] INFO Page2 scraped
+[2022-05-27 14:22:55,805] INFO Page3 scraped
+[2022-05-27 14:22:56,517] INFO Page4 scraped
+[2022-05-27 14:22:56,612] INFO Page5 scraped
+[2022-05-27 14:22:56,988] INFO Page6 scraped
+[2022-05-27 14:22:57,754] INFO Page7 scraped
+[2022-05-27 14:22:58,651] INFO Page27 scraped
+[2022-05-27 14:23:00,068] INFO Page8 scraped
+[2022-05-27 14:23:12,370] INFO Page27 scraped
+[2022-05-27 14:23:12,370] INFO Scraping surface finished.
+[2022-05-27 14:23:12,370] INFO Generating surface CSV file...
+[2022-05-27 14:23:12,480] INFO CSV file is generated.
+[2022-05-27 14:23:26,258] INFO Page9 scraped
+[2022-05-27 14:23:28,966] INFO Page10 scraped
+[2022-05-27 14:23:29,042] INFO Page28 scraped
+[2022-05-27 14:23:31,693] INFO Page11 scraped
+[2022-05-27 14:23:33,051] INFO Page12 scraped
+[2022-05-27 14:23:36,154] INFO Page13 scraped
+[2022-05-27 14:23:59,591] INFO Page14 scraped
+[2022-05-27 14:24:01,379] INFO Page15 scraped
+[2022-05-27 14:24:02,666] INFO Page29 scraped
+[2022-05-27 14:24:06,984] INFO Page16 scraped
+[2022-05-27 14:24:08,887] INFO Page17 scraped
+[2022-05-27 14:24:31,527] INFO Page18 scraped
+[2022-05-27 14:24:32,590] INFO Page19 scraped
+[2022-05-27 14:24:40,114] INFO Page20 scraped
+[2022-05-27 14:24:41,339] INFO Page21 scraped
+[2022-05-27 14:24:56,950] INFO Page22 scraped
+[2022-05-27 14:25:06,821] INFO Page23 scraped
+[2022-05-27 14:25:11,440] INFO Page24 scraped
+[2022-05-27 14:25:44,335] INFO Page25 scraped
+[2022-05-27 14:25:49,876] INFO Page26 scraped
+[2022-05-27 14:26:25,802] INFO Page27 scraped
+[2022-05-27 14:26:29,553] INFO Page28 scraped
+[2022-05-27 14:27:03,982] INFO Page29 scraped
+[2022-05-27 14:27:39,060] INFO Page30 scraped
+[2022-05-27 14:28:13,256] INFO Page31 scraped
+[2022-05-27 14:28:13,256] INFO Scraping surface finished.
+[2022-05-27 14:28:13,256] INFO Generating surface CSV file...
+[2022-05-27 14:28:13,475] INFO CSV file is generated.
+[2022-05-27 14:28:34,544] INFO Scraping surface started...
+[2022-05-27 14:30:04,814] INFO Scraping surface started...
+[2022-05-27 14:30:20,334] INFO Scraping surface started...
+[2022-05-27 14:30:38,584] INFO Scraping surface started...
+[2022-05-27 14:31:52,080] INFO Scraping surface started...
+[2022-05-27 14:32:07,552] INFO Scraping surface started...
+[2022-05-27 14:37:31,646] INFO Scraping surface started...
+[2022-05-27 14:39:03,434] INFO Page1 scraped
+[2022-05-27 14:39:06,153] INFO Page2 scraped
+[2022-05-27 14:39:06,372] INFO Page3 scraped
+[2022-05-27 14:39:09,967] INFO Page4 scraped
+[2022-05-27 14:39:10,435] INFO Page5 scraped
+[2022-05-27 14:39:10,498] INFO Page6 scraped
+[2022-05-27 14:39:10,889] INFO Page7 scraped
+[2022-05-27 14:39:10,967] INFO Page8 scraped
+[2022-05-27 14:40:12,173] INFO Scraping surface started...
+[2022-05-27 14:42:05,229] INFO Page1 scraped
+[2022-05-27 14:42:08,898] INFO Page2 scraped
+[2022-05-27 14:42:19,383] INFO Page3 scraped
+[2022-05-27 14:42:22,405] INFO Page4 scraped
+[2022-05-27 14:42:50,662] INFO Page5 scraped
+[2022-05-27 14:43:06,273] INFO Page6 scraped
+[2022-05-27 14:43:34,101] INFO Page7 scraped
+[2022-05-27 14:43:49,439] INFO Page8 scraped
+[2022-05-27 14:44:14,438] INFO Page9 scraped
+[2022-05-27 14:44:31,812] INFO Page10 scraped
+[2022-05-27 14:45:09,200] INFO Page11 scraped
+[2022-05-27 14:45:45,698] INFO Page12 scraped
+[2022-05-27 14:46:20,797] INFO Page13 scraped
+[2022-05-27 14:46:54,631] INFO Page14 scraped
+[2022-05-27 14:47:31,003] INFO Page15 scraped
+[2022-05-27 14:48:08,901] INFO Page16 scraped
+[2022-05-27 14:48:08,902] INFO Scraping surface finished.
+[2022-05-27 14:48:08,902] INFO Generating surface CSV file...
+[2022-05-27 14:48:08,976] INFO CSV file is generated.
+[2022-05-27 15:02:42,242] INFO Scraping surface started...
+[2022-05-27 15:02:47,340] INFO Scraping surface finished.
+[2022-05-27 15:02:47,340] INFO Generating surface CSV file...
+[2022-05-27 15:02:47,351] INFO CSV file is generated.
+[2022-05-27 15:05:08,294] INFO Scraping surface started...
+[2022-05-27 15:05:16,043] INFO Scraping surface finished.
+[2022-05-27 15:05:16,043] INFO Generating surface CSV file...
+[2022-05-27 15:05:16,055] INFO CSV file is generated.
+[2022-05-27 15:06:35,750] INFO Scraping surface started...
+[2022-05-27 15:06:41,829] INFO Scraping surface finished.
+[2022-05-27 15:06:41,829] INFO Generating surface CSV file...
+[2022-05-27 15:06:41,834] INFO CSV file is generated.
+[2022-05-27 15:07:17,801] INFO Scraping surface started...
+[2022-05-27 15:07:22,205] INFO Scraping surface finished.
+[2022-05-27 15:07:22,205] INFO Generating surface CSV file...
+[2022-05-27 15:07:22,214] INFO CSV file is generated.
+[2022-05-27 15:09:29,703] INFO Scraping surface started...
+[2022-05-27 15:09:32,493] INFO Page1 scraped
+[2022-05-27 15:09:32,950] INFO Page2 scraped
+[2022-05-27 15:09:33,707] INFO Page3 scraped
+[2022-05-27 15:09:34,248] INFO Page4 scraped
+[2022-05-27 15:09:35,341] INFO Page5 scraped
+[2022-05-27 15:09:36,446] INFO Page6 scraped
+[2022-05-27 15:09:37,017] INFO Page7 scraped
+[2022-05-27 15:09:38,481] INFO Page8 scraped
+[2022-05-27 15:09:39,092] INFO Page9 scraped
+[2022-05-27 15:09:39,641] INFO Page10 scraped
+[2022-05-27 15:09:40,185] INFO Page11 scraped
+[2022-05-27 15:09:40,531] INFO Page12 scraped
+[2022-05-27 15:09:40,896] INFO Page13 scraped
+[2022-05-27 15:09:41,121] INFO Page14 scraped
+[2022-05-27 15:09:41,702] INFO Page15 scraped
+[2022-05-27 15:09:42,064] INFO Page16 scraped
+[2022-05-27 15:09:42,778] INFO Page17 scraped
+[2022-05-27 15:09:42,992] INFO Page18 scraped
+[2022-05-27 15:09:44,548] INFO Page19 scraped
+[2022-05-27 15:09:44,553] INFO Page20 scraped
+[2022-05-27 15:09:45,291] INFO Page21 scraped
+[2022-05-27 15:09:45,901] INFO Page22 scraped
+[2022-05-27 15:09:46,230] INFO Scraping surface finished.
+[2022-05-27 15:09:46,230] INFO Generating surface CSV file...
+[2022-05-27 15:09:46,238] INFO CSV file is generated.
+[2022-05-27 15:11:57,879] INFO Scraping surface started...
+[2022-05-27 15:11:59,389] INFO Page1 scraped
+[2022-05-27 15:11:59,773] INFO Page2 scraped
+[2022-05-27 15:12:01,003] INFO Page3 scraped
+[2022-05-27 15:12:01,194] INFO Page4 scraped
+[2022-05-27 15:12:01,260] INFO Page5 scraped
+[2022-05-27 15:12:01,632] INFO Page6 scraped
+[2022-05-27 15:12:02,595] INFO Page7 scraped
+[2022-05-27 15:12:04,261] INFO Page8 scraped
+[2022-05-27 15:12:05,441] INFO Page9 scraped
+[2022-05-27 15:12:06,278] INFO Page10 scraped
+[2022-05-27 15:12:06,791] INFO Page11 scraped
+[2022-05-27 15:12:07,124] INFO Page12 scraped
+[2022-05-27 15:12:07,527] INFO Page13 scraped
+[2022-05-27 15:12:07,863] INFO Page14 scraped
+[2022-05-27 15:12:08,644] INFO Page15 scraped
+[2022-05-27 15:12:08,888] INFO Page16 scraped
+[2022-05-27 15:12:09,682] INFO Page17 scraped
+[2022-05-27 15:12:10,021] INFO Page18 scraped
+[2022-05-27 15:12:10,759] INFO Page19 scraped
+[2022-05-27 15:12:11,102] INFO Page20 scraped
+[2022-05-27 15:12:11,400] INFO Page21 scraped
+[2022-05-27 15:12:11,750] INFO Page22 scraped
+[2022-05-27 15:12:12,539] INFO Page23 scraped
+[2022-05-27 15:12:13,049] INFO Scraping surface finished.
+[2022-05-27 15:12:13,049] INFO Generating surface CSV file...
+[2022-05-27 15:12:13,056] INFO CSV file is generated.
+[2022-05-27 15:13:43,584] INFO Scraping surface started...
+[2022-05-27 15:13:44,306] INFO Page1 scraped
+[2022-05-27 15:13:45,840] INFO Page2 scraped
+[2022-05-27 15:13:46,092] INFO Page3 scraped
+[2022-05-27 15:13:46,190] INFO Page4 scraped
+[2022-05-27 15:13:47,185] INFO Page5 scraped
+[2022-05-27 15:13:47,336] INFO Page6 scraped
+[2022-05-27 15:13:49,716] INFO Page7 scraped
+[2022-05-27 15:13:51,627] INFO Page8 scraped
+[2022-05-27 15:13:52,820] INFO Page9 scraped
+[2022-05-27 15:13:53,286] INFO Page10 scraped
+[2022-05-27 15:13:53,589] INFO Page11 scraped
+[2022-05-27 15:13:54,095] INFO Page12 scraped
+[2022-05-27 15:13:54,323] INFO Page13 scraped
+[2022-05-27 15:13:54,758] INFO Page14 scraped
+[2022-05-27 15:13:55,142] INFO Page15 scraped
+[2022-05-27 15:13:55,459] INFO Page16 scraped
+[2022-05-27 15:13:55,991] INFO Page17 scraped
+[2022-05-27 15:13:56,443] INFO Page18 scraped
+[2022-05-27 15:13:56,770] INFO Page19 scraped
+[2022-05-27 15:13:57,017] INFO Page20 scraped
+[2022-05-27 15:13:57,318] INFO Page21 scraped
+[2022-05-27 15:13:57,604] INFO Page22 scraped
+[2022-05-27 15:13:58,245] INFO Page23 scraped
+[2022-05-27 15:14:00,483] INFO Scraping surface started...
+[2022-05-27 15:14:01,021] INFO Page1 scraped
+[2022-05-27 15:14:02,331] INFO Page2 scraped
+[2022-05-27 15:14:02,457] INFO Page3 scraped
+[2022-05-27 15:14:02,929] INFO Page4 scraped
+[2022-05-27 15:14:03,055] INFO Page5 scraped
+[2022-05-27 15:14:03,200] INFO Page6 scraped
+[2022-05-27 15:14:07,030] INFO Page7 scraped
+[2022-05-27 15:14:07,230] INFO Page8 scraped
+[2022-05-27 15:14:08,129] INFO Page9 scraped
+[2022-05-27 15:14:08,444] INFO Page10 scraped
+[2022-05-27 15:14:09,059] INFO Page11 scraped
+[2022-05-27 15:14:09,485] INFO Page12 scraped
+[2022-05-27 15:14:10,021] INFO Page13 scraped
+[2022-05-27 15:14:10,244] INFO Page14 scraped
+[2022-05-27 15:14:10,747] INFO Page15 scraped
+[2022-05-27 15:14:11,102] INFO Page16 scraped
+[2022-05-27 15:14:11,326] INFO Page17 scraped
+[2022-05-27 15:14:11,927] INFO Page18 scraped
+[2022-05-27 15:14:15,451] INFO Scraping surface started...
+[2022-05-27 15:14:18,053] INFO Page1 scraped
+[2022-05-27 15:14:19,319] INFO Page2 scraped
+[2022-05-27 15:14:19,508] INFO Page3 scraped
+[2022-05-27 15:14:19,741] INFO Page4 scraped
+[2022-05-27 15:14:20,069] INFO Page5 scraped
+[2022-05-27 15:14:20,341] INFO Page6 scraped
+[2022-05-27 15:14:20,672] INFO Page7 scraped
+[2022-05-27 15:14:21,874] INFO Page8 scraped
+[2022-05-27 15:14:24,107] INFO Page9 scraped
+[2022-05-27 15:14:24,606] INFO Page10 scraped
+[2022-05-27 15:14:25,363] INFO Page11 scraped
+[2022-05-27 15:14:25,632] INFO Page12 scraped
+[2022-05-27 15:14:26,328] INFO Page13 scraped
+[2022-05-27 15:14:26,716] INFO Page14 scraped
+[2022-05-27 15:14:27,018] INFO Page15 scraped
+[2022-05-27 15:14:27,377] INFO Page16 scraped
+[2022-05-27 15:14:30,418] INFO Scraping surface started...
+[2022-05-27 15:14:32,351] INFO Page1 scraped
+[2022-05-27 15:14:34,126] INFO Page2 scraped
+[2022-05-27 15:14:34,150] INFO Page3 scraped
+[2022-05-27 15:14:34,369] INFO Page4 scraped
+[2022-05-27 15:14:34,943] INFO Page5 scraped
+[2022-05-27 15:16:22,083] INFO Scraping surface started...
+[2022-05-27 15:16:26,725] INFO Scraping surface finished.
+[2022-05-27 15:16:26,725] INFO Generating surface CSV file...
+[2022-05-27 15:16:26,730] INFO CSV file is generated.
+[2022-05-27 15:16:35,314] INFO Scraping surface started...
+[2022-05-27 15:16:39,521] INFO Page1 scraped
+[2022-05-27 15:16:39,531] INFO Page2 scraped
+[2022-05-27 15:16:39,564] INFO Page3 scraped
+[2022-05-27 15:16:39,576] INFO Page4 scraped
+[2022-05-27 15:16:39,597] INFO Page5 scraped
+[2022-05-27 15:16:41,347] INFO Page6 scraped
+[2022-05-27 15:16:42,456] INFO Page7 scraped
+[2022-05-27 15:16:43,017] INFO Page8 scraped
+[2022-05-27 15:16:43,790] INFO Page9 scraped
+[2022-05-27 15:16:43,928] INFO Page10 scraped
+[2022-05-27 15:16:44,919] INFO Page11 scraped
+[2022-05-27 15:16:45,135] INFO Page12 scraped
+[2022-05-27 15:16:45,802] INFO Page13 scraped
+[2022-05-27 15:16:46,191] INFO Page14 scraped
+[2022-05-27 15:16:46,669] INFO Page15 scraped
+[2022-05-27 15:16:46,983] INFO Page16 scraped
+[2022-05-27 15:16:47,554] INFO Page17 scraped
+[2022-05-27 15:16:47,761] INFO Page18 scraped
+[2022-05-27 15:16:49,091] INFO Page19 scraped
+[2022-05-27 15:16:50,003] INFO Page20 scraped
+[2022-05-27 15:16:50,764] INFO Page21 scraped
+[2022-05-27 15:17:20,663] INFO Scraping surface started...
+[2022-05-27 15:17:35,535] INFO Scraping surface started...
+[2022-05-27 15:17:39,378] INFO Page1 scraped
+[2022-05-27 15:17:39,614] INFO Page2 scraped
+[2022-05-27 15:17:39,722] INFO Page3 scraped
+[2022-05-27 15:17:40,019] INFO Page4 scraped
+[2022-05-27 15:17:40,112] INFO Page5 scraped
+[2022-05-27 15:17:40,577] INFO Page6 scraped
+[2022-05-27 15:17:41,903] INFO Scraping surface started...
+[2022-05-27 15:17:42,911] INFO Page1 scraped
+[2022-05-27 15:17:44,058] INFO Page2 scraped
+[2022-05-27 15:17:45,857] INFO Scraping surface started...
+[2022-05-27 15:17:49,560] INFO Page1 scraped
+[2022-05-27 15:17:51,119] INFO Scraping surface started...
+[2022-05-27 15:17:53,898] INFO Page1 scraped
+[2022-05-27 15:17:54,015] INFO Page2 scraped
+[2022-05-27 15:17:54,262] INFO Page3 scraped
+[2022-05-27 15:17:54,601] INFO Page4 scraped
+[2022-05-27 15:17:54,992] INFO Page5 scraped
+[2022-05-27 15:17:57,619] INFO Page6 scraped
+[2022-05-27 15:17:58,381] INFO Page7 scraped
+[2022-05-27 15:17:59,025] INFO Page8 scraped
+[2022-05-27 15:17:59,461] INFO Page9 scraped
+[2022-05-27 15:18:00,074] INFO Page10 scraped
+[2022-05-27 15:18:00,385] INFO Page11 scraped
+[2022-05-27 15:18:00,829] INFO Page12 scraped
+[2022-05-27 15:18:01,071] INFO Page13 scraped
+[2022-05-27 15:18:01,782] INFO Page14 scraped
+[2022-05-27 15:18:02,076] INFO Page15 scraped
+[2022-05-27 15:18:02,511] INFO Page16 scraped
+[2022-05-27 15:18:02,826] INFO Page17 scraped
+[2022-05-27 15:18:03,665] INFO Page18 scraped
+[2022-05-27 15:18:04,734] INFO Page19 scraped
+[2022-05-27 15:18:05,623] INFO Page20 scraped
+[2022-05-27 15:18:06,462] INFO Page21 scraped
+[2022-05-27 15:18:18,097] INFO Scraping surface started...
+[2022-05-27 15:18:19,769] INFO Page1 scraped
+[2022-05-27 15:18:21,489] INFO Page2 scraped
+[2022-05-27 15:18:21,930] INFO Page3 scraped
+[2022-05-27 15:18:22,319] INFO Page4 scraped
+[2022-05-27 15:18:22,539] INFO Page5 scraped
+[2022-05-27 15:20:47,984] INFO Scraping surface started...
+[2022-05-27 15:21:21,131] INFO Page1 scraped
+[2022-05-27 15:21:23,640] INFO Page2 scraped
+[2022-05-27 15:21:24,000] INFO Page3 scraped
+[2022-05-27 15:21:24,172] INFO Page4 scraped
+[2022-05-27 15:21:24,426] INFO Page5 scraped
+[2022-05-27 15:21:24,853] INFO Page6 scraped
+[2022-05-27 15:21:25,177] INFO Page7 scraped
+[2022-05-27 15:21:25,447] INFO Page8 scraped
+[2022-05-27 15:21:26,081] INFO Page9 scraped
+[2022-05-27 15:21:28,324] INFO Page10 scraped
+[2022-05-27 15:22:01,316] INFO Page11 scraped
+[2022-05-27 15:22:02,201] INFO Page12 scraped
+[2022-05-27 15:22:03,033] INFO Page13 scraped
+[2022-05-27 15:22:03,364] INFO Page14 scraped
+[2022-05-27 15:22:03,745] INFO Page15 scraped
+[2022-05-27 15:22:05,286] INFO Page16 scraped
+[2022-05-27 15:22:05,476] INFO Page17 scraped
+[2022-05-27 15:22:05,602] INFO Page18 scraped
+[2022-05-27 15:22:06,212] INFO Page19 scraped
+[2022-05-27 15:22:10,115] INFO Page20 scraped
+[2022-05-27 15:22:41,094] INFO Page21 scraped
+[2022-05-27 15:22:41,879] INFO Page22 scraped
+[2022-05-27 15:22:42,848] INFO Page23 scraped
+[2022-05-27 15:22:42,918] INFO Page24 scraped
+[2022-05-27 15:22:42,924] INFO Page25 scraped
+[2022-05-27 15:22:43,868] INFO Page26 scraped
+[2022-05-27 15:22:44,879] INFO Page27 scraped
+[2022-05-27 15:22:46,234] INFO Page28 scraped
+[2022-05-27 15:22:47,134] INFO Page29 scraped
+[2022-05-27 15:22:52,316] INFO Page30 scraped
+[2022-05-27 15:23:10,948] INFO Page31 scraped
+[2022-05-27 15:23:18,345] INFO Page32 scraped
+[2022-05-27 15:23:18,381] INFO Page33 scraped
+[2022-05-27 15:23:19,308] INFO Page34 scraped
+[2022-05-27 15:23:19,811] INFO Page35 scraped
+[2022-05-27 15:23:20,698] INFO Page36 scraped
+[2022-05-27 15:23:21,782] INFO Page37 scraped
+[2022-05-27 15:23:23,599] INFO Page38 scraped
+[2022-05-27 15:23:23,817] INFO Page39 scraped
+[2022-05-27 15:23:30,157] INFO Page40 scraped
+[2022-05-27 15:23:45,396] INFO Page41 scraped
+[2022-05-27 15:23:47,237] INFO Page42 scraped
+[2022-05-27 15:23:47,844] INFO Page43 scraped
+[2022-05-27 15:23:53,472] INFO Page44 scraped
+[2022-05-27 15:23:57,376] INFO Page45 scraped
+[2022-05-27 15:23:57,455] INFO Page46 scraped
+[2022-05-27 15:23:59,975] INFO Page47 scraped
+[2022-05-27 15:24:00,080] INFO Page48 scraped
+[2022-05-27 15:24:00,691] INFO Page49 scraped
+[2022-05-27 15:24:10,106] INFO Page50 scraped
+[2022-05-27 15:24:22,211] INFO Page51 scraped
+[2022-05-27 15:24:23,096] INFO Page52 scraped
+[2022-05-27 15:24:23,841] INFO Page53 scraped
+[2022-05-27 15:24:31,940] INFO Page54 scraped
+[2022-05-27 15:24:33,881] INFO Page55 scraped
+[2022-05-27 15:24:34,365] INFO Page56 scraped
+[2022-05-27 15:24:36,742] INFO Page57 scraped
+[2022-05-27 15:24:37,745] INFO Page58 scraped
+[2022-05-27 15:24:38,271] INFO Page59 scraped
+[2022-05-27 15:24:48,717] INFO Page60 scraped
+[2022-05-27 15:24:58,149] INFO Page61 scraped
+[2022-05-27 15:24:58,576] INFO Page62 scraped
+[2022-05-27 15:25:00,504] INFO Page63 scraped
+[2022-05-27 15:25:09,088] INFO Page64 scraped
+[2022-05-27 15:25:14,087] INFO Page65 scraped
+[2022-05-27 15:25:15,098] INFO Page66 scraped
+[2022-05-27 15:25:16,094] INFO Page67 scraped
+[2022-05-27 15:25:16,456] INFO Page68 scraped
+[2022-05-27 15:25:17,925] INFO Page69 scraped
+[2022-05-27 15:25:29,531] INFO Page70 scraped
+[2022-05-27 15:25:34,220] INFO Page71 scraped
+[2022-05-27 15:25:36,225] INFO Page72 scraped
+[2022-05-27 15:25:38,635] INFO Page73 scraped
+[2022-05-27 15:25:46,396] INFO Page74 scraped
+[2022-05-27 15:25:50,393] INFO Page75 scraped
+[2022-05-27 15:25:53,615] INFO Page76 scraped
+[2022-05-27 15:25:54,029] INFO Page77 scraped
+[2022-05-27 15:25:54,410] INFO Page78 scraped
+[2022-05-27 15:25:54,834] INFO Page79 scraped
+[2022-05-27 15:26:04,129] INFO Page80 scraped
+[2022-05-27 15:26:07,614] INFO Page81 scraped
+[2022-05-27 15:26:10,733] INFO Page82 scraped
+[2022-05-27 15:26:12,834] INFO Page83 scraped
+[2022-05-27 15:26:24,889] INFO Page84 scraped
+[2022-05-27 15:26:25,960] INFO Page85 scraped
+[2022-05-27 15:26:26,852] INFO Page86 scraped
+[2022-05-27 15:26:28,149] INFO Page87 scraped
+[2022-05-27 15:26:29,987] INFO Page88 scraped
+[2022-05-27 15:26:32,386] INFO Page89 scraped
+[2022-05-27 15:26:39,906] INFO Page90 scraped
+[2022-05-27 15:26:44,911] INFO Page91 scraped
+[2022-05-27 15:26:46,436] INFO Page92 scraped
+[2022-05-27 15:26:46,899] INFO Page93 scraped
+[2022-05-27 15:26:56,650] INFO Page94 scraped
+[2022-05-27 15:26:58,698] INFO Page95 scraped
+[2022-05-27 15:26:59,723] INFO Page96 scraped
+[2022-05-27 15:27:02,111] INFO Page97 scraped
+[2022-05-27 15:27:03,727] INFO Page98 scraped
+[2022-05-27 15:27:04,477] INFO Page99 scraped
+[2022-05-27 15:27:12,893] INFO Page100 scraped
+[2022-05-27 15:27:12,894] INFO Scraping surface finished.
+[2022-05-27 15:27:12,894] INFO Generating surface CSV file...
+[2022-05-27 15:27:13,199] INFO CSV file is generated.
+[2022-05-27 15:37:23,207] INFO Scraping surface started...
+[2022-05-27 15:37:27,851] INFO Scraping surface finished.
+[2022-05-27 15:37:28,855] INFO Generating surface CSV file...
+[2022-05-27 15:37:28,860] INFO CSV file is generated
+[2022-05-27 15:38:07,614] INFO Scraping surface started...
+[2022-05-27 15:39:08,035] INFO Scraping surface started...
+[2022-05-27 15:39:43,498] INFO Scraping surface started...
+[2022-05-27 15:44:07,871] INFO Scraping surface started...
+[2022-05-27 15:44:25,807] INFO Page1 scraped
+[2022-05-27 15:44:39,583] INFO Page2 scraped
+[2022-05-27 15:44:42,383] INFO Page3 scraped
+[2022-05-27 15:45:08,123] INFO Page4 scraped
+[2022-05-27 15:45:08,614] INFO Page5 scraped
+[2022-05-27 15:45:11,242] INFO Page6 scraped
+[2022-05-27 15:45:15,981] INFO Page7 scraped
+[2022-05-27 15:45:21,385] INFO Page8 scraped
+[2022-05-27 15:45:23,876] INFO Page9 scraped
+[2022-05-27 15:45:26,749] INFO Page10 scraped
+[2022-05-27 15:45:27,551] INFO Page11 scraped
+[2022-05-27 15:45:29,210] INFO Page12 scraped
+[2022-05-27 15:45:29,653] INFO Page13 scraped
+[2022-05-27 15:45:31,257] INFO Page14 scraped
+[2022-05-27 15:45:32,740] INFO Page15 scraped
+[2022-05-27 15:45:32,778] INFO Page16 scraped
+[2022-05-27 15:45:33,414] INFO Page17 scraped
+[2022-05-27 15:45:37,100] INFO Page18 scraped
+[2022-05-27 15:45:37,929] INFO Page19 scraped
+[2022-05-27 15:45:38,889] INFO Page20 scraped
+[2022-05-27 15:45:40,853] INFO Page21 scraped
+[2022-05-27 15:45:41,788] INFO Page22 scraped
+[2022-05-27 15:45:41,843] INFO Page23 scraped
+[2022-05-27 15:45:41,919] INFO Page24 scraped
+[2022-05-27 15:45:42,920] INFO Page25 scraped
+[2022-05-27 15:45:42,937] INFO Page26 scraped
+[2022-05-27 15:45:43,144] INFO Page27 scraped
+[2022-05-27 15:45:43,284] INFO Page28 scraped
+[2022-05-27 15:45:43,723] INFO Page29 scraped
+[2022-05-27 15:45:43,797] INFO Page30 scraped
+[2022-05-27 15:45:44,086] INFO Page31 scraped
+[2022-05-27 15:45:44,306] INFO Page32 scraped
+[2022-05-27 15:45:44,771] INFO Page33 scraped
+[2022-05-27 15:45:51,959] INFO Page34 scraped
+[2022-05-27 15:46:00,637] INFO Page35 scraped
+[2022-05-27 15:46:12,418] INFO Page36 scraped
+[2022-05-27 15:46:21,902] INFO Page37 scraped
+[2022-05-27 15:46:27,670] INFO Page38 scraped
+[2022-05-27 15:46:35,115] INFO Page39 scraped
+[2022-05-27 15:46:38,521] INFO Page40 scraped
+[2022-05-27 15:46:42,897] INFO Page41 scraped
+[2022-05-27 15:46:43,347] INFO Page42 scraped
+[2022-05-27 15:46:50,322] INFO Page43 scraped
+[2022-05-27 15:46:52,301] INFO Page44 scraped
+[2022-05-27 15:46:56,463] INFO Page45 scraped
+[2022-05-27 15:46:58,242] INFO Page46 scraped
+[2022-05-27 15:47:01,179] INFO Page47 scraped
+[2022-05-27 15:47:04,173] INFO Page48 scraped
+[2022-05-27 15:47:05,795] INFO Page49 scraped
+[2022-05-27 15:47:07,367] INFO Page50 scraped
+[2022-05-27 15:47:09,746] INFO Page51 scraped
+[2022-05-27 15:47:11,178] INFO Page52 scraped
+[2022-05-27 15:47:12,994] INFO Page53 scraped
+[2022-05-27 15:47:13,687] INFO Page54 scraped
+[2022-05-27 15:47:14,532] INFO Page55 scraped
+[2022-05-27 15:47:14,731] INFO Page56 scraped
+[2022-05-27 15:47:15,116] INFO Page57 scraped
+[2022-05-27 15:47:15,673] INFO Page58 scraped
+[2022-05-27 15:47:17,676] INFO Page59 scraped
+[2022-05-27 15:47:18,454] INFO Page60 scraped
+[2022-05-27 15:47:18,565] INFO Page61 scraped
+[2022-05-27 15:47:19,347] INFO Page62 scraped
+[2022-05-27 15:47:20,416] INFO Page63 scraped
+[2022-05-27 15:47:20,655] INFO Page64 scraped
+[2022-05-27 15:47:20,662] INFO Page65 scraped
+[2022-05-27 15:47:27,487] INFO Page66 scraped
+[2022-05-27 15:47:30,604] INFO Page67 scraped
+[2022-05-27 15:47:47,890] INFO Page68 scraped
+[2022-05-27 15:47:48,975] INFO Page69 scraped
+[2022-05-27 15:47:49,493] INFO Page70 scraped
+[2022-05-27 15:47:54,760] INFO Page71 scraped
+[2022-05-27 15:47:56,489] INFO Page72 scraped
+[2022-05-27 15:47:59,763] INFO Page73 scraped
+[2022-05-27 15:48:03,903] INFO Page74 scraped
+[2022-05-27 15:48:04,559] INFO Page75 scraped
+[2022-05-27 15:48:06,221] INFO Page76 scraped
+[2022-05-27 15:48:17,986] INFO Page77 scraped
+[2022-05-27 15:48:20,034] INFO Page78 scraped
+[2022-05-27 15:48:26,916] INFO Page79 scraped
+[2022-05-27 15:48:26,974] INFO Page80 scraped
+[2022-05-27 15:48:36,133] INFO Page81 scraped
+[2022-05-27 15:48:36,934] INFO Page82 scraped
+[2022-05-27 15:48:38,344] INFO Page83 scraped
+[2022-05-27 15:48:41,209] INFO Page84 scraped
+[2022-05-27 15:48:41,294] INFO Page85 scraped
+[2022-05-27 15:48:42,519] INFO Page86 scraped
+[2022-05-27 15:48:44,665] INFO Page87 scraped
+[2022-05-27 15:48:47,372] INFO Page88 scraped
+[2022-05-27 15:48:48,724] INFO Page89 scraped
+[2022-05-27 15:48:49,304] INFO Page90 scraped
+[2022-05-27 15:48:49,633] INFO Page91 scraped
+[2022-05-27 15:48:51,099] INFO Page92 scraped
+[2022-05-27 15:48:52,101] INFO Page93 scraped
+[2022-05-27 15:48:52,316] INFO Page94 scraped
+[2022-05-27 15:48:52,538] INFO Page95 scraped
+[2022-05-27 15:48:56,838] INFO Page96 scraped
+[2022-05-27 15:48:57,552] INFO Page97 scraped
+[2022-05-27 15:48:58,339] INFO Page98 scraped
+[2022-05-27 15:48:58,850] INFO Page99 scraped
+[2022-05-27 15:48:59,851] INFO Page100 scraped
+[2022-05-27 15:49:00,052] INFO Page101 scraped
+[2022-05-27 15:49:00,421] INFO Page102 scraped
+[2022-05-27 15:49:03,111] INFO Page103 scraped
+[2022-05-27 15:49:09,811] INFO Page104 scraped
+[2022-05-27 15:49:22,369] INFO Page105 scraped
+[2022-05-27 15:49:24,748] INFO Page106 scraped
+[2022-05-27 15:49:29,404] INFO Page107 scraped
+[2022-05-27 15:49:36,181] INFO Page108 scraped
+[2022-05-27 15:49:40,668] INFO Page109 scraped
+[2022-05-27 15:49:42,092] INFO Page110 scraped
+[2022-05-27 15:49:43,021] INFO Page111 scraped
+[2022-05-27 15:50:01,747] INFO Page112 scraped
+[2022-05-27 15:50:04,841] INFO Page113 scraped
+[2022-05-27 15:50:06,499] INFO Page114 scraped
+[2022-05-27 15:50:08,539] INFO Page115 scraped
+[2022-05-27 15:50:09,861] INFO Page116 scraped
+[2022-05-27 15:50:11,559] INFO Page117 scraped
+[2022-05-27 15:50:13,665] INFO Page118 scraped
+[2022-05-27 15:50:16,788] INFO Page119 scraped
+[2022-05-27 15:50:18,272] INFO Page120 scraped
+[2022-05-27 15:50:23,154] INFO Page121 scraped
+[2022-05-27 15:50:23,749] INFO Page122 scraped
+[2022-05-27 15:50:24,316] INFO Page123 scraped
+[2022-05-27 15:50:25,298] INFO Page124 scraped
+[2022-05-27 15:50:29,231] INFO Page125 scraped
+[2022-05-27 15:50:29,435] INFO Page126 scraped
+[2022-05-27 15:50:32,476] INFO Page127 scraped
+[2022-05-27 15:50:32,793] INFO Page128 scraped
+[2022-05-27 15:50:33,168] INFO Page129 scraped
+[2022-05-27 15:50:35,198] INFO Page130 scraped
+[2022-05-27 15:50:35,329] INFO Page131 scraped
+[2022-05-27 15:50:35,749] INFO Page132 scraped
+[2022-05-27 15:50:36,118] INFO Page133 scraped
+[2022-05-27 15:50:36,332] INFO Page134 scraped
+[2022-05-27 15:50:38,406] INFO Page135 scraped
+[2022-05-27 15:50:39,635] INFO Page136 scraped
+[2022-05-27 15:50:41,500] INFO Page137 scraped
+[2022-05-27 15:50:42,882] INFO Page138 scraped
+[2022-05-27 15:50:43,836] INFO Page139 scraped
+[2022-05-27 15:50:57,115] INFO Page140 scraped
+[2022-05-27 15:50:57,845] INFO Page141 scraped
+[2022-05-27 15:51:07,219] INFO Page142 scraped
+[2022-05-27 15:51:17,430] INFO Page143 scraped
+[2022-05-27 15:51:18,103] INFO Page144 scraped
+[2022-05-27 15:51:28,997] INFO Page145 scraped
+[2022-05-27 15:51:31,372] INFO Page146 scraped
+[2022-05-27 15:51:32,904] INFO Page147 scraped
+[2022-05-27 15:51:34,044] INFO Page148 scraped
+[2022-05-27 15:51:34,577] INFO Page149 scraped
+[2022-05-27 15:51:39,437] INFO Page150 scraped
+[2022-05-27 15:51:41,583] INFO Page151 scraped
+[2022-05-27 15:51:41,741] INFO Page152 scraped
+[2022-05-27 15:51:43,066] INFO Page153 scraped
+[2022-05-27 15:51:48,725] INFO Page154 scraped
+[2022-05-27 15:51:51,659] INFO Page155 scraped
+[2022-05-27 15:51:56,304] INFO Page156 scraped
+[2022-05-27 15:51:56,990] INFO Page157 scraped
+[2022-05-27 15:52:00,975] INFO Page158 scraped
+[2022-05-27 15:52:01,137] INFO Page159 scraped
+[2022-05-27 15:52:01,176] INFO Page160 scraped
+[2022-05-27 15:52:04,803] INFO Page161 scraped
+[2022-05-27 15:52:05,050] INFO Page162 scraped
+[2022-05-27 15:52:06,051] INFO Page163 scraped
+[2022-05-27 15:52:07,505] INFO Page164 scraped
+[2022-05-27 15:52:07,874] INFO Page165 scraped
+[2022-05-27 15:52:08,776] INFO Page166 scraped
+[2022-05-27 15:52:09,846] INFO Page167 scraped
+[2022-05-27 15:52:10,861] INFO Page168 scraped
+[2022-05-27 15:52:11,907] INFO Page169 scraped
+[2022-05-27 15:52:12,560] INFO Page170 scraped
+[2022-05-27 15:52:14,098] INFO Page171 scraped
+[2022-05-27 15:52:23,683] INFO Page172 scraped
+[2022-05-27 15:52:33,016] INFO Page173 scraped
+[2022-05-27 15:52:35,659] INFO Page174 scraped
+[2022-05-27 15:52:46,582] INFO Page175 scraped
+[2022-05-27 15:52:48,576] INFO Page176 scraped
+[2022-05-27 15:52:57,477] INFO Page177 scraped
+[2022-05-27 15:52:58,867] INFO Page178 scraped
+[2022-05-27 15:52:59,024] INFO Page179 scraped
+[2022-05-27 15:53:00,645] INFO Page180 scraped
+[2022-05-27 15:53:02,065] INFO Page181 scraped
+[2022-05-27 15:53:03,950] INFO Page182 scraped
+[2022-05-27 15:53:15,321] INFO Page183 scraped
+[2022-05-27 15:53:20,146] INFO Page184 scraped
+[2022-05-27 15:53:23,236] INFO Page185 scraped
+[2022-05-27 15:53:23,434] INFO Page186 scraped
+[2022-05-27 15:53:27,970] INFO Page187 scraped
+[2022-05-27 15:53:28,310] INFO Page188 scraped
+[2022-05-27 15:53:29,828] INFO Page189 scraped
+[2022-05-27 15:53:31,208] INFO Page190 scraped
+[2022-05-27 15:53:36,260] INFO Page191 scraped
+[2022-05-27 15:53:36,566] INFO Page192 scraped
+[2022-05-27 15:53:37,849] INFO Page193 scraped
+[2022-05-27 15:53:39,704] INFO Page194 scraped
+[2022-05-27 15:53:41,833] INFO Page195 scraped
+[2022-05-27 15:53:42,946] INFO Page196 scraped
+[2022-05-27 15:53:44,461] INFO Page197 scraped
+[2022-05-27 15:53:45,118] INFO Page198 scraped
+[2022-05-27 15:53:45,206] INFO Page199 scraped
+[2022-05-27 15:53:46,759] INFO Page200 scraped
+[2022-05-27 15:53:50,477] INFO Page201 scraped
+[2022-05-27 15:53:53,117] INFO Page202 scraped
+[2022-05-27 15:53:55,183] INFO Page203 scraped
+[2022-05-27 15:53:58,715] INFO Page204 scraped
+[2022-05-27 15:54:06,831] INFO Page205 scraped
+[2022-05-27 15:54:11,211] INFO Page206 scraped
+[2022-05-27 15:54:21,059] INFO Page207 scraped
+[2022-05-27 15:54:24,036] INFO Page208 scraped
+[2022-05-27 15:54:27,350] INFO Page209 scraped
+[2022-05-27 15:54:27,351] INFO Page210 scraped
+[2022-05-27 15:54:31,919] INFO Page211 scraped
+[2022-05-27 15:54:33,481] INFO Page212 scraped
+[2022-05-27 15:54:38,234] INFO Page213 scraped
+[2022-05-27 15:54:40,405] INFO Page214 scraped
+[2022-05-27 15:54:45,102] INFO Page215 scraped
+[2022-05-27 15:54:51,296] INFO Page216 scraped
+[2022-05-27 15:54:53,715] INFO Page217 scraped
+[2022-05-27 15:54:55,125] INFO Page218 scraped
+[2022-05-27 15:54:57,545] INFO Page219 scraped
+[2022-05-27 15:55:02,757] INFO Page220 scraped
+[2022-05-27 15:55:05,112] INFO Page221 scraped
+[2022-05-27 15:55:06,251] INFO Page222 scraped
+[2022-05-27 15:55:10,269] INFO Page223 scraped
+[2022-05-27 15:55:10,732] INFO Page224 scraped
+[2022-05-27 15:55:10,780] INFO Page225 scraped
+[2022-05-27 15:55:11,708] INFO Page226 scraped
+[2022-05-27 15:55:14,685] INFO Page227 scraped
+[2022-05-27 15:55:15,433] INFO Page228 scraped
+[2022-05-27 15:55:16,294] INFO Page229 scraped
+[2022-05-27 15:55:16,743] INFO Page230 scraped
+[2022-05-27 15:55:16,853] INFO Page231 scraped
+[2022-05-27 15:55:18,415] INFO Page232 scraped
+[2022-05-27 15:55:25,213] INFO Page233 scraped
+[2022-05-27 15:55:27,837] INFO Page234 scraped
+[2022-05-27 15:55:30,298] INFO Page235 scraped
+[2022-05-27 15:55:34,026] INFO Page236 scraped
+[2022-05-27 15:55:41,429] INFO Page237 scraped
+[2022-05-27 15:55:41,589] INFO Page238 scraped
+[2022-05-27 15:55:45,540] INFO Page239 scraped
+[2022-05-27 15:55:47,796] INFO Page240 scraped
+[2022-05-27 15:56:04,900] INFO Page241 scraped
+[2022-05-27 15:56:06,348] INFO Page242 scraped
+[2022-05-27 15:56:07,662] INFO Page243 scraped
+[2022-05-27 15:56:10,029] INFO Page244 scraped
+[2022-05-27 15:56:12,480] INFO Page245 scraped
+[2022-05-27 15:56:15,819] INFO Page246 scraped
+[2022-05-27 15:56:17,630] INFO Page247 scraped
+[2022-05-27 15:56:18,850] INFO Page248 scraped
+[2022-05-27 15:56:19,437] INFO Page249 scraped
+[2022-05-27 15:56:20,184] INFO Page250 scraped
+[2022-05-27 15:56:27,627] INFO Page251 scraped
+[2022-05-27 15:56:27,705] INFO Page252 scraped
+[2022-05-27 15:56:28,558] INFO Page253 scraped
+[2022-05-27 15:56:31,343] INFO Page254 scraped
+[2022-05-27 15:56:31,492] INFO Page255 scraped
+[2022-05-27 15:56:33,421] INFO Page256 scraped
+[2022-05-27 15:56:35,195] INFO Page257 scraped
+[2022-05-27 15:56:37,115] INFO Page258 scraped
+[2022-05-27 15:56:38,024] INFO Page259 scraped
+[2022-05-27 15:56:44,898] INFO Page260 scraped
+[2022-05-27 15:56:48,628] INFO Page261 scraped
+[2022-05-27 15:56:49,566] INFO Page262 scraped
+[2022-05-27 15:56:50,302] INFO Page263 scraped
+[2022-05-27 15:56:56,717] INFO Page264 scraped
+[2022-05-27 15:56:58,767] INFO Page265 scraped
+[2022-05-27 15:57:02,417] INFO Page266 scraped
+[2022-05-27 15:57:03,145] INFO Page267 scraped
+[2022-05-27 15:57:15,127] INFO Page268 scraped
+[2022-05-27 15:57:18,463] INFO Page269 scraped
+[2022-05-27 15:57:19,654] INFO Page270 scraped
+[2022-05-27 15:57:19,870] INFO Page271 scraped
+[2022-05-27 15:57:22,926] INFO Page272 scraped
+[2022-05-27 15:57:25,336] INFO Page273 scraped
+[2022-05-27 15:57:25,953] INFO Page274 scraped
+[2022-05-27 15:57:27,896] INFO Page275 scraped
+[2022-05-27 15:57:34,279] INFO Page276 scraped
+[2022-05-27 15:57:35,357] INFO Page277 scraped
+[2022-05-27 15:57:35,652] INFO Page278 scraped
+[2022-05-27 15:57:36,986] INFO Page279 scraped
+[2022-05-27 15:57:39,517] INFO Page280 scraped
+[2022-05-27 15:57:41,984] INFO Page281 scraped
+[2022-05-27 15:57:42,469] INFO Page282 scraped
+[2022-05-27 15:57:45,264] INFO Page283 scraped
+[2022-05-27 15:57:48,117] INFO Page284 scraped
+[2022-05-27 15:57:49,956] INFO Page285 scraped
+[2022-05-27 15:57:56,893] INFO Page286 scraped
+[2022-05-27 15:57:58,495] INFO Page287 scraped
+[2022-05-27 15:58:05,507] INFO Page288 scraped
+[2022-05-27 15:58:05,677] INFO Page289 scraped
+[2022-05-27 15:58:08,538] INFO Page290 scraped
+[2022-05-27 15:58:10,416] INFO Page291 scraped
+[2022-05-27 15:58:10,811] INFO Page292 scraped
+[2022-05-27 15:58:14,559] INFO Page293 scraped
+[2022-05-27 15:58:20,322] INFO Page294 scraped
+[2022-05-27 15:58:20,964] INFO Page295 scraped
+[2022-05-27 15:58:24,173] INFO Page296 scraped
+[2022-05-27 15:58:24,256] INFO Page297 scraped
+[2022-05-27 15:58:24,869] INFO Page298 scraped
+[2022-05-27 15:58:29,379] INFO Page299 scraped
+[2022-05-27 15:58:30,706] INFO Page300 scraped
+[2022-05-27 15:58:30,706] INFO Scraping surface finished.
+[2022-05-27 15:58:31,708] INFO Generating surface CSV file...
+[2022-05-27 15:58:32,545] INFO CSV file is generated

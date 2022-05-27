@@ -23,6 +23,7 @@ class Scraper(object):
     # request to get the url
     def get_page(self, url):
         response = requests.get(url)
+
         if response.status_code:
             soup = BeautifulSoup(response.content, "html.parser")
             return soup.find("tbody", {"class": "list"})
@@ -35,7 +36,16 @@ class Scraper(object):
         out = []
         for tr in trs:
             try:
-                out.append(extract_info(tr))
+                base = "https://sofifa.com/"
+                name = tr.select('td.col-name')
+                attr = "?attr=classic"
+                p_url = name[0].find("a").get("href")
+                a,b,c,d,v = p_url.split("/", 4)
+                version = v[0:2]
+                if version != "22":
+                    continue
+                link = base + p_url + attr
+                out.append(extract_info(tr, link))
             except Exception as e:
                 print(f"error parsing link, check!")
                 #self.logger.error(f"error parsing tr {tr}")
