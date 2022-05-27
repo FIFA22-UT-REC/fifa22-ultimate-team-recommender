@@ -2,7 +2,7 @@
 
 def extract_goalkeep(gk):
     getGk = gk.select("li")
-    assert len(getGk == 5, f"List out of range {getGk}")
+    assert len(getGk) == 5, f"List out of range {getGk}"
     return {"Diving": getGk[0].find("span").text.strip(),
             "Handling": getGk[1].find("span").text.strip(),
             "Kicking": getGk[2].find("span").text.strip(),

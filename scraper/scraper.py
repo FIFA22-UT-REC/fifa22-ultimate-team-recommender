@@ -37,8 +37,8 @@ class Scraper(object):
             try:
                 out.append(extract_info(tr))
             except Exception as e:
-                print(f"error parsing tr {tr}")
-                self.logger.error(f"error parsing tr {tr}")
+                print(f"error parsing link, check!")
+                #self.logger.error(f"error parsing tr {tr}")
                 raise e
         return out
 

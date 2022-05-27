@@ -2,7 +2,7 @@
 
 def extract_att(att):
     getAtt = att.select("li")
-    assert len(getAtt == 5, f"List out of range {getAtt}")
+    assert len(getAtt) == 5, f"List out of range {getAtt}"
     return {"Crossing": getAtt[0].find("span").text.strip(),
             "Finishing": getAtt[1].find("span").text.strip(),
             "Heading Accuracy":  getAtt[2].find("span").text.strip(),

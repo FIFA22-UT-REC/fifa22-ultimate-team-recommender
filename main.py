@@ -35,10 +35,10 @@ def main():
 
 
     scrapers = [Scraper(urls[pages * i:min(pages * (i + 1), len(urls))]) for i in range(number_of_scraper)]
-    #scrapers = []
+    # = []
     # for i in range(number_of_scraper):
     #     try:
-    #         scrapers = Scraper(urls[pages * i:min(pages * (i + 1), len(urls))])
+    #         scrapers.append(Scraper(urls[pages * i:min(pages * (i + 1), len(urls))]))
     #
     #     except Exception as e:
     #         print(f"Wrong scraper array, {scrapers}")
