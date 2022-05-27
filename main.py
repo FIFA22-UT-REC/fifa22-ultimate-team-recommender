@@ -47,11 +47,19 @@ def main():
 
     # logging the track of scraping
     logger.info("Scraping surface started...")  # considering adding timer to record
-    multi_threading = MultiThreading(scrapers)
-    multi_threading.run()
+    #multi_threading = MultiThreading(scrapers)
+    # multi_threading.run()
+
+    # Delete later v
+
+    Scraper(urls[11:21]).start()
+    save_csv(Scraper.players_scraped)
+    # Delete later ^
+
     logger.info("Scraping surface finished.")
-    time.sleep(1)
+    # time.sleep(1)
     # logging the track of saving csv
+
     logger.info("Generating surface CSV file...")  # considering adding timer to record
     save_csv(Scraper.players_scraped)
     logger.info("CSV file is generated.")
