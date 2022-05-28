@@ -105,5 +105,8 @@ database.ini
 # pycharm
 .idea
 
-# processed data
+# data processed
 data/processed
+
+# pycache
+__pycache__
