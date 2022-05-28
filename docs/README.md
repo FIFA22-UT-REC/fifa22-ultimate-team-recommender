@@ -16,11 +16,29 @@ etc.
 
 -   [GitHub](https://github.com/ZiyueChloeZhang)
 
+**Jinghan Xu**:
+- <jh0220x@gmail.com>
+
+**Minting Fu**
+
+-<mminting@student.ubc.ca>
+
+**Muke Wang**
+
+- <shaodwaaron@gmail.com>
+
+
+**Shiyang Zhang**
+
+- <harryzhang957@gmail.com>
+
 **Tony Liang**:
 
 -   <chunqingliang@gmail.com>
 
 -   [GitHub](https://github.com/tonyliang19)
+
+ 
 
 ## Usage of the project (Instructions)
 
