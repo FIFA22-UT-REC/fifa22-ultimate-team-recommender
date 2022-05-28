@@ -38,8 +38,6 @@ etc.
 
 -   [GitHub](https://github.com/tonyliang19)
 
- 
-
 ## Usage of the project (Instructions)
 
 #### 1. Without using Docker
