@@ -1,7 +1,7 @@
 from unittest import TestCase
 import requests
 from bs4 import BeautifulSoup
-from extract_pow import extract_pow
+from scraper.stats_utils.extract_pow import extract_pow
 
 
 class Test(TestCase):
