@@ -1,7 +1,5 @@
 from unittest import TestCase
-import requests
-from bs4 import BeautifulSoup
-from extract_stats import extract_stats
+from scraper.stats_utils.extract_stats import extract_stats
 
 
 class Test(TestCase):

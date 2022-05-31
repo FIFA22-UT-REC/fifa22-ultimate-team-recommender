@@ -1,14 +1,8 @@
 from unittest import TestCase
 import requests
 from bs4 import BeautifulSoup
-from extract_att import extract_att
-from extract_def import extract_def
-from extract_skill import extract_skill
-from extract_pow import extract_pow
-from extract_move import extract_move
-from extract_mentality import extract_mentality
-from extract_goalkeep import extract_goalkeep
-from extract_deep import extract_deep
+
+from scraper.stats_utils.extract_deep import extract_deep
 
 
 class Test(TestCase):

@@ -1,7 +1,8 @@
 from unittest import TestCase
 import requests
 from bs4 import BeautifulSoup
-from extract_mentality import extract_mentality
+
+from scraper.stats_utils.extract_mentality import extract_mentality
 
 
 class Test(TestCase):
