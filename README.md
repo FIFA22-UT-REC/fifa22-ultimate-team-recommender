@@ -79,6 +79,36 @@ and open it on any browser like Google Chrome or Mozilla Firefox.
 
 Then you should be able to run and explore the project interactively!
 
+## how it works
+
+### 1 Train our model
+
+#### 1.1 Label players by their rating OR value (higher is better)
+##### example:
+| Player      | Rating | Label |
+| ----------- | ------ | ----- |
+| L.Messi     | 94     | 3     |
+| D.Malen     | 79     | 2     |
+| E.Ferguson  | 58     | 1     |
+
+
+#### 1.2 Using Quadratic Discriminant Analysis (QDA) model to find decision boundary.
+![This is an image](https://yintingchou.com/posts/2017-03-13-lda-and-qda/ldaqda_2.png)
+
+### 2 Predict the label of player that the user want
+
+#### 2.1 Ask user input
+
+- [x] Postion of the player (eg: LB, ST, CAM)
+- [x] age of the player
+- [x] Height of the player
+- [x] Skill of the player
+
+### 3 Recommend a list of players to user
+##### example:
+if our model predict label of the player that the user want to find is 1, we would recommend the nearest player that labeled as 2
+
+
 ## Dependencies
 
 -   Python 3.9.5 and Python packages:
