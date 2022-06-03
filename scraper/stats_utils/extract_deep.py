@@ -1,11 +1,11 @@
 # Helper method to call other helpers that extracts detailed traits of the player
-from scraper.stats_utils.extract_att import extract_att
-from scraper.stats_utils.extract_def import extract_def
-from scraper.stats_utils.extract_skill import extract_skill
-from scraper.stats_utils.extract_pow import extract_pow
-from scraper.stats_utils.extract_move import extract_move
-from scraper.stats_utils.extract_mentality import extract_mentality
-from scraper.stats_utils.extract_goalkeep import extract_goalkeep
+# from fifa_pack.extract_att import extract_att
+# from fifa_pack.extract_def import extract_def
+# from fifa_pack.extract_skill import extract_skill
+# from fifa_pack.extract_pow import extract_pow
+# from fifa_pack.extract_move import extract_move
+# from fifa_pack.extract_mentality import extract_mentality
+# from fifa_pack.extract_goalkeep import extract_goalkeep
 
 
 def extract_deep(stats_block):

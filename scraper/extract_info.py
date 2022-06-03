@@ -1,5 +1,5 @@
 # helper method for extracting data of the player
-from scraper.stats_utils.extract_stats import extract_stats
+from fifa_pack.extract_stats import extract_stats
 
 
 def extract_info(tr, *args):

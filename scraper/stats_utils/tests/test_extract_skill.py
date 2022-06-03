@@ -1,7 +1,7 @@
 from unittest import TestCase
 import requests
 from bs4 import BeautifulSoup
-from scraper.stats_utils.extract_skill import extract_skill
+from fifa_pack.extract_skill import extract_skill
 
 class Test(TestCase):
     def test_extract_skill(self):

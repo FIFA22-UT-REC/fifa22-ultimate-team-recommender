@@ -21,7 +21,7 @@ etc.
 
 **Minting Fu**
 
--<mminting@student.ubc.ca>
+- <mminting@student.ubc.ca>
 
 **Muke Wang**
 

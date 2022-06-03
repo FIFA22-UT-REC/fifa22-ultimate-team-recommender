@@ -2,7 +2,7 @@ from unittest import TestCase
 import requests
 from bs4 import BeautifulSoup
 
-from scraper.stats_utils.extract_deep import extract_deep
+from fifa_pack.extract_deep import extract_deep
 
 
 class Test(TestCase):
