@@ -14,9 +14,14 @@ def extract_stats(link):
         except Exception as e:
             print(f"Wrong version of FIFA, {version}")
             raise e
-        new_tbody = new_soup.find_all("div", {"class": "center"})[5]
-        stats_block = new_tbody.findAll("div", {"class": "block-quarter"})
-        return extract_deep(stats_block)
+        stats_block = new_soup.find_all("div", {"class": "center"})[5].findAll("div", {"class": "block-quarter"})
+        profile = new_soup.findAll("div", {"class": "col-12"})[0].findAll("div", {"class":"block-quarter"})[4].find("ul").findAll("li")
+        return {"preferred_foot" : profile[0].text.split()[1][4:],
+            "weak_foot" : profile[1].text.split()[0],
+            "skill_move": profile[2].text.split()[0],
+            "work_rate" : profile[4].text.strip()[9:],
+            "attrs": extract_deep(stats_block)
+            }
     except Exception as e:
         print(f"Link incorrect, {link}")
         raise e

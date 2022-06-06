@@ -3,7 +3,7 @@ import time
 
 from scraper.scraper import Scraper
 from utils.multi_threading import MultiThreading
-from utils.save_csv import save_csv
+from utils.save_data import save_data
 import logging.config
 
 
@@ -13,7 +13,7 @@ def main():
 
     url = "https://sofifa.com/players?offset="
     urls = []
-    for offset in range(0,20040,60):
+    for offset in range(0,20060,60):
         try:
             urls.append(url + str(offset))
         except Exception as e:
@@ -46,8 +46,10 @@ def main():
     # logging the track of saving csv
 
     logger.info("Generating surface CSV file...")  # considering adding timer to record
-    save_csv(Scraper.players_scraped)
+    logger.info("Generating json and uploading to dynamo databse...")
+    save_data(Scraper.players_scraped)
     logger.info("CSV file is generated")
+    logger.info("json file is generated")
 
 
 if __name__ == "__main__":

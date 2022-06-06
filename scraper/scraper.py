@@ -4,8 +4,8 @@ import random
 import time
 import logging
 
-# from scraper.extract_info import extract_info
-from fifa_pack.extract_info import extract_info
+from scraper.extract_info import extract_info
+#from fifa_pack.extract_info import extract_info
 
 class Scraper(object):
     """
