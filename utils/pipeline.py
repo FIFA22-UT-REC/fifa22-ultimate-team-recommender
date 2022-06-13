@@ -1,8 +1,8 @@
-from flatten import flatten
 from itertools import chain
 import pandas as pd
-from convert_dtype import convert_dtype
-from convert_currency import convert_currency
+from utils.flatten import flatten
+from utils.convert_dtype import convert_dtype
+from utils.convert_currency import convert_currency
 
 
 def pipeline(data):

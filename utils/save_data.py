@@ -1,9 +1,5 @@
-from itertools import chain
 import os
-import pandas as pd
 import json
-
-
 from utils.pipeline import pipeline
 from utils.save_db import save_db
 
@@ -37,6 +33,6 @@ def save_data(data):
     with open(fullname_json, 'w') as fj:
         json.dump(json_dict, fj)
 
-    save_db(fullname_json, tb_name)
+    save_db(json_dict, tb_name)
 
 

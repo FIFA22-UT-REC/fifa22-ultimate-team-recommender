@@ -10,11 +10,14 @@ class Scraper(object):
     """
     Pull player info down from web
     """
-
+    
+    # fix this later, using property instead
+    players_scraped = []
     # Instantiate scraper object
+
     def __init__(self, urls):
         self._urls = urls
-        self._players = []
+        # self._players = []
         self.logger = logging.getLogger("sLogger")
 
     # request to get the url
@@ -29,7 +32,7 @@ class Scraper(object):
             return None
 
     # helper method to get players
-    def get_players(self,trs):
+    def get_players(self, trs):
         out = []
         for tr in trs:
             try:
@@ -59,14 +62,15 @@ class Scraper(object):
             Scraper.players_scraped.append(self.get_players(trs))
             self.logger.info(f"Done for url: {url}")
             self.logger.info("Page{} scraped".format(len(Scraper.players_scraped)))
+        #self._players = Scraper.players_scraped
 
     # method to start the scraper
     def start(self):
         self.scrap(self._urls)
 
-    @property
-    def player_data(self):
-        return self._players
+    #@property
+    #def player_data(self):
+    #    return self._players
 
     @property
     def urls(self):
