@@ -2,11 +2,9 @@
 #from fifa_pack.extract_stats import extract_stats
 from scraper.stats_utils.extract_stats import extract_stats
 
+
 def extract_info(tr, *args):
-    # base = "https://sofifa.com/"
     name = tr.select('td.col-name')
-    # attr = "?attr=classic"
-    # link = base + name[0].find("a").get("href") + attr
     return {
         "name": name[0].find("a").get("aria-label"),
         "country": name[0].find("img").get("title"),
@@ -17,6 +15,7 @@ def extract_info(tr, *args):
         "best_position": name[0].find("span").text,
         "value": tr.select('td.col.col-vl')[0].text.strip(),
         "wage": tr.select('td.col.col-wg')[0].text.strip(),
+        "total_stats": tr.select('td.col.col-tt')[0].text.strip(),
         "stats": extract_stats(*args)
     }
 

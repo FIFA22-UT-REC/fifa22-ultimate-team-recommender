@@ -47,7 +47,7 @@ def main():
 
     logger.info("Generating surface CSV file...")  # considering adding timer to record
     logger.info("Generating json and uploading to dynamo databse...")
-    save_data(Scraper.players_scraped)
+    save_data(Scraper.player_data)
     logger.info("CSV file is generated")
     logger.info("json file is generated")
 
