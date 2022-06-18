@@ -110,3 +110,8 @@ data/processed
 
 # pycache
 __pycache__
+
+# testing folder
+notebooks/test
+notebooks/test/*
+

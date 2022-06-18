@@ -25,6 +25,7 @@ RUN conda install --quiet --yes -c conda-forge\
 # install R packages
 RUN Rscript -e "devtools::install_github('FIFA22-UT-Recommender/rfifa', force = TRUE)"
 
+# Update dockerfile on Jun 6 / 2022
 # install dependencies of python 
 COPY requirements.txt requirements.txt
 RUN pip install -r requirements.txt

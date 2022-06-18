@@ -1,5 +1,5 @@
 from unittest import TestCase
-from scraper.stats_utils.extract_stats import extract_stats
+from fifa_pack.extract_stats import extract_stats
 
 
 class Test(TestCase):

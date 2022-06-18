@@ -21,7 +21,7 @@ etc.
 
 **Minting Fu**
 
--<mminting@student.ubc.ca>
+- <mminting@student.ubc.ca>
 
 **Muke Wang**
 
@@ -37,8 +37,6 @@ etc.
 -   <chunqingliang@gmail.com>
 
 -   [GitHub](https://github.com/tonyliang19)
-
- 
 
 ## Usage of the project (Instructions)
 
@@ -84,12 +82,15 @@ Then you should be able to run and explore the project interactively!
 ## Dependencies
 
 -   Python 3.9.5 and Python packages:
+    -   aiohttp=3.8.1
+    -   awscli=1.25.2
     -   beautifulsoup4=4.11.1
     -   bs4=0.0.1
     -   certifi=2021.10.8
     -   chardet=4.0.0
     -   charset-normalizer=2.0.12
     -   idna==3.3
+    -   fifa-pack=0.0.3
     -   numpy=1.22.3
     -   pandas=1.4.2
     -   pathlib=1.0.1

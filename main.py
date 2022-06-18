@@ -3,7 +3,7 @@ import time
 
 from scraper.scraper import Scraper
 from utils.multi_threading import MultiThreading
-from utils.save_csv import save_csv
+from utils.save_data import save_data
 import logging.config
 
 
@@ -13,7 +13,7 @@ def main():
 
     url = "https://sofifa.com/players?offset="
     urls = []
-    for offset in range(0,20040,60):
+    for offset in range(0, 20060, 60):
         try:
             urls.append(url + str(offset))
         except Exception as e:
@@ -24,7 +24,9 @@ def main():
     number_of_scraper = 30
     pages = 10
 
-    #scrapers = [Scraper(urls[pages * i:min(pages * (i + 1), len(urls))]) for i in range(number_of_scraper)]
+    # scrapers = [Scraper(urls[pages * i:min(10 * (i + 1), len(urls))]) for i in range(number_of_scraper)]
+    #print(Scraper.players_scraped)
+    
 
     scrapers = []
     for i in range(number_of_scraper):
@@ -41,13 +43,20 @@ def main():
     multi_threading.run()
 
     logger.info("Scraping surface finished.")
-    time.sleep(1)
+    t1 = time.time()
 
     # logging the track of saving csv
 
     logger.info("Generating surface CSV file...")  # considering adding timer to record
-    save_csv(Scraper.players_scraped)
+    logger.info("Generating json and uploading to dynamo database...")
+
+    dat = Scraper.players_scraped
+    # logger.info(f"As a property : {type(dat)}, {dat}")
+    save_data(dat)
     logger.info("CSV file is generated")
+    logger.info("json file is generated")
+    logger.info(f"Total time to scrap and save was: {time.time() - t1} s")
+    print("Done!, Check the logger")
 
 
 if __name__ == "__main__":

@@ -2,8 +2,7 @@ from unittest import TestCase
 import requests
 from bs4 import BeautifulSoup
 
-from scraper.stats_utils.extract_def import extract_def
-
+from fifa_pack.extract_def import extract_def
 
 class Test(TestCase):
     def test_extract_def(self):

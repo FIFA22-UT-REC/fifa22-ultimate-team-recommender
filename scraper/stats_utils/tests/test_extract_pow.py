@@ -1,7 +1,7 @@
 from unittest import TestCase
 import requests
 from bs4 import BeautifulSoup
-from scraper.stats_utils.extract_pow import extract_pow
+from fifa_pack.extract_pow import extract_pow
 
 
 class Test(TestCase):

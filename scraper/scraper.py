@@ -1,23 +1,23 @@
 from bs4 import BeautifulSoup
 import requests
-import random
-import time
 import logging
 
 from scraper.extract_info import extract_info
+#from fifa_pack.extract_info import extract_info
 
 
 class Scraper(object):
     """
     Pull player info down from web
     """
-
-    # Initialize array to store player
+    
+    # fix this later, using property instead
     players_scraped = []
+    # Instantiate scraper object
 
-    # Instantiate scraper
     def __init__(self, urls):
-        self.urls = urls
+        self._urls = urls
+        # self._players = []
         self.logger = logging.getLogger("sLogger")
 
     # request to get the url
@@ -32,7 +32,7 @@ class Scraper(object):
             return None
 
     # helper method to get players
-    def get_players(self,trs):
+    def get_players(self, trs):
         out = []
         for tr in trs:
             try:
@@ -40,15 +40,15 @@ class Scraper(object):
                 name = tr.select('td.col-name')
                 attr = "?attr=classic"
                 p_url = name[0].find("a").get("href")
-                a,b,c,d,v = p_url.split("/", 4)
+                a, b, c, d, v = p_url.split("/", 4)
                 version = v[0:2]
                 if version != "22":
                     continue
                 link = base + p_url + attr
                 out.append(extract_info(tr, link))
             except Exception as e:
-                print(f"error parsing link, check!")
-                #self.logger.error(f"error parsing tr {tr}")
+                # print(f"error parsing link, check!")
+                self.logger.error(f"error parsing link {link}")
                 raise e
         return out
 
@@ -60,9 +60,20 @@ class Scraper(object):
                 continue
             trs = tbody.findAll("tr")
             Scraper.players_scraped.append(self.get_players(trs))
+            self.logger.info(f"Done for url: {url}")
             self.logger.info("Page{} scraped".format(len(Scraper.players_scraped)))
+        #self._players = Scraper.players_scraped
 
     # method to start the scraper
     def start(self):
-        self.scrap(self.urls)
+        self.scrap(self._urls)
+
+    #@property
+    #def player_data(self):
+    #    return self._players
+
+    @property
+    def urls(self):
+        return self._urls
+
 

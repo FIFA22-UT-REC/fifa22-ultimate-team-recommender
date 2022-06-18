@@ -2,7 +2,7 @@ from unittest import TestCase
 import requests
 from bs4 import BeautifulSoup
 
-from scraper.stats_utils.extract_goalkeep import extract_goalkeep
+from fifa_pack.extract_goalkeep import extract_goalkeep
 
 
 class Test(TestCase):

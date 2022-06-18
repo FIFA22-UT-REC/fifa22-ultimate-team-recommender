@@ -2,7 +2,7 @@ from unittest import TestCase
 import requests
 from bs4 import BeautifulSoup
 
-from scraper.stats_utils.extract_mentality import extract_mentality
+from fifa_pack.extract_mentality import extract_mentality
 
 
 class Test(TestCase):
