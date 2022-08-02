@@ -1480,3 +1480,610 @@
 [2022-06-13 01:56:38,139] INFO CSV file is generated
 [2022-06-13 01:56:38,140] INFO json file is generated
 [2022-06-13 01:56:38,140] INFO Total time to scrap and save was: 1346.9577133655548 s
+[2022-07-08 14:16:27,153] INFO Scraping surface started...
+[2022-07-08 14:17:11,971] INFO Done for url: https://sofifa.com/players?offset=16800
+[2022-07-08 14:17:11,971] INFO Page1 scraped
+[2022-07-08 14:17:14,791] INFO Done for url: https://sofifa.com/players?offset=15600
+[2022-07-08 14:17:14,798] INFO Page2 scraped
+[2022-07-08 14:17:22,353] INFO Done for url: https://sofifa.com/players?offset=16200
+[2022-07-08 14:17:22,353] INFO Page3 scraped
+[2022-07-08 14:17:23,426] INFO Done for url: https://sofifa.com/players?offset=13800
+[2022-07-08 14:17:23,437] INFO Page4 scraped
+[2022-07-08 14:17:31,057] INFO Done for url: https://sofifa.com/players?offset=13200
+[2022-07-08 14:17:31,057] INFO Page5 scraped
+[2022-07-08 14:17:34,178] INFO Done for url: https://sofifa.com/players?offset=14400
+[2022-07-08 14:17:34,178] INFO Page6 scraped
+[2022-07-08 14:17:36,400] INFO Done for url: https://sofifa.com/players?offset=17400
+[2022-07-08 14:17:36,400] INFO Page7 scraped
+[2022-07-08 14:17:39,372] INFO Done for url: https://sofifa.com/players?offset=12600
+[2022-07-08 14:17:39,375] INFO Page8 scraped
+[2022-07-08 14:17:40,389] INFO Done for url: https://sofifa.com/players?offset=15000
+[2022-07-08 14:17:40,389] INFO Page9 scraped
+[2022-07-08 14:17:52,792] INFO Done for url: https://sofifa.com/players?offset=7200
+[2022-07-08 14:17:52,792] INFO Page10 scraped
+[2022-07-08 14:17:53,290] INFO Done for url: https://sofifa.com/players?offset=16860
+[2022-07-08 14:17:53,596] INFO Page11 scraped
+[2022-07-08 14:17:55,859] INFO Done for url: https://sofifa.com/players?offset=6600
+[2022-07-08 14:17:55,861] INFO Page12 scraped
+[2022-07-08 14:17:58,621] INFO Done for url: https://sofifa.com/players?offset=11400
+[2022-07-08 14:17:58,621] INFO Page13 scraped
+[2022-07-08 14:18:02,720] INFO Done for url: https://sofifa.com/players?offset=12000
+[2022-07-08 14:18:02,720] INFO Page14 scraped
+[2022-07-08 14:18:03,514] INFO Done for url: https://sofifa.com/players?offset=15660
+[2022-07-08 14:18:03,514] INFO Page15 scraped
+[2022-07-08 14:18:04,082] INFO Done for url: https://sofifa.com/players?offset=5400
+[2022-07-08 14:18:04,255] INFO Page16 scraped
+[2022-07-08 14:18:09,218] INFO Done for url: https://sofifa.com/players?offset=4800
+[2022-07-08 14:18:09,218] INFO Page17 scraped
+[2022-07-08 14:18:09,483] INFO Done for url: https://sofifa.com/players?offset=17460
+[2022-07-08 14:18:09,483] INFO Page18 scraped
+[2022-07-08 14:18:10,743] INFO Done for url: https://sofifa.com/players?offset=6000
+[2022-07-08 14:18:10,749] INFO Page19 scraped
+[2022-07-08 14:18:10,868] INFO Done for url: https://sofifa.com/players?offset=8400
+[2022-07-08 14:18:10,868] INFO Page20 scraped
+[2022-07-08 14:18:13,508] INFO Done for url: https://sofifa.com/players?offset=1200
+[2022-07-08 14:18:13,508] INFO Page21 scraped
+[2022-07-08 14:18:15,769] INFO Done for url: https://sofifa.com/players?offset=3600
+[2022-07-08 14:18:15,802] INFO Page22 scraped
+[2022-07-08 14:18:16,365] INFO Done for url: https://sofifa.com/players?offset=1800
+[2022-07-08 14:18:16,365] INFO Page23 scraped
+[2022-07-08 14:18:16,757] INFO Done for url: https://sofifa.com/players?offset=9000
+[2022-07-08 14:18:16,757] INFO Page24 scraped
+[2022-07-08 14:18:17,486] INFO Done for url: https://sofifa.com/players?offset=10800
+[2022-07-08 14:18:17,486] INFO Page25 scraped
+[2022-07-08 14:18:17,660] INFO Done for url: https://sofifa.com/players?offset=2400
+[2022-07-08 14:18:17,660] INFO Page26 scraped
+[2022-07-08 14:18:18,111] INFO Done for url: https://sofifa.com/players?offset=4200
+[2022-07-08 14:18:18,111] INFO Page27 scraped
+[2022-07-08 14:18:19,289] INFO Done for url: https://sofifa.com/players?offset=600
+[2022-07-08 14:18:19,289] INFO Page28 scraped
+[2022-07-08 14:18:20,928] INFO Done for url: https://sofifa.com/players?offset=10200
+[2022-07-08 14:18:20,928] INFO Page29 scraped
+[2022-07-08 14:18:21,355] INFO Done for url: https://sofifa.com/players?offset=0
+[2022-07-08 14:18:21,355] INFO Page30 scraped
+[2022-07-08 14:18:21,481] INFO Done for url: https://sofifa.com/players?offset=7800
+[2022-07-08 14:18:21,481] INFO Page31 scraped
+[2022-07-08 14:18:24,181] INFO Done for url: https://sofifa.com/players?offset=9600
+[2022-07-08 14:18:24,181] INFO Page32 scraped
+[2022-07-08 14:18:25,622] INFO Done for url: https://sofifa.com/players?offset=3000
+[2022-07-08 14:18:25,623] INFO Page33 scraped
+[2022-07-08 14:18:26,971] INFO Done for url: https://sofifa.com/players?offset=13260
+[2022-07-08 14:18:26,971] INFO Page34 scraped
+[2022-07-08 14:18:27,076] INFO Done for url: https://sofifa.com/players?offset=16260
+[2022-07-08 14:18:27,080] INFO Page35 scraped
+[2022-07-08 14:18:36,475] INFO Done for url: https://sofifa.com/players?offset=15060
+[2022-07-08 14:18:36,475] INFO Page36 scraped
+[2022-07-08 14:18:37,829] INFO Done for url: https://sofifa.com/players?offset=14460
+[2022-07-08 14:18:37,829] INFO Page37 scraped
+[2022-07-08 14:18:44,046] INFO Done for url: https://sofifa.com/players?offset=13860
+[2022-07-08 14:18:44,047] INFO Page38 scraped
+[2022-07-08 14:18:51,589] INFO Done for url: https://sofifa.com/players?offset=15720
+[2022-07-08 14:18:51,591] INFO Page39 scraped
+[2022-07-08 14:18:52,599] INFO Done for url: https://sofifa.com/players?offset=12660
+[2022-07-08 14:18:52,615] INFO Page40 scraped
+[2022-07-08 14:18:56,907] INFO Done for url: https://sofifa.com/players?offset=16920
+[2022-07-08 14:18:56,907] INFO Page41 scraped
+[2022-07-08 14:18:58,914] INFO Done for url: https://sofifa.com/players?offset=17520
+[2022-07-08 14:18:58,915] INFO Page42 scraped
+[2022-07-08 14:19:10,665] INFO Done for url: https://sofifa.com/players?offset=13320
+[2022-07-08 14:19:10,665] INFO Page43 scraped
+[2022-07-08 14:19:16,214] INFO Done for url: https://sofifa.com/players?offset=7260
+[2022-07-08 14:19:16,214] INFO Page44 scraped
+[2022-07-08 14:19:29,978] INFO Done for url: https://sofifa.com/players?offset=12060
+[2022-07-08 14:19:29,979] INFO Page45 scraped
+[2022-07-08 14:19:32,403] INFO Done for url: https://sofifa.com/players?offset=16980
+[2022-07-08 14:19:32,403] INFO Page46 scraped
+[2022-07-08 14:19:36,205] INFO Done for url: https://sofifa.com/players?offset=14520
+[2022-07-08 14:19:36,205] INFO Page47 scraped
+[2022-07-08 14:19:36,535] INFO Done for url: https://sofifa.com/players?offset=6660
+[2022-07-08 14:19:36,535] INFO Page48 scraped
+[2022-07-08 14:19:37,367] INFO Done for url: https://sofifa.com/players?offset=11460
+[2022-07-08 14:19:37,367] INFO Page49 scraped
+[2022-07-08 14:19:41,803] INFO Done for url: https://sofifa.com/players?offset=15120
+[2022-07-08 14:19:41,817] INFO Page50 scraped
+[2022-07-08 14:19:44,231] INFO Done for url: https://sofifa.com/players?offset=5460
+[2022-07-08 14:19:44,231] INFO Page51 scraped
+[2022-07-08 14:19:48,226] INFO Done for url: https://sofifa.com/players?offset=16320
+[2022-07-08 14:19:48,226] INFO Page52 scraped
+[2022-07-08 14:19:48,470] INFO Done for url: https://sofifa.com/players?offset=12720
+[2022-07-08 14:19:48,470] INFO Page53 scraped
+[2022-07-08 14:19:52,123] INFO Done for url: https://sofifa.com/players?offset=13920
+[2022-07-08 14:19:52,123] INFO Page54 scraped
+[2022-07-08 14:19:52,135] INFO Done for url: https://sofifa.com/players?offset=4860
+[2022-07-08 14:19:52,136] INFO Page55 scraped
+[2022-07-08 14:19:56,866] INFO Done for url: https://sofifa.com/players?offset=8460
+[2022-07-08 14:19:56,866] INFO Page56 scraped
+[2022-07-08 14:19:59,062] INFO Done for url: https://sofifa.com/players?offset=17580
+[2022-07-08 14:19:59,062] INFO Page57 scraped
+[2022-07-08 14:20:00,604] INFO Done for url: https://sofifa.com/players?offset=15780
+[2022-07-08 14:20:00,605] INFO Page58 scraped
+[2022-07-08 14:20:01,543] INFO Done for url: https://sofifa.com/players?offset=1860
+[2022-07-08 14:20:01,543] INFO Page59 scraped
+[2022-07-08 14:20:01,545] INFO Done for url: https://sofifa.com/players?offset=1260
+[2022-07-08 14:20:01,547] INFO Page60 scraped
+[2022-07-08 14:20:01,630] INFO Done for url: https://sofifa.com/players?offset=3660
+[2022-07-08 14:20:01,630] INFO Page61 scraped
+[2022-07-08 14:20:02,802] INFO Done for url: https://sofifa.com/players?offset=10860
+[2022-07-08 14:20:02,833] INFO Page62 scraped
+[2022-07-08 14:20:06,230] INFO Done for url: https://sofifa.com/players?offset=9060
+[2022-07-08 14:20:06,230] INFO Page63 scraped
+[2022-07-08 14:20:08,773] INFO Done for url: https://sofifa.com/players?offset=13380
+[2022-07-08 14:20:08,773] INFO Page64 scraped
+[2022-07-08 14:20:09,064] INFO Done for url: https://sofifa.com/players?offset=6060
+[2022-07-08 14:20:09,064] INFO Page65 scraped
+[2022-07-08 14:20:09,872] INFO Done for url: https://sofifa.com/players?offset=660
+[2022-07-08 14:20:09,873] INFO Page66 scraped
+[2022-07-08 14:20:11,720] INFO Done for url: https://sofifa.com/players?offset=7860
+[2022-07-08 14:20:11,755] INFO Page67 scraped
+[2022-07-08 14:20:12,916] INFO Done for url: https://sofifa.com/players?offset=2460
+[2022-07-08 14:20:12,933] INFO Page68 scraped
+[2022-07-08 14:20:13,850] INFO Done for url: https://sofifa.com/players?offset=4260
+[2022-07-08 14:20:13,850] INFO Page69 scraped
+[2022-07-08 14:20:14,300] INFO Done for url: https://sofifa.com/players?offset=10260
+[2022-07-08 14:20:14,303] INFO Page70 scraped
+[2022-07-08 14:20:14,408] INFO Done for url: https://sofifa.com/players?offset=3060
+[2022-07-08 14:20:14,409] INFO Page71 scraped
+[2022-07-08 14:20:15,722] INFO Done for url: https://sofifa.com/players?offset=60
+[2022-07-08 14:20:15,723] INFO Page72 scraped
+[2022-07-08 14:20:19,731] INFO Done for url: https://sofifa.com/players?offset=17040
+[2022-07-08 14:20:19,731] INFO Page73 scraped
+[2022-07-08 14:20:23,834] INFO Done for url: https://sofifa.com/players?offset=9660
+[2022-07-08 14:20:23,834] INFO Page74 scraped
+[2022-07-08 14:20:30,372] INFO Done for url: https://sofifa.com/players?offset=7320
+[2022-07-08 14:20:30,372] INFO Page75 scraped
+[2022-07-08 14:20:44,413] INFO Done for url: https://sofifa.com/players?offset=15180
+[2022-07-08 14:20:44,413] INFO Page76 scraped
+[2022-07-08 14:20:48,656] INFO Done for url: https://sofifa.com/players?offset=16380
+[2022-07-08 14:20:48,698] INFO Page77 scraped
+[2022-07-08 14:20:50,717] INFO Done for url: https://sofifa.com/players?offset=15840
+[2022-07-08 14:20:50,717] INFO Page78 scraped
+[2022-07-08 14:20:50,760] INFO Done for url: https://sofifa.com/players?offset=14580
+[2022-07-08 14:20:50,760] INFO Page79 scraped
+[2022-07-08 14:20:51,344] INFO Done for url: https://sofifa.com/players?offset=17640
+[2022-07-08 14:20:51,344] INFO Page80 scraped
+[2022-07-08 14:21:03,910] INFO Done for url: https://sofifa.com/players?offset=13980
+[2022-07-08 14:21:03,991] INFO Page81 scraped
+[2022-07-08 14:21:04,741] INFO Done for url: https://sofifa.com/players?offset=12120
+[2022-07-08 14:21:04,741] INFO Page82 scraped
+[2022-07-08 14:21:07,240] INFO Done for url: https://sofifa.com/players?offset=11520
+[2022-07-08 14:21:07,265] INFO Page83 scraped
+[2022-07-08 14:21:09,831] INFO Done for url: https://sofifa.com/players?offset=17100
+[2022-07-08 14:21:09,831] INFO Page84 scraped
+[2022-07-08 14:21:10,012] INFO Done for url: https://sofifa.com/players?offset=13440
+[2022-07-08 14:21:10,012] INFO Page85 scraped
+[2022-07-08 14:21:11,057] INFO Done for url: https://sofifa.com/players?offset=12780
+[2022-07-08 14:21:11,057] INFO Page86 scraped
+[2022-07-08 14:21:18,565] INFO Done for url: https://sofifa.com/players?offset=6720
+[2022-07-08 14:21:18,566] INFO Page87 scraped
+[2022-07-08 14:21:28,210] INFO Done for url: https://sofifa.com/players?offset=5520
+[2022-07-08 14:21:28,210] INFO Page88 scraped
+[2022-07-08 14:21:30,111] INFO Done for url: https://sofifa.com/players?offset=15240
+[2022-07-08 14:21:30,111] INFO Page89 scraped
+[2022-07-08 14:21:34,669] INFO Done for url: https://sofifa.com/players?offset=4920
+[2022-07-08 14:21:34,669] INFO Page90 scraped
+[2022-07-08 14:21:43,866] INFO Done for url: https://sofifa.com/players?offset=16440
+[2022-07-08 14:21:43,867] INFO Page91 scraped
+[2022-07-08 14:21:45,044] INFO Done for url: https://sofifa.com/players?offset=10920
+[2022-07-08 14:21:45,044] INFO Page92 scraped
+[2022-07-08 14:21:45,373] INFO Done for url: https://sofifa.com/players?offset=15900
+[2022-07-08 14:21:45,373] INFO Page93 scraped
+[2022-07-08 14:21:45,918] INFO Done for url: https://sofifa.com/players?offset=8520
+[2022-07-08 14:21:45,918] INFO Page94 scraped
+[2022-07-08 14:21:48,681] INFO Done for url: https://sofifa.com/players?offset=1320
+[2022-07-08 14:21:48,681] INFO Page95 scraped
+[2022-07-08 14:21:48,836] INFO Done for url: https://sofifa.com/players?offset=3720
+[2022-07-08 14:21:48,836] INFO Page96 scraped
+[2022-07-08 14:21:52,664] INFO Done for url: https://sofifa.com/players?offset=7380
+[2022-07-08 14:21:52,664] INFO Page97 scraped
+[2022-07-08 14:21:53,028] INFO Done for url: https://sofifa.com/players?offset=1920
+[2022-07-08 14:21:53,028] INFO Page98 scraped
+[2022-07-08 14:21:53,335] INFO Done for url: https://sofifa.com/players?offset=6120
+[2022-07-08 14:21:53,335] INFO Page99 scraped
+[2022-07-08 14:21:56,290] INFO Done for url: https://sofifa.com/players?offset=9120
+[2022-07-08 14:21:56,290] INFO Page100 scraped
+[2022-07-08 14:21:58,153] INFO Done for url: https://sofifa.com/players?offset=720
+[2022-07-08 14:21:58,154] INFO Page101 scraped
+[2022-07-08 14:21:59,070] INFO Done for url: https://sofifa.com/players?offset=17700
+[2022-07-08 14:21:59,093] INFO Page102 scraped
+[2022-07-08 14:21:59,572] INFO Done for url: https://sofifa.com/players?offset=17160
+[2022-07-08 14:21:59,580] INFO Page103 scraped
+[2022-07-08 14:22:01,972] INFO Done for url: https://sofifa.com/players?offset=14640
+[2022-07-08 14:22:01,972] INFO Page104 scraped
+[2022-07-08 14:22:05,387] INFO Done for url: https://sofifa.com/players?offset=4320
+[2022-07-08 14:22:05,387] INFO Page105 scraped
+[2022-07-08 14:22:05,557] INFO Done for url: https://sofifa.com/players?offset=7920
+[2022-07-08 14:22:05,557] INFO Page106 scraped
+[2022-07-08 14:22:07,187] INFO Done for url: https://sofifa.com/players?offset=2520
+[2022-07-08 14:22:07,208] INFO Page107 scraped
+[2022-07-08 14:22:08,754] INFO Done for url: https://sofifa.com/players?offset=120
+[2022-07-08 14:22:08,754] INFO Page108 scraped
+[2022-07-08 14:22:09,034] INFO Done for url: https://sofifa.com/players?offset=3120
+[2022-07-08 14:22:09,034] INFO Page109 scraped
+[2022-07-08 14:22:09,628] INFO Done for url: https://sofifa.com/players?offset=10320
+[2022-07-08 14:22:09,628] INFO Page110 scraped
+[2022-07-08 14:22:13,770] INFO Done for url: https://sofifa.com/players?offset=14040
+[2022-07-08 14:22:13,774] INFO Page111 scraped
+[2022-07-08 14:22:17,526] INFO Done for url: https://sofifa.com/players?offset=15300
+[2022-07-08 14:22:17,526] INFO Page112 scraped
+[2022-07-08 14:22:21,070] INFO Done for url: https://sofifa.com/players?offset=9720
+[2022-07-08 14:22:21,070] INFO Page113 scraped
+[2022-07-08 14:22:24,890] INFO Done for url: https://sofifa.com/players?offset=13500
+[2022-07-08 14:22:24,890] INFO Page114 scraped
+[2022-07-08 14:22:25,785] INFO Done for url: https://sofifa.com/players?offset=12840
+[2022-07-08 14:22:25,785] INFO Page115 scraped
+[2022-07-08 14:22:33,018] INFO Done for url: https://sofifa.com/players?offset=17760
+[2022-07-08 14:22:33,018] INFO Page116 scraped
+[2022-07-08 14:22:36,683] INFO Done for url: https://sofifa.com/players?offset=12180
+[2022-07-08 14:22:36,683] INFO Page117 scraped
+[2022-07-08 14:22:36,694] INFO Done for url: https://sofifa.com/players?offset=16500
+[2022-07-08 14:22:36,703] INFO Page118 scraped
+[2022-07-08 14:22:44,443] INFO Done for url: https://sofifa.com/players?offset=11580
+[2022-07-08 14:22:44,459] INFO Page119 scraped
+[2022-07-08 14:22:48,648] INFO Done for url: https://sofifa.com/players?offset=14700
+[2022-07-08 14:22:48,649] INFO Page120 scraped
+[2022-07-08 14:22:51,507] INFO Done for url: https://sofifa.com/players?offset=10980
+[2022-07-08 14:22:51,894] INFO Page121 scraped
+[2022-07-08 14:22:52,361] INFO Done for url: https://sofifa.com/players?offset=7440
+[2022-07-08 14:22:52,362] INFO Page122 scraped
+[2022-07-08 14:22:54,345] INFO Done for url: https://sofifa.com/players?offset=17220
+[2022-07-08 14:22:54,345] INFO Page123 scraped
+[2022-07-08 14:22:54,437] INFO Done for url: https://sofifa.com/players?offset=6780
+[2022-07-08 14:22:54,437] INFO Page124 scraped
+[2022-07-08 14:23:02,155] INFO Done for url: https://sofifa.com/players?offset=15960
+[2022-07-08 14:23:02,190] INFO Page125 scraped
+[2022-07-08 14:23:10,103] INFO Done for url: https://sofifa.com/players?offset=5580
+[2022-07-08 14:23:10,103] INFO Page126 scraped
+[2022-07-08 14:23:17,146] INFO Done for url: https://sofifa.com/players?offset=17820
+[2022-07-08 14:23:17,146] INFO Page127 scraped
+[2022-07-08 14:23:18,809] INFO Done for url: https://sofifa.com/players?offset=15360
+[2022-07-08 14:23:18,810] INFO Page128 scraped
+[2022-07-08 14:23:19,411] INFO Done for url: https://sofifa.com/players?offset=4980
+[2022-07-08 14:23:19,411] INFO Page129 scraped
+[2022-07-08 14:23:24,886] INFO Done for url: https://sofifa.com/players?offset=16560
+[2022-07-08 14:23:24,886] INFO Page130 scraped
+[2022-07-08 14:23:24,943] INFO Done for url: https://sofifa.com/players?offset=1380
+[2022-07-08 14:23:24,944] INFO Page131 scraped
+[2022-07-08 14:23:28,204] INFO Done for url: https://sofifa.com/players?offset=14100
+[2022-07-08 14:23:28,204] INFO Page132 scraped
+[2022-07-08 14:23:29,034] INFO Done for url: https://sofifa.com/players?offset=7500
+[2022-07-08 14:23:29,034] INFO Page133 scraped
+[2022-07-08 14:23:32,036] INFO Done for url: https://sofifa.com/players?offset=13560
+[2022-07-08 14:23:32,036] INFO Page134 scraped
+[2022-07-08 14:23:34,156] INFO Done for url: https://sofifa.com/players?offset=6180
+[2022-07-08 14:23:34,239] INFO Page135 scraped
+[2022-07-08 14:23:34,373] INFO Done for url: https://sofifa.com/players?offset=8580
+[2022-07-08 14:23:34,373] INFO Page136 scraped
+[2022-07-08 14:23:38,293] INFO Done for url: https://sofifa.com/players?offset=3780
+[2022-07-08 14:23:38,293] INFO Page137 scraped
+[2022-07-08 14:23:39,162] INFO Done for url: https://sofifa.com/players?offset=1980
+[2022-07-08 14:23:39,211] INFO Page138 scraped
+[2022-07-08 14:23:40,732] INFO Done for url: https://sofifa.com/players?offset=12900
+[2022-07-08 14:23:40,732] INFO Page139 scraped
+[2022-07-08 14:23:47,399] INFO Done for url: https://sofifa.com/players?offset=17280
+[2022-07-08 14:23:47,400] INFO Page140 scraped
+[2022-07-08 14:23:51,358] INFO Done for url: https://sofifa.com/players?offset=9180
+[2022-07-08 14:23:51,359] INFO Page141 scraped
+[2022-07-08 14:23:51,875] INFO Done for url: https://sofifa.com/players?offset=14760
+[2022-07-08 14:23:51,876] INFO Page142 scraped
+[2022-07-08 14:23:52,156] INFO Done for url: https://sofifa.com/players?offset=780
+[2022-07-08 14:23:52,156] INFO Page143 scraped
+[2022-07-08 14:23:55,314] INFO Done for url: https://sofifa.com/players?offset=7560
+[2022-07-08 14:23:55,314] INFO Page144 scraped
+[2022-07-08 14:23:57,551] INFO Done for url: https://sofifa.com/players?offset=11640
+[2022-07-08 14:23:57,551] INFO Page145 scraped
+[2022-07-08 14:24:00,709] INFO Done for url: https://sofifa.com/players?offset=7980
+[2022-07-08 14:24:00,739] INFO Page146 scraped
+[2022-07-08 14:24:03,614] INFO Done for url: https://sofifa.com/players?offset=3180
+[2022-07-08 14:24:03,628] INFO Page147 scraped
+[2022-07-08 14:24:04,494] INFO Done for url: https://sofifa.com/players?offset=2580
+[2022-07-08 14:24:04,494] INFO Page148 scraped
+[2022-07-08 14:24:04,961] INFO Done for url: https://sofifa.com/players?offset=4380
+[2022-07-08 14:24:05,006] INFO Page149 scraped
+[2022-07-08 14:24:06,033] INFO Done for url: https://sofifa.com/players?offset=16020
+[2022-07-08 14:24:06,033] INFO Page150 scraped
+[2022-07-08 14:24:07,686] INFO Done for url: https://sofifa.com/players?offset=180
+[2022-07-08 14:24:07,686] INFO Page151 scraped
+[2022-07-08 14:24:08,480] INFO Done for url: https://sofifa.com/players?offset=16620
+[2022-07-08 14:24:08,480] INFO Page152 scraped
+[2022-07-08 14:24:09,390] INFO Done for url: https://sofifa.com/players?offset=12240
+[2022-07-08 14:24:09,422] INFO Page153 scraped
+[2022-07-08 14:24:09,484] INFO Done for url: https://sofifa.com/players?offset=10380
+[2022-07-08 14:24:09,484] INFO Page154 scraped
+[2022-07-08 14:24:20,597] INFO Done for url: https://sofifa.com/players?offset=15420
+[2022-07-08 14:24:20,616] INFO Page155 scraped
+[2022-07-08 14:24:20,793] INFO Done for url: https://sofifa.com/players?offset=9780
+[2022-07-08 14:24:20,834] INFO Page156 scraped
+[2022-07-08 14:24:27,911] INFO Done for url: https://sofifa.com/players?offset=11040
+[2022-07-08 14:24:27,913] INFO Page157 scraped
+[2022-07-08 14:24:33,620] INFO Done for url: https://sofifa.com/players?offset=7620
+[2022-07-08 14:24:33,620] INFO Page158 scraped
+[2022-07-08 14:24:34,554] INFO Done for url: https://sofifa.com/players?offset=13620
+[2022-07-08 14:24:34,554] INFO Page159 scraped
+[2022-07-08 14:24:34,667] INFO Done for url: https://sofifa.com/players?offset=17880
+[2022-07-08 14:24:34,699] INFO Page160 scraped
+[2022-07-08 14:24:44,132] INFO Done for url: https://sofifa.com/players?offset=14160
+[2022-07-08 14:24:44,133] INFO Page161 scraped
+[2022-07-08 14:24:44,457] INFO Done for url: https://sofifa.com/players?offset=16680
+[2022-07-08 14:24:44,462] INFO Page162 scraped
+[2022-07-08 14:24:46,835] INFO Done for url: https://sofifa.com/players?offset=6840
+[2022-07-08 14:24:46,849] INFO Page163 scraped
+[2022-07-08 14:24:47,870] INFO Done for url: https://sofifa.com/players?offset=14820
+[2022-07-08 14:24:47,870] INFO Page164 scraped
+[2022-07-08 14:24:56,918] INFO Done for url: https://sofifa.com/players?offset=5640
+[2022-07-08 14:24:56,918] INFO Page165 scraped
+[2022-07-08 14:24:59,204] INFO Done for url: https://sofifa.com/players?offset=12960
+[2022-07-08 14:24:59,205] INFO Page166 scraped
+[2022-07-08 14:25:02,305] INFO Done for url: https://sofifa.com/players?offset=5040
+[2022-07-08 14:25:02,305] INFO Page167 scraped
+[2022-07-08 14:25:05,693] INFO Done for url: https://sofifa.com/players?offset=17340
+[2022-07-08 14:25:05,693] INFO Page168 scraped
+[2022-07-08 14:25:15,333] INFO Done for url: https://sofifa.com/players?offset=16080
+[2022-07-08 14:25:15,333] INFO Page169 scraped
+[2022-07-08 14:25:19,808] INFO Done for url: https://sofifa.com/players?offset=15480
+[2022-07-08 14:25:19,808] INFO Page170 scraped
+[2022-07-08 14:25:20,747] INFO Done for url: https://sofifa.com/players?offset=1440
+[2022-07-08 14:25:20,782] INFO Page171 scraped
+[2022-07-08 14:25:20,948] INFO Done for url: https://sofifa.com/players?offset=2040
+[2022-07-08 14:25:20,948] INFO Page172 scraped
+[2022-07-08 14:25:21,874] INFO Done for url: https://sofifa.com/players?offset=6240
+[2022-07-08 14:25:21,884] INFO Page173 scraped
+[2022-07-08 14:25:24,687] INFO Done for url: https://sofifa.com/players?offset=11700
+[2022-07-08 14:25:24,689] INFO Page174 scraped
+[2022-07-08 14:25:27,856] INFO Done for url: https://sofifa.com/players?offset=13680
+[2022-07-08 14:25:27,856] INFO Page175 scraped
+[2022-07-08 14:25:28,508] INFO Done for url: https://sofifa.com/players?offset=16740
+[2022-07-08 14:25:28,508] INFO Page176 scraped
+[2022-07-08 14:25:30,365] INFO Done for url: https://sofifa.com/players?offset=8640
+[2022-07-08 14:25:30,368] INFO Page177 scraped
+[2022-07-08 14:25:35,487] INFO Done for url: https://sofifa.com/players?offset=17940
+[2022-07-08 14:25:35,487] INFO Page178 scraped
+[2022-07-08 14:25:37,698] INFO Done for url: https://sofifa.com/players?offset=3840
+[2022-07-08 14:25:37,698] INFO Page179 scraped
+[2022-07-08 14:25:42,875] INFO Done for url: https://sofifa.com/players?offset=12300
+[2022-07-08 14:25:42,875] INFO Page180 scraped
+[2022-07-08 14:25:45,140] INFO Done for url: https://sofifa.com/players?offset=9240
+[2022-07-08 14:25:45,140] INFO Page181 scraped
+[2022-07-08 14:25:49,947] INFO Done for url: https://sofifa.com/players?offset=840
+[2022-07-08 14:25:49,947] INFO Page182 scraped
+[2022-07-08 14:25:52,121] INFO Done for url: https://sofifa.com/players?offset=14220
+[2022-07-08 14:25:52,123] INFO Page183 scraped
+[2022-07-08 14:25:54,873] INFO Done for url: https://sofifa.com/players?offset=14880
+[2022-07-08 14:25:54,873] INFO Page184 scraped
+[2022-07-08 14:25:56,696] INFO Done for url: https://sofifa.com/players?offset=8040
+[2022-07-08 14:25:56,697] INFO Page185 scraped
+[2022-07-08 14:25:58,897] INFO Done for url: https://sofifa.com/players?offset=2640
+[2022-07-08 14:25:58,897] INFO Page186 scraped
+[2022-07-08 14:25:59,209] INFO Done for url: https://sofifa.com/players?offset=3240
+[2022-07-08 14:25:59,209] INFO Page187 scraped
+[2022-07-08 14:26:00,019] INFO Done for url: https://sofifa.com/players?offset=13020
+[2022-07-08 14:26:00,019] INFO Page188 scraped
+[2022-07-08 14:26:00,843] INFO Done for url: https://sofifa.com/players?offset=4440
+[2022-07-08 14:26:00,843] INFO Page189 scraped
+[2022-07-08 14:26:04,057] INFO Done for url: https://sofifa.com/players?offset=15540
+[2022-07-08 14:26:04,057] INFO Page190 scraped
+[2022-07-08 14:26:04,557] INFO Done for url: https://sofifa.com/players?offset=240
+[2022-07-08 14:26:04,557] INFO Page191 scraped
+[2022-07-08 14:26:05,423] INFO Done for url: https://sofifa.com/players?offset=10440
+[2022-07-08 14:26:05,423] INFO Page192 scraped
+[2022-07-08 14:26:13,434] INFO Done for url: https://sofifa.com/players?offset=11100
+[2022-07-08 14:26:13,434] INFO Page193 scraped
+[2022-07-08 14:26:13,576] INFO Done for url: https://sofifa.com/players?offset=9840
+[2022-07-08 14:26:13,576] INFO Page194 scraped
+[2022-07-08 14:26:14,321] INFO Done for url: https://sofifa.com/players?offset=16140
+[2022-07-08 14:26:14,321] INFO Page195 scraped
+[2022-07-08 14:26:18,859] INFO Done for url: https://sofifa.com/players?offset=6900
+[2022-07-08 14:26:18,859] INFO Page196 scraped
+[2022-07-08 14:26:24,510] INFO Done for url: https://sofifa.com/players?offset=5700
+[2022-07-08 14:26:24,510] INFO Page197 scraped
+[2022-07-08 14:26:24,617] INFO Done for url: https://sofifa.com/players?offset=7680
+[2022-07-08 14:26:24,617] INFO Page198 scraped
+[2022-07-08 14:26:26,617] INFO Done for url: https://sofifa.com/players?offset=13740
+[2022-07-08 14:26:26,617] INFO Page199 scraped
+[2022-07-08 14:26:28,181] INFO Done for url: https://sofifa.com/players?offset=12360
+[2022-07-08 14:26:28,181] INFO Page200 scraped
+[2022-07-08 14:26:29,862] INFO Done for url: https://sofifa.com/players?offset=2100
+[2022-07-08 14:26:29,862] INFO Page201 scraped
+[2022-07-08 14:26:32,314] INFO Done for url: https://sofifa.com/players?offset=5100
+[2022-07-08 14:26:32,314] INFO Page202 scraped
+[2022-07-08 14:26:40,351] INFO Done for url: https://sofifa.com/players?offset=11760
+[2022-07-08 14:26:40,351] INFO Page203 scraped
+[2022-07-08 14:26:45,215] INFO Done for url: https://sofifa.com/players?offset=6300
+[2022-07-08 14:26:45,215] INFO Page204 scraped
+[2022-07-08 14:26:46,310] INFO Done for url: https://sofifa.com/players?offset=14280
+[2022-07-08 14:26:46,310] INFO Page205 scraped
+[2022-07-08 14:26:49,968] INFO Done for url: https://sofifa.com/players?offset=13080
+[2022-07-08 14:26:49,968] INFO Page206 scraped
+[2022-07-08 14:26:54,506] INFO Done for url: https://sofifa.com/players?offset=1500
+[2022-07-08 14:26:54,506] INFO Page207 scraped
+[2022-07-08 14:27:01,555] INFO Done for url: https://sofifa.com/players?offset=14940
+[2022-07-08 14:27:01,555] INFO Page208 scraped
+[2022-07-08 14:27:02,990] INFO Done for url: https://sofifa.com/players?offset=8700
+[2022-07-08 14:27:02,990] INFO Page209 scraped
+[2022-07-08 14:27:06,553] INFO Done for url: https://sofifa.com/players?offset=3900
+[2022-07-08 14:27:06,553] INFO Page210 scraped
+[2022-07-08 14:27:14,919] INFO Done for url: https://sofifa.com/players?offset=12420
+[2022-07-08 14:27:14,919] INFO Page211 scraped
+[2022-07-08 14:27:16,602] INFO Done for url: https://sofifa.com/players?offset=9300
+[2022-07-08 14:27:16,602] INFO Page212 scraped
+[2022-07-08 14:27:22,161] INFO Done for url: https://sofifa.com/players?offset=900
+[2022-07-08 14:27:22,161] INFO Page213 scraped
+[2022-07-08 14:27:27,263] INFO Done for url: https://sofifa.com/players?offset=2700
+[2022-07-08 14:27:27,263] INFO Page214 scraped
+[2022-07-08 14:27:27,632] INFO Done for url: https://sofifa.com/players?offset=8100
+[2022-07-08 14:27:27,632] INFO Page215 scraped
+[2022-07-08 14:27:31,065] INFO Done for url: https://sofifa.com/players?offset=10500
+[2022-07-08 14:27:31,065] INFO Page216 scraped
+[2022-07-08 14:27:31,584] INFO Done for url: https://sofifa.com/players?offset=4500
+[2022-07-08 14:27:31,584] INFO Page217 scraped
+[2022-07-08 14:27:35,896] INFO Done for url: https://sofifa.com/players?offset=3300
+[2022-07-08 14:27:35,897] INFO Page218 scraped
+[2022-07-08 14:27:37,874] INFO Done for url: https://sofifa.com/players?offset=300
+[2022-07-08 14:27:37,874] INFO Page219 scraped
+[2022-07-08 14:27:38,037] INFO Done for url: https://sofifa.com/players?offset=6960
+[2022-07-08 14:27:38,038] INFO Page220 scraped
+[2022-07-08 14:27:38,157] INFO Done for url: https://sofifa.com/players?offset=14340
+[2022-07-08 14:27:38,157] INFO Page221 scraped
+[2022-07-08 14:27:38,947] INFO Done for url: https://sofifa.com/players?offset=13140
+[2022-07-08 14:27:38,947] INFO Page222 scraped
+[2022-07-08 14:27:41,109] INFO Done for url: https://sofifa.com/players?offset=11160
+[2022-07-08 14:27:41,109] INFO Page223 scraped
+[2022-07-08 14:27:43,220] INFO Done for url: https://sofifa.com/players?offset=5760
+[2022-07-08 14:27:43,220] INFO Page224 scraped
+[2022-07-08 14:27:43,640] INFO Done for url: https://sofifa.com/players?offset=9900
+[2022-07-08 14:27:43,641] INFO Page225 scraped
+[2022-07-08 14:27:50,018] INFO Done for url: https://sofifa.com/players?offset=11820
+[2022-07-08 14:27:50,018] INFO Page226 scraped
+[2022-07-08 14:27:53,017] INFO Done for url: https://sofifa.com/players?offset=7740
+[2022-07-08 14:27:53,034] INFO Page227 scraped
+[2022-07-08 14:27:53,523] INFO Done for url: https://sofifa.com/players?offset=6360
+[2022-07-08 14:27:53,523] INFO Page228 scraped
+[2022-07-08 14:27:54,064] INFO Done for url: https://sofifa.com/players?offset=5160
+[2022-07-08 14:27:54,064] INFO Page229 scraped
+[2022-07-08 14:27:55,069] INFO Done for url: https://sofifa.com/players?offset=2160
+[2022-07-08 14:27:55,069] INFO Page230 scraped
+[2022-07-08 14:28:02,552] INFO Done for url: https://sofifa.com/players?offset=12480
+[2022-07-08 14:28:02,552] INFO Page231 scraped
+[2022-07-08 14:28:15,621] INFO Done for url: https://sofifa.com/players?offset=1560
+[2022-07-08 14:28:15,684] INFO Page232 scraped
+[2022-07-08 14:28:20,956] INFO Done for url: https://sofifa.com/players?offset=3960
+[2022-07-08 14:28:20,956] INFO Page233 scraped
+[2022-07-08 14:28:21,729] INFO Done for url: https://sofifa.com/players?offset=8760
+[2022-07-08 14:28:21,730] INFO Page234 scraped
+[2022-07-08 14:28:34,004] INFO Done for url: https://sofifa.com/players?offset=2760
+[2022-07-08 14:28:34,004] INFO Page235 scraped
+[2022-07-08 14:28:36,906] INFO Done for url: https://sofifa.com/players?offset=9360
+[2022-07-08 14:28:36,906] INFO Page236 scraped
+[2022-07-08 14:28:40,322] INFO Done for url: https://sofifa.com/players?offset=960
+[2022-07-08 14:28:40,322] INFO Page237 scraped
+[2022-07-08 14:28:46,197] INFO Done for url: https://sofifa.com/players?offset=7020
+[2022-07-08 14:28:46,197] INFO Page238 scraped
+[2022-07-08 14:28:48,706] INFO Done for url: https://sofifa.com/players?offset=4560
+[2022-07-08 14:28:48,706] INFO Page239 scraped
+[2022-07-08 14:28:50,293] INFO Done for url: https://sofifa.com/players?offset=10560
+[2022-07-08 14:28:50,293] INFO Page240 scraped
+[2022-07-08 14:28:50,361] INFO Done for url: https://sofifa.com/players?offset=11880
+[2022-07-08 14:28:50,361] INFO Page241 scraped
+[2022-07-08 14:28:51,822] INFO Done for url: https://sofifa.com/players?offset=8160
+[2022-07-08 14:28:51,828] INFO Page242 scraped
+[2022-07-08 14:28:51,946] INFO Done for url: https://sofifa.com/players?offset=5820
+[2022-07-08 14:28:51,946] INFO Page243 scraped
+[2022-07-08 14:28:54,005] INFO Done for url: https://sofifa.com/players?offset=3360
+[2022-07-08 14:28:54,005] INFO Page244 scraped
+[2022-07-08 14:28:55,336] INFO Done for url: https://sofifa.com/players?offset=11220
+[2022-07-08 14:28:55,336] INFO Page245 scraped
+[2022-07-08 14:28:56,605] INFO Done for url: https://sofifa.com/players?offset=360
+[2022-07-08 14:28:56,605] INFO Page246 scraped
+[2022-07-08 14:28:59,458] INFO Done for url: https://sofifa.com/players?offset=6420
+[2022-07-08 14:28:59,459] INFO Page247 scraped
+[2022-07-08 14:29:00,439] INFO Done for url: https://sofifa.com/players?offset=12540
+[2022-07-08 14:29:00,440] INFO Page248 scraped
+[2022-07-08 14:29:01,883] INFO Done for url: https://sofifa.com/players?offset=9960
+[2022-07-08 14:29:01,883] INFO Page249 scraped
+[2022-07-08 14:29:02,044] INFO Done for url: https://sofifa.com/players?offset=5220
+[2022-07-08 14:29:02,044] INFO Page250 scraped
+[2022-07-08 14:29:09,271] INFO Done for url: https://sofifa.com/players?offset=2220
+[2022-07-08 14:29:09,271] INFO Page251 scraped
+[2022-07-08 14:29:24,451] INFO Done for url: https://sofifa.com/players?offset=1620
+[2022-07-08 14:29:24,451] INFO Page252 scraped
+[2022-07-08 14:29:26,161] INFO Done for url: https://sofifa.com/players?offset=4020
+[2022-07-08 14:29:26,162] INFO Page253 scraped
+[2022-07-08 14:29:34,512] INFO Done for url: https://sofifa.com/players?offset=8820
+[2022-07-08 14:29:34,512] INFO Page254 scraped
+[2022-07-08 14:29:39,117] INFO Done for url: https://sofifa.com/players?offset=2820
+[2022-07-08 14:29:39,117] INFO Page255 scraped
+[2022-07-08 14:29:45,278] INFO Done for url: https://sofifa.com/players?offset=7080
+[2022-07-08 14:29:45,278] INFO Page256 scraped
+[2022-07-08 14:29:51,218] INFO Done for url: https://sofifa.com/players?offset=9420
+[2022-07-08 14:29:51,218] INFO Page257 scraped
+[2022-07-08 14:29:51,816] INFO Done for url: https://sofifa.com/players?offset=11940
+[2022-07-08 14:29:51,816] INFO Page258 scraped
+[2022-07-08 14:29:55,226] INFO Done for url: https://sofifa.com/players?offset=1020
+[2022-07-08 14:29:55,226] INFO Page259 scraped
+[2022-07-08 14:29:55,864] INFO Done for url: https://sofifa.com/players?offset=11280
+[2022-07-08 14:29:55,865] INFO Page260 scraped
+[2022-07-08 14:29:55,942] INFO Done for url: https://sofifa.com/players?offset=5880
+[2022-07-08 14:29:55,943] INFO Page261 scraped
+[2022-07-08 14:30:00,744] INFO Done for url: https://sofifa.com/players?offset=3420
+[2022-07-08 14:30:00,744] INFO Page262 scraped
+[2022-07-08 14:30:00,839] INFO Done for url: https://sofifa.com/players?offset=6480
+[2022-07-08 14:30:00,839] INFO Page263 scraped
+[2022-07-08 14:30:02,732] INFO Done for url: https://sofifa.com/players?offset=4620
+[2022-07-08 14:30:02,732] INFO Page264 scraped
+[2022-07-08 14:30:03,655] INFO Done for url: https://sofifa.com/players?offset=8220
+[2022-07-08 14:30:03,655] INFO Page265 scraped
+[2022-07-08 14:30:04,881] INFO Done for url: https://sofifa.com/players?offset=10620
+[2022-07-08 14:30:04,881] INFO Page266 scraped
+[2022-07-08 14:30:08,485] INFO Done for url: https://sofifa.com/players?offset=5280
+[2022-07-08 14:30:08,485] INFO Page267 scraped
+[2022-07-08 14:30:11,409] INFO Done for url: https://sofifa.com/players?offset=420
+[2022-07-08 14:30:11,409] INFO Page268 scraped
+[2022-07-08 14:30:14,765] INFO Done for url: https://sofifa.com/players?offset=10020
+[2022-07-08 14:30:14,766] INFO Page269 scraped
+[2022-07-08 14:30:20,132] INFO Done for url: https://sofifa.com/players?offset=2280
+[2022-07-08 14:30:20,132] INFO Page270 scraped
+[2022-07-08 14:30:23,277] INFO Done for url: https://sofifa.com/players?offset=1680
+[2022-07-08 14:30:23,277] INFO Page271 scraped
+[2022-07-08 14:30:25,319] INFO Done for url: https://sofifa.com/players?offset=4080
+[2022-07-08 14:30:25,320] INFO Page272 scraped
+[2022-07-08 14:30:36,958] INFO Done for url: https://sofifa.com/players?offset=7140
+[2022-07-08 14:30:36,958] INFO Page273 scraped
+[2022-07-08 14:30:42,989] INFO Done for url: https://sofifa.com/players?offset=8880
+[2022-07-08 14:30:42,989] INFO Page274 scraped
+[2022-07-08 14:30:47,332] INFO Done for url: https://sofifa.com/players?offset=2880
+[2022-07-08 14:30:47,332] INFO Page275 scraped
+[2022-07-08 14:30:53,724] INFO Done for url: https://sofifa.com/players?offset=11340
+[2022-07-08 14:30:53,724] INFO Page276 scraped
+[2022-07-08 14:30:56,954] INFO Done for url: https://sofifa.com/players?offset=5940
+[2022-07-08 14:30:56,954] INFO Page277 scraped
+[2022-07-08 14:30:58,321] INFO Done for url: https://sofifa.com/players?offset=9480
+[2022-07-08 14:30:58,330] INFO Page278 scraped
+[2022-07-08 14:30:59,427] INFO Done for url: https://sofifa.com/players?offset=6540
+[2022-07-08 14:30:59,427] INFO Page279 scraped
+[2022-07-08 14:31:00,730] INFO Done for url: https://sofifa.com/players?offset=4140
+[2022-07-08 14:31:00,730] INFO Page280 scraped
+[2022-07-08 14:31:02,870] INFO Done for url: https://sofifa.com/players?offset=1080
+[2022-07-08 14:31:02,870] INFO Page281 scraped
+[2022-07-08 14:31:05,342] INFO Done for url: https://sofifa.com/players?offset=5340
+[2022-07-08 14:31:05,342] INFO Page282 scraped
+[2022-07-08 14:31:05,787] INFO Done for url: https://sofifa.com/players?offset=3480
+[2022-07-08 14:31:05,787] INFO Page283 scraped
+[2022-07-08 14:31:05,975] INFO Done for url: https://sofifa.com/players?offset=4680
+[2022-07-08 14:31:05,975] INFO Page284 scraped
+[2022-07-08 14:31:08,334] INFO Done for url: https://sofifa.com/players?offset=10680
+[2022-07-08 14:31:08,345] INFO Page285 scraped
+[2022-07-08 14:31:08,428] INFO Done for url: https://sofifa.com/players?offset=8280
+[2022-07-08 14:31:08,429] INFO Page286 scraped
+[2022-07-08 14:31:11,922] INFO Done for url: https://sofifa.com/players?offset=480
+[2022-07-08 14:31:11,922] INFO Page287 scraped
+[2022-07-08 14:31:15,775] INFO Done for url: https://sofifa.com/players?offset=10080
+[2022-07-08 14:31:15,776] INFO Page288 scraped
+[2022-07-08 14:31:19,353] INFO Done for url: https://sofifa.com/players?offset=1740
+[2022-07-08 14:31:19,354] INFO Page289 scraped
+[2022-07-08 14:31:21,789] INFO Done for url: https://sofifa.com/players?offset=2340
+[2022-07-08 14:31:21,789] INFO Page290 scraped
+[2022-07-08 14:31:30,371] INFO Done for url: https://sofifa.com/players?offset=8940
+[2022-07-08 14:31:30,371] INFO Page291 scraped
+[2022-07-08 14:31:34,488] INFO Done for url: https://sofifa.com/players?offset=2940
+[2022-07-08 14:31:34,488] INFO Page292 scraped
+[2022-07-08 14:31:38,342] INFO Done for url: https://sofifa.com/players?offset=9540
+[2022-07-08 14:31:38,342] INFO Page293 scraped
+[2022-07-08 14:31:40,324] INFO Done for url: https://sofifa.com/players?offset=1140
+[2022-07-08 14:31:40,324] INFO Page294 scraped
+[2022-07-08 14:31:42,113] INFO Done for url: https://sofifa.com/players?offset=3540
+[2022-07-08 14:31:42,113] INFO Page295 scraped
+[2022-07-08 14:31:42,919] INFO Done for url: https://sofifa.com/players?offset=10740
+[2022-07-08 14:31:42,919] INFO Page296 scraped
+[2022-07-08 14:31:43,098] INFO Done for url: https://sofifa.com/players?offset=4740
+[2022-07-08 14:31:43,098] INFO Page297 scraped
+[2022-07-08 14:31:43,896] INFO Done for url: https://sofifa.com/players?offset=8340
+[2022-07-08 14:31:43,896] INFO Page298 scraped
+[2022-07-08 14:31:45,834] INFO Done for url: https://sofifa.com/players?offset=540
+[2022-07-08 14:31:45,834] INFO Page299 scraped
+[2022-07-08 14:31:46,961] INFO Done for url: https://sofifa.com/players?offset=10140
+[2022-07-08 14:31:46,961] INFO Page300 scraped
+[2022-07-08 14:31:46,962] INFO Scraping surface finished.
+[2022-07-08 14:31:46,962] INFO Generating surface CSV file...
+[2022-07-08 14:31:46,962] INFO Generating json and uploading to dynamo database...
+[2022-07-08 15:07:25,537] INFO CSV file is generated
+[2022-07-08 15:07:25,538] INFO json file is generated
+[2022-07-08 15:07:25,538] INFO Total time to scrap and save was: 2138.5762507915497 s
