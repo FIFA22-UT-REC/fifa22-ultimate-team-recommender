@@ -8,7 +8,9 @@ from scraper.extract_info import extract_info
 
 class Scraper(object):
     """
-    Pull player info down from web
+    
+    Abstract Scraper that contains method to pull player info down from 
+    open source web site
     """
     
     # fix this later, using property instead
@@ -22,6 +24,15 @@ class Scraper(object):
 
     # request to get the url
     def get_page(self, url):
+        """
+        Methods that sends request to the url, if status code is 200, then its content 
+        is parsed with BeautifulSoup with html.parser engine.
+        
+        Args:
+
+        url: a page that containts 60 records of players
+        
+        """
         response = requests.get(url)
 
         if response.status_code:
@@ -33,6 +44,13 @@ class Scraper(object):
 
     # helper method to get players
     def get_players(self, trs):
+        """
+            Method that try for html tags parsed from beautiful soup and scrape data from each individual player
+            with key-value pairs stored in array.
+        
+        Args:
+        trs: html tags of each individual player
+        """
         out = []
         for tr in trs:
             try:

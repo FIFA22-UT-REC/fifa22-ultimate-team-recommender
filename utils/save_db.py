@@ -2,7 +2,7 @@ import boto3
 from utils.load_items import load_items
 
 
-def save_db(players, tbname):
+def save_db(players, tbname, save):
     # connects to the database as client
     dynamodb_cli = boto3.client("dynamodb", region_name="us-west-2")
     # get names of all tables on AWS cloud

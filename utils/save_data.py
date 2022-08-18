@@ -4,7 +4,7 @@ from utils.pipeline import pipeline
 from utils.save_db import save_db
 
 
-def save_data(data):
+def save_data(data, save):
     """
     Save the data scraped to a .csv file
     :param data:
@@ -32,7 +32,8 @@ def save_data(data):
     json_dict = df.to_dict("records")
     with open(fullname_json, 'w') as fj:
         json.dump(json_dict, fj)
-
-    save_db(json_dict, tb_name)
+    if save:
+        save_db(json_dict, tb_name, save=save)
+    return
 
 
